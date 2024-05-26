@@ -1,0 +1,274 @@
+<po>
+	<message msgid="man Disabled" msgstr="Disabled" />
+	<message msgid="man Enabled" msgstr="Enabled" />
+	<message msgid="man Button Apply Changes" msgstr="Apply" />
+	<message msgid="man Button Reset" msgstr="Cancel" />
+	<message msgid="man Button Refresh" msgstr="Refresh" />
+	<message msgid="man Button Clear" msgstr="Clear" />
+	<message msgid="man Select All" msgstr="Select All" />
+	<message msgid="man Button Upgrade" msgstr="Upgrade" />
+	<message msgid="man Button Save Settings" msgstr="Save Settings" />
+	<message msgid="man Button Upload Settings" msgstr="Upload Settings" />
+	<message msgid="man Button Reset Settings" msgstr="Reset Settings" />
+	<message msgid="man Button System Reboot" msgstr="System Reboot" />
+	<message msgid="man title" msgstr="System Management" />
+	<message msgid="man introduction" msgstr="You may configure administrator account and password,NTP settings, and Dynamic DNS settings here." />
+	<message msgid="man language setting" msgstr="Language Settings" />
+	<message msgid="man select language" msgstr="Select Language" />
+	<message msgid="man admin setting" msgstr="Adminstrator Settings" />
+	<message msgid="man admin account" msgstr="Account" />
+	<message msgid="man admin passwd" msgstr="Password" />
+	<message msgid="man ntp setting" msgstr="NTP Settings" />
+	<message msgid="man ntp timezone" msgstr="Time Zone:" />
+	<message msgid="man Time Zone Setting Title" msgstr="Time Zone Setting" />
+	<message msgid="system_tool_title" msgstr="System Ping Tool" />
+	<message msgid="system_tool_PingHost" msgstr="Host IP/Domain" />
+	<message msgid="system_tool_PingCountName" msgstr="Ping Count" />
+	<message msgid="system_tool_PingLengthName" msgstr="ping Size(Bytes)" />
+	<message msgid="system_tool_pinghost_null" msgstr="Please input IP or Domain" />  
+    <message msgid="system_tool_res_title" msgstr="Implementation results" />	
+	<message msgid="man NTP Note0" msgstr="You can maintain the system time by synchronizing with a public time server over the Internet." />
+	<message msgid="man NTP Current Time" msgstr="Current Time" />
+	<message msgid="man NTP Yr" msgstr="Yr" />
+	<message msgid="man NTP Mon" msgstr="Mon" />
+	<message msgid="man NTP Day" msgstr="Day" />
+	<message msgid="man NTP Hr" msgstr="Hr" />
+	<message msgid="man NTP Mn" msgstr="Mn" />
+	<message msgid="man NTP Sec" msgstr="Sec" />
+	<message msgid="man NTP Button Sync with host" msgstr="Sync with host" />
+	<message msgid="man NTP Time Zone Select" msgstr="Time Zone Select" />
+	<message msgid="man NTP Enable NTP client update" msgstr="Enable NTP client update" />
+	<message msgid="man NTP Automatically Adjust Daylight Saving" msgstr="Automatically Adjust Daylight Saving" />
+	<message msgid="man NTP Server" msgstr="NTP Server" />
+	<message msgid="man NTP Manual IP Setting" msgstr="Manual IP Setting" />
+	<message msgid="man NTP Reboot Time Show" msgstr="When device running at" />
+  	<message msgid="man NTP Reboot Time Hours" msgstr="Automatic reboot" />
+	<message msgid="errMsg Invalid NTP Server IP address" msgstr="Invalid NTP Server IP address" />
+	<message msgid="errMsg Invalid NTP Server can not be empty" msgstr="NTP Server can not be empty" />
+	<message msgid="man ntp Eniwetok" msgstr="(GMT-12:00)Eniwetok, Kwajalein" />
+	<message msgid="man ntp Midway Island" msgstr="(GMT-11:00)Midway Island, Samoa" />
+	<message msgid="man ntp Hawaii" msgstr="(GMT-10:00)Hawaii" />
+	<message msgid="man ntp Alaska" msgstr="(GMT-09:00)Alaska" />
+	<message msgid="man ntp Pacific Time" msgstr="(GMT-08:00)Pacific Time (US,Canada); Tijuana" />
+	<message msgid="man ntp Arizona" msgstr="(GMT-07:00)Arizona" />
+	<message msgid="man ntp Mountain Time" msgstr="(GMT-07:00)Mountain Time (US,Canada)" />
+	<message msgid="man ntp Central Time" msgstr="(GMT-06:00)Central Time (US,Canada)" />
+	<message msgid="man ntp Mexico City" msgstr="(GMT-06:00)Mexico City, Tegucigalpa" />
+	<message msgid="man ntp Saskatchewan" msgstr="(GMT-06:00)Saskatchewan" />
+	<message msgid="man ntp Bogota" msgstr="(GMT-05:00)Bogota, Lima, Quito" />
+	<message msgid="man ntp Eastern Time" msgstr="(GMT-05:00)New York,Eastern Time (US,Canada)" />
+	<message msgid="man ntp Indiana" msgstr="(GMT-05:00)Indiana (East)" />
+	<message msgid="man ntp Atlantic Time" msgstr="(GMT-04:00)Atlantic Time (Canada)" />
+	<message msgid="man ntp Caracas" msgstr="(GMT-04:00)Caracas, La Paz" />
+	<message msgid="man ntp Santiago" msgstr="(GMT-04:00)Santiago" />
+	<message msgid="man ntp Newfoundland" msgstr="(GMT-03:30)Newfoundland" />
+	<message msgid="man ntp Brasilia" msgstr="(GMT-03:00)Brasilia" />
+	<message msgid="man ntp Buenos Aires" msgstr="(GMT-03:00)Buenos Aires, Georgetown" />
+	<message msgid="man ntp Mid-Atlantic" msgstr="(GMT-02:00)Mid-Atlantic" />
+	<message msgid="man ntp Azores" msgstr="(GMT-01:00)Azores, Cape Verde Is." />
+	<message msgid="man ntp Casablanca" msgstr="(GMT)Casablanca, Monrovia" />
+	<message msgid="man ntp Greenwich Mean Time" msgstr="(GMT)Greenwich Mean Time: Dublin,Edinburgh, Lisbon, London" />
+	<message msgid="man ntp Amsterdam" msgstr="(GMT+01:00)Amsterdam, Berlin, Bern, Rome,Stockholm, Vienna" />
+	<message msgid="man ntp Belgrade" msgstr="(GMT+01:00)Belgrade, Bratislava, Budapest,Ljubljana, Prague" />
+	<message msgid="man ntp Barcelona" msgstr="(GMT+01:00)Barcelona, Madrid" />;
+	<message msgid="man ntp Brussels" msgstr="(GMT+01:00)Brussels, Copenhagen,Madrid,Paris,Vilnius" />
+	<message msgid="man ntp Paris" msgstr="(GMT+01:00)Paris" />
+	<message msgid="man ntp Sarajevo" msgstr="(GMT+01:00)Sarajevo, Skopje, Sofija, Warsaw, Zagreb" />
+	<message msgid="man ntp Athens" msgstr="(GMT+02:00)Athens, Istanbul, Minsk" />
+	<message msgid="man ntp Bucharest" msgstr="(GMT+02:00)Bucharest" />
+	<message msgid="man ntp Cairo" msgstr="(GMT+02:00)Cairo" />
+	<message msgid="man ntp Harare" msgstr="(GMT+02:00)Harare, Pretoria" />
+	<message msgid="man ntp Helsinki" msgstr="(GMT+02:00)Helsinki, Kyiv, Riga, Sofia,  Tallinn, Vilnius" />
+	<message msgid="man ntp Jerusalem" msgstr="(GMT+02:00)Jerusalem" />;                 
+	<message msgid="man ntp Baghdad" msgstr="(GMT+03:00)Baghdad, Kuwait, Riyadh" />;
+	<message msgid="man ntp Moscow" msgstr="(GMT+03:00)Moscow, St. Petersburg, Volgograd" />
+	<message msgid="man ntp Mairobi" msgstr="(GMT+03:00)Mairobi" />
+	<message msgid="man ntp Tehran" msgstr="(GMT+03:30)Tehran" />
+	<message msgid="man ntp Abu Dhabi" msgstr="(GMT+04:00)United Arab Emirates Dubai, Muscat" />
+	<message msgid="man ntp Baku" msgstr="(GMT+04:00)Baku, Tbilisi" />
+	<message msgid="man ntp Kabul" msgstr="(GMT+04:30)Kabul" />
+	<message msgid="man ntp Ekaterinburg" msgstr="(GMT+05:00)Ekaterinburg" />
+	<message msgid="man ntp Islamabad" msgstr="(GMT+05:00)Islamabad, Karachi, Tashkent" />
+	<message msgid="man ntp Bombay" msgstr="(GMT+05:30)Bombay, Calcutta, Madras, New Delhi" />
+	<message msgid="man ntp Astana" msgstr="(GMT+06:00)Astana, Almaty, Dhaka" />
+	<message msgid="man ntp Colombo" msgstr="(GMT+06:00)Colombo" />
+	<message msgid="man ntp Bangkok" msgstr="(GMT+07:00)Bangkok, Hanoi, Jakarta" />
+	<message msgid="man ntp Beijing" msgstr="(GMT+08:00)Beijing, Chongqing, Hong Kong, Urumqi" />
+	<message msgid="man ntp Perth" msgstr="(GMT+08:00)Perth" />
+	<message msgid="man ntp Singapore" msgstr="(GMT+08:00)Singapore" />
+	<message msgid="man ntp Taipei" msgstr="(GMT+08:00)Taipei" />
+	<message msgid="man ntp Osaka" msgstr="(GMT+09:00)Osaka, Sapporo, Tokyo" />
+	<message msgid="man ntp Seoul" msgstr="(GMT+09:00)Seoul" />
+	<message msgid="man ntp Yakutsk" msgstr="(GMT+09:00)Yakutsk" />
+	<message msgid="man ntp Adelaide" msgstr="(GMT+09:30)Adelaide" />
+	<message msgid="man ntp Darwin" msgstr="(GMT+09:30)Darwin" />
+	<message msgid="man ntp Brisbane" msgstr="(GMT+10:00)Brisbane" />
+	<message msgid="man ntp Canberra" msgstr="(GMT+10:00)Canberra, Melbourne, Sydney" />
+	<message msgid="man ntp Guam" msgstr="(GMT+10:00)Guam, Port Moresby" />
+	<message msgid="man ntp Hobart" msgstr="(GMT+10:00)Hobart" />
+	<message msgid="man ntp Vladivostok" msgstr="(GMT+10:00)Vladivostok" />
+	<message msgid="man ntp Magadan" msgstr="(GMT+11:00)Magadan, Solomon Is., New Caledonia" />
+	<message msgid="man ntp Auckland" msgstr="(GMT+12:00)Auckland, Wllington" />
+	<message msgid="man ntp Fiji" msgstr="(GMT+12:00)Fiji, Kamchatka, Marshall Is." />
+	<message msgid="man DDNS Title" msgstr="DDNS Settings" />
+	<message msgid="man DDNS Note0" msgstr="Dynamic DNS is a service,that provides you with a valid, unchanging,internet domain name (an URL) to go with that (possibly ever-changing) IP-address." />
+	<message msgid="man DDNS Setting" msgstr="DDNS Setting" />
+	<message msgid="man DDNS Service Provider" msgstr="Service Provider" />
+	<message msgid="man DDNS Domain Name" msgstr="Domain Name" />
+	<message msgid="man DDNS none" msgstr="none" />
+	<message msgid="man DDNS User Name/Email" msgstr="User Name" />
+	<message msgid="man DDNS Password/Key" msgstr="Password/Key" />
+	<message msgid="man DDNS" msgstr="Dynamic DNS" />
+	<message msgid="man DDNS LOGOUT" msgstr="Logout" />
+	<message msgid="errMsg DDNS Domain Name can't be empty" msgstr="Domain Name can't be empty" />
+	<message msgid="errMsg DDNS User Name/Email can't be empty" msgstr="User Name can't be empty" />
+	<message msgid="errMsg DDNS Password/Key can't be empty" msgstr="Password can't be empty" />
+	<message msgid="man DDNS link status" msgstr="Link Status" />
+	<message msgid="man DDNS link status_0" msgstr="Connect server successfully" />
+	<message msgid="man DDNS link status_1" msgstr="Verification has passed" />
+	<message msgid="man DDNS link status_2" msgstr="Get to the domain name list" />
+	<message msgid="man DDNS link status_3" msgstr="Domain name registration success" />
+	<message msgid="man DDNS link status_4" msgstr="Ddns service success" />
+	<message msgid="man DDNS link status_5" msgstr="Connecting server......" />
+	<message msgid="man DDNS link status_6" msgstr="Connect server successfully" />
+	<message msgid="man DDNS link status_7" msgstr="Redirected to the server......" />
+	<message msgid="man DDNS link status_256" msgstr="Failed to connect to the server" />
+	<message msgid="man DDNS link status_258" msgstr="User name / password error" />
+	<message msgid="man DDNS link status_300" msgstr="Ddns service failure" />
+	<message msgid="man DDNS domain" msgstr="Domain" />
+	<message msgid="man DDNS wan ip" msgstr="Public IP" />
+	<message msgid="man DDNS user type" msgstr="User type" />
+	<message msgid="man DDNS user type_0" msgstr="Standard" />
+	<message msgid="man DDNS user type_1" msgstr="Professional" />
+	<message msgid="man DDNS user type_2" msgstr="Commercial" />
+	<message msgid="man DDNS user type_3" msgstr="Flagship" />	
+	<message msgid="man DDNS Tip 1" msgstr="No account?" />	
+	<message msgid="man DDNS Tip 2" msgstr="Registration" />	
+	<message msgid="man DDNS Tip 3" msgstr="Forget password" />		
+	<message msgid="man DDNS Tip 4" msgstr="Upgrade to professional services" />
+        <message msgid="man DDNS Tip 5" msgstr="Help" />
+	<message msgid="errMsg Invalid image" msgstr="Invalid image" />
+	<message msgid="DoS Title" msgstr="Denial of Service" />
+	<message msgid="DoS Note0" msgstr="A DoS(denial-of-service) attack is characterized by an 
+							explicit attempt by hackers to prevent legitimate users of 
+							a service from using that service." />
+
+	<message msgid="DoS Enable DoS Prevention" msgstr="Enable DoS Prevention" />
+	<message msgid="DoS Whole System Flood: SYN" msgstr="Whole System Flood: SYN" />
+	<message msgid="DoS Whole System Flood: FIN" msgstr="Whole System Flood: FIN" />
+	<message msgid="DoS Whole System Flood: UDP" msgstr="Whole System Flood: UDP" />
+	<message msgid="DoS Whole System Flood: ICMP" msgstr="Whole System Flood: ICMP" />
+	<message msgid="DoS Per-Source IP Flood: SYN" msgstr="Per-Source IP Flood: SYN" />
+	<message msgid="DoS Per-Source IP Flood: FIN" msgstr="Per-Source IP Flood: FIN" />
+	<message msgid="DoS Per-Source IP Flood: UDP" msgstr="Per-Source IP Flood: UDP" />
+	<message msgid="DoS Per-Source IP Flood: ICMP" msgstr="Per-Source IP Flood: ICMP" />
+	<message msgid="DoS Enable Source IP Blocking" msgstr="Enable Source IP Blocking" />
+	<message msgid="DoS TCP/UDP PortScan" msgstr="TCP/UDP PortScan" />
+	<message msgid="DoS ICMP Smurf" msgstr="ICMP Smurf " />
+	<message msgid="DoS IP Land" msgstr="IP Land" />
+	<message msgid="DoS IP Spoof" msgstr="IP Spoof" />
+	<message msgid="DoS IP TearDrop" msgstr="IP TearDrop" />
+	<message msgid="DoS PingOfDeath" msgstr="PingOfDeath" />
+	<message msgid="DoS TCP Scan" msgstr="TCP Scan" />
+	<message msgid="DoS TCP SynWithDate" msgstr="TCP SynWithDate" />
+	<message msgid="DoS UDP Bomb" msgstr="UDP Bomb" />
+	<message msgid="DoS UDP EchoChargen" msgstr="UDP EchoChargen" />
+
+	<message msgid="DoS Packets/Second" msgstr="Packets/Second" />
+	<message msgid="DoS Block time(sec)" msgstr="Block time(sec)" />
+	<message msgid="DoS Sensitivity" msgstr="Sensitivity" />
+
+	<message msgid="syslog Title" msgstr="System Log" />
+	<message msgid="syslog Note0" msgstr=" This page can be used to set remote log server and show the system log." />
+	<message msgid="syslog system log" msgstr="system log" />
+	<message msgid="syslog Log Level" msgstr="Log Level" />
+	<message msgid="syslog All Level" msgstr="All log" />  
+	<message msgid="syslog WLAN Level" msgstr="WLAN log" />  
+	<message msgid="syslog DoS Level" msgstr="DoS log" />  
+	<message msgid="syslog Remote Log Server" msgstr="Remote Log Server" />  
+	<message msgid="errMsg Invalid IP address" msgstr="Invalid IP address" />
+
+	<message msgid="Upgrade Title" msgstr="Upgrade Firmware" />
+	<message msgid="Upgrade Note0" msgstr="" />
+	<message msgid="Upgrade Firmware Version" msgstr="Firmware Version" />
+	<message msgid="Upgrade Build Time" msgstr="Build Time" />
+	<message msgid="Upgrade Select File" msgstr="Select File" />
+	<message msgid="Upgrade reset" msgstr="Whether to restore the default configuration" />
+
+	<message msgid="Upgrade Note" msgstr="Note" />
+	<message msgid="Upgrade Note1" msgstr="do not power off the device during the upload because it may crash the system!" />
+  <message msgid="Upgrade Select File msg" msgstr="Please choose image file" />
+
+	<message msgid="upload Title" msgstr="Save/Reload Settings" />
+	<message msgid="upload Note0" msgstr="This page allows you save current settings to a file or reload the 
+																		settings from the file which was saved previously. 
+																		Besides, you could reset the current configuration to factory default." />
+	<message msgid="upload Save Settings to File" msgstr="Save Settings to File" />
+	<message msgid="upload Load Settings from File" msgstr="Load Settings from File" />
+	<message msgid="upload Reset Settings to Default" msgstr="Reset Settings to Default" />
+	<message msgid="upload Reset Settings Msg" msgstr="Do you really want to reset the current settings to default?" />
+	<message msgid="upload Load Settings msg" msgstr="Select a backup configuration file" />
+    <message msgid="man Reboot msg" msgstr="Rebooting, please wait" />
+	<message msgid="man Please wait" msgstr="Please wait..." />
+    <message msgid="man ErrMsg restart system" msgstr="Do you want to restart the system?" />
+
+	<message msgid="Account Title" msgstr="Password Setup" />
+	<message msgid="Account Note0" msgstr="This page is used to set the account to access the web server of Access Point.
+																			Empty user name and password will disable the protection." />
+	<message msgid="Account User Name" msgstr="User Name" />
+	<message msgid="Account New Password" msgstr="New Password" />
+	<message msgid="Account Confirmed Password" msgstr="Confirmed Password" />
+	<message msgid="Account errMsg User name empty" msgstr="User account is empty." />
+	<message msgid="Account errMsg password not matched" msgstr="Password is not matched. 
+																			Please type the same password between new and confirmed box." />
+	<message msgid="Account errMsg Password empty" msgstr="Password cannot be empty. Please try it again." />
+	<message msgid="Account errMsg User name space" msgstr="Cannot accept space character in user name. Please try it again." />
+	<message msgid="Account errMsg Password space" msgstr="Cannot accept space character in password. Please try it again." />
+	
+	<message msgid="man TrafficStatistics Title" msgstr="Traffic Statistics" />
+	<message msgid="man Traffic Loading, please wait ..." msgstr="Loading, please wait ..." />
+	<message msgid="man Traffic Monitor" msgstr="Traffic Monitor" />
+	<message msgid="man Traffic Graphic IP" msgstr="Graphic by IP" />
+	<message msgid="man IP Address" msgstr="IP Address" />
+	<message msgid="man MAC Address" msgstr="MAC Address" />
+	<message msgid="man Upload" msgstr="Upload" />
+	<message msgid="man Download" msgstr="Download" />
+
+	<message msgid="man FTP" msgstr="File Transfer Protocol" />
+	<message msgid="man SSH" msgstr="SSH Remote Login Protocol" />
+	<message msgid="man Telnet" msgstr="Telnet" />
+	<message msgid="man SMTP" msgstr="Simple Mail Transfer Protocol" />
+	<message msgid="man DNS" msgstr="Domain Name System" />
+	<message msgid="man TFTP" msgstr="Trivial File Transfer Protocol" />
+	<message msgid="man HTTP" msgstr="WEB" />
+	<message msgid="man POP3" msgstr="Post Office Protocol version 3" />
+	<message msgid="man SNMP" msgstr="Simple Network Management Protocol" />
+	<message msgid="man HTTPS" msgstr="Security WEB" />
+	<message msgid="man CIFS" msgstr="Common Internet File System" />
+	<message msgid="man RADUIS" msgstr="RADUIS" />
+	<message msgid="man SIP" msgstr="Session Initiation Protocol" />
+	<message msgid="man ICMP" msgstr="ping" />
+	<message msgid="man Other" msgstr="Other" />
+	<message msgid="errMsg Traffic no work in Bridge" msgstr="This function does not work in Bridge Mode" />
+  <message msgid="system_cpu_title" msgstr="CPU Frequency:" />      
+  <message msgid="system_mem_total" msgstr="System Memory:" />   
+  <message msgid="system_mem_used" msgstr="System Used:" /> 
+  <message msgid="system_mem_free" msgstr="System Free:" />     
+  <message msgid="system_mem_usage" msgstr="Memory Usage:" /> 
+  <message msgid="system_cpu_usage" msgstr="CPU Usage:" />
+  <message msgid="dev_usb_not_find_tip" msgstr="Cannot find any usb device!" />
+  <message msgid="dev_usb_list_title" msgstr="Device List" />
+  <message msgid="dev_usb_usage" msgstr="Usage" />
+  <message msgid="dev_usb_size" msgstr="Size" />
+  <message msgid="dev_usb_path" msgstr="Device Name" />
+  <message msgid="dev_usb_available" msgstr="Available" />
+  <message msgid="dev_usb_used" msgstr="Used" />
+  <message msgid="dlna_name" msgstr="DLNA Server Name" />
+  <message msgid="dlna_name_error" msgstr="DLNA Server Name Error" />
+  <message msgid="samba_name" msgstr="Samba Server Name" />
+  <message msgid="samba_name_error" msgstr="Samba Server Name Error" />   
+  <message msgid="system_wlan_txpower_title" msgstr="TxPower Mode" /> 
+  <message msgid="wlan_txpower_JN" msgstr="Power saving Mode" /> 
+  <message msgid="wlan_txpower_BZ" msgstr="Standard Mode" /> 
+  <message msgid="wlan_txpower_CQ" msgstr="Super Mode" />          
+</po>

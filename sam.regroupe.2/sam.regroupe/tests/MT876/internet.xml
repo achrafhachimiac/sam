@@ -1,0 +1,132 @@
+﻿<po>
+<message msgid="Num_limit_1_223" msgstr="L'IP devrait entre 1 et 223" />
+<message msgid="Num_limit_1_254" msgstr="L'IP devrait entre 1 et 254" />
+<message msgid="Num_limit_0_255" msgstr="L'IP devrait entre 0 et 255" />
+<message msgid="lan_setting_title" msgstr="Paramètres LAN" />
+<message msgid="lan_setting_ipsetting" msgstr="Réglage IP LAN" />
+<message msgid="lan_setting_ipaddress" msgstr="Adresse IP" />
+<message msgid="lan_setting_subnet" msgstr="Masque de sous-réseau" />
+<message msgid="lan_setting_dhcp" msgstr="Configuration du serveur DHCP" />
+<message msgid="lan_setting_dhcpserver" msgstr="Serveur DHCP" />
+<message msgid="lan_ip_assgin" msgstr="Réglage IP" />
+<message msgid="lan_ip_ststic" msgstr="I.P statique" />
+<message msgid="lan_ip_dhcp" msgstr="DHCP" />
+<message msgid="lan_acip" msgstr="AC IP" />
+<message msgid="lan_enable" msgstr="Activer" />
+<message msgid="lan_disable" msgstr="Désactiver" />
+<message msgid="lan_filter_title" msgstr="Interdire le périphérique d'accès de l'AP" />
+<message msgid="lan_setting_dhcppool" msgstr="IP du client DHCP" />
+<message msgid="lan_setting_dhcplease" msgstr="Temps de location DHCP" />
+<message msgid="lan_setting_dhcprange" msgstr="Gamme: (300-864000) s" />
+<message msgid="lan_app_bt" msgstr="Appliquer" />
+<message msgid="lan_del_bt" msgstr="Effacer" />
+<message msgid="lan_add_bt" msgstr="Ajouter" />
+<message msgid="lan_refresh_bt" msgstr="Rafraîchir" />
+<message msgid="lan_close_bt" msgstr="Fermer" />
+<message msgid="lan_setting_staticdhcp" msgstr="DHCP statique" />
+<message msgid="lan_selectall" msgstr="Tout" />
+<message msgid="lan_dhcp_list" msgstr="Liste DHCP statique" />
+<message msgid="lan_connect_list" msgstr="Liste IP-MAC locale" />
+<message msgid="lan_dhcp_static_list" msgstr="Liste IP-MAC de liaison statique" />
+<message msgid="lan_dhcplist_max" msgstr="Nombre d'adresses MAC max: 64" />
+<message msgid="lan_select_item" msgstr="Sélectionnez un élément!" />
+<message msgid="lan_max_lease" msgstr="Nombre d'adresses MAC max: 64" />
+<message msgid="lan_error_ip" msgstr="Erreur IP" />
+<message msgid="lan_error_acip" msgstr="Erreur IP AC" />
+<message msgid="lan_error_ipnotblank" msgstr="L'IP est nulle!" />
+<message msgid="lan_error_ipnotnum" msgstr="IP doit être [0-9] numéro." />
+<message msgid="lan_error_subnet" msgstr="Erreur de masque de sous-réseau!" />
+<message msgid="lan_error_mac" msgstr="Erreur MAC!" />
+<message msgid="lan_error_iphadadd" msgstr="L'IP a été ajouté" />
+<message msgid="lan_error_machadadd" msgstr="Le MAC avait été ajouté" />
+<message msgid="lan_error_ip_not_in_samenet" msgstr="L'adresse IP LAN ajoutée doit être dans le même sous-réseau" />
+<message msgid="lan_changeip_reboot" msgstr="Changer l'adresse IP LAN du système va redémarrer, vous êtes sûr de continuer?" />
+<message msgid="lan_error_dhcp_pool_start" msgstr="Erreur de démarrage du pool d'adresses DHCP" />
+<message msgid="lan_error_dhcp_pool_end" msgstr="Erreur de fin de pool d'adresses DHCP" />
+<message msgid="lan_error_dhcp_pool" msgstr="Erreur de plage du pool d'adresses DHCP" />
+<message msgid="lan_error_dhcp_lease" msgstr="Le bail DHCP doit être un nombre entier" />
+<message msgid="lan_error_dhcp_range" msgstr="Entre le bail DHCP doit 300-864000" />
+<message msgid="lan_error_dhcp_pool_must_same_lanip" msgstr="Le pool d'adresses IP LAN DHCP doit être situé dans le même réseau" />
+<message msgid="lan_error_dhcp_pool_not_include_lanip" msgstr="Le pool d'adresses IP LAN DHCP ne peut pas contenir" />
+<message msgid="lan_dhcp_list" msgstr="Liste DHCP" />
+<message msgid="lan_dhcp_list_host" msgstr="Nom d'hôte" />
+<message msgid="lan_dhcp_list_ip" msgstr="Adresse IP" />
+<message msgid="lan_dhcp_list_mac" msgstr="MAC" />
+<message msgid="lan_dhcp_list_lease" msgstr="Bail" />
+<message msgid="wan_setting_title" msgstr="Réglage WAN" />
+<message msgid="wan_setmanual_dns" msgstr="Définir le DNS manuellement" />
+<message msgid="wan_set_dns1" msgstr="DNS primaire" />
+<message msgid="wan_set_dns2" msgstr="DNS secondaire" />
+<message msgid="wan_username" msgstr="Nom d'utilisateur" />
+<message msgid="wan_userpwd" msgstr="Mot de passe de l'utilisateur" />
+<message msgid="wan_type_dhcp" msgstr="IP dynamique" />
+<message msgid="wan_type_pppoe" msgstr="PPPOE (ADSL)" />
+<message msgid="wan_pppoe_idletime" msgstr="Temps d'inactivité" />
+<message msgid="wan_pppoe_idletime_show" msgstr="Les minutes se déconnecteront" />
+<message msgid="wan_pppoe_connect_continue" msgstr="Auto" />
+<message msgid="wan_pppoe_dail_type_title" msgstr="Dail Type" />
+<message msgid="wan_pppoe_dail_type_0" msgstr="Normal" />
+<message msgid="wan_pppoe_dail_type_1" msgstr="Voie spéciale 1" />
+<message msgid="wan_pppoe_dail_type_2" msgstr="Forme spéciale 2" />
+<message msgid="wan_pppoe_connect_manual" msgstr="Manuel" />
+<message msgid="wan_pppoe_lcp" msgstr="Paramètre LCP" />
+<message msgid="wan_pppoe_lcp_interval" msgstr="Intervalle" />
+<message msgid="wan_pppoe_servicename" msgstr="Nom du service" />
+<message msgid="wan_pppoe_servername" msgstr="Nom du serveur" />
+<message msgid="wan_pppoe_name_show" msgstr="Sinon, veuillez ne pas remplir" />
+<message msgid="wan_pppoe_lcp_interval_show" msgstr="s count" />
+<message msgid="wan_type_staticip" msgstr="I.P statique" />
+<message msgid="wan_static_ip" msgstr="Adresse IP" />
+<message msgid="wan_static_subnet" msgstr="Masque de sous-réseau" />
+<message msgid="wan_static_gw" msgstr="Passerelle par défaut" />
+<message msgid="wan_type_pptp" msgstr="PPTP" />
+<message msgid="wan_pptp_serverip" msgstr="IP du serveur" />
+<message msgid="wan_pptp_addrmode" msgstr="Type d'adresse" />
+<message msgid="wan_pptp_addrmode_static" msgstr="I.P statique" />
+<message msgid="wan_pptp_ipaddress" msgstr="Adresse IP" />
+<message msgid="wan_type_3g" msgstr="3G" />
+<message msgid="wan_3g_dialnumber" msgstr="Composer le numéro" />
+<message msgid="wan_3g_net_title" msgstr="Modèle de réseau 3G" />
+<message msgid="wan_3g_fail_reboot_title1" msgstr="Après le" />
+<message msgid="wan_3g_fail_reboot_title2" msgstr="la numérotation fois a échoué, redémarrez l'appareil" />
+<message msgid="wan_error_3g_fail_reboot" msgstr="La numérotation des temps a échoué doit être de [0-9]." />
+<message msgid="wan_3g_dialconnect" msgstr="Relier" />
+<message msgid="wan_3g_dialdisconnect" msgstr="Déconnecter" />
+<message msgid="wan_apclient_disable_3g" msgstr="Impossible d'activer le mode 3G, car le client ap est activé" />
+<message msgid="wan_mac_clone" msgstr="MAC Clone" />
+<message msgid="wan_scan_mac" msgstr="Scan MAC" />
+<message msgid="wan_upnp" msgstr="Activer uPNP" />
+<message msgid="wan_igmp" msgstr="Activer le proxy IGMP" />
+<message msgid="wan_enable_ping" msgstr="Activer l'accès au ping sur WAN" />
+<message msgid="wan_enable_web_mangage" msgstr="Activer l'accès au serveur Web sur le port WAN:" />
+<message msgid="wan_enable_web_mangage_port" msgstr="(Port Range 1-65535)" />
+<message msgid="wan_enable_ipsec" msgstr="Activer IPsec passer sur la connexion VPN" />
+<message msgid="wan_enable_pptp" msgstr="Activer PPTP passer à travers la connexion VPN" />
+<message msgid="wan_enable_l2tp" msgstr="Activer L2TP passer à travers la connexion VPN" />
+<message msgid="wan_error_input_dns1" msgstr="Veuillez saisir le DNS principal" />
+<message msgid="wan_error_input_username" msgstr="Veuillez saisir le nom d'utilisateur" />
+<message msgid="wan_error_username" msgstr="Nom d'utilisateur de caractère illégal" />
+<message msgid="wan_error_input_userpwd" msgstr="Veuillez entrer le mot de passe de l'utilisateur" />
+<message msgid="wan_error_userpwd" msgstr="Mot de passe de l'utilisateur du caractère illégal" />
+<message msgid="wan_error_lcpnotnum" msgstr="L'intervalle LCP doit être de [0 à 9] nombres" />
+<message msgid="wan_error_lcprange" msgstr="La plage d'intervalle LCP doit être (1-600)" />
+<message msgid="wan_error_lcpcountnotnum" msgstr="Le nombre de LCP doit être [0-9] numéro" />
+<message msgid="wan_error_lcpcountrange" msgstr="LCP doit compter la plage (1-500)" />
+<message msgid="wan_error_idlenotnum" msgstr="Le temps d'inactivité PPPOE doit être de [0 à 9] nombres" />
+<message msgid="wan_error_idlerange" msgstr="PPPOE gamme de temps libre à (1-600)" />
+<message msgid="wan_error_mtunotnum" msgstr="MTU doit être de [0 à 9] nombres." />
+<message msgid="wan_error_mturange" msgstr="L'étendue MTU doit (1000-1492)" />
+<message msgid="select_mac" msgstr="Sélectionnez MAC" />
+<message msgid="select_mac_address" msgstr="MAC" />
+<message msgid="select_mac_ip" msgstr="Adresse IP" />
+<message msgid="getucloud_title" msgstr="Paramètres du serveur Cloud" />
+<message msgid="system_heartbeat_url_title" msgstr="Cloud Heartbeat Server" />
+<message msgid="system_heartbeat_interval_title" msgstr="Intervalle de données sur le rythme cardiaque" />
+<message msgid="system_heartbeat_url_error" msgstr="Veuillez entrer l'URL du serveur Cloud" />
+<message msgid="system_heartbeat_interval_minutes" msgstr="Minutes" />
+<message msgid="system_shangjia_name_title" msgstr="Identifiant" />
+<message msgid="system_shangjia_contact_title" msgstr="Informations de contact" />
+     
+</po>
+
+

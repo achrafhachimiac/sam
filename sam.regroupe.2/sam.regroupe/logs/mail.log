@@ -1,0 +1,13 @@
+2017-10-10 21:22:04 u75269439 1JmfvL-1d6iTt3ps9-00viV9 |< REMOTE=185.77.248.8 SCRIPT=/envoie.php -- /usr/sbin/sendmail -t -i
+2017-10-10 21:22:04 u75269439 1JmfvL-1d6iTt3ps9-00viV9 WW invalid sender address: root@localhost
+2017-10-10 21:22:04 u75269439 1JmfvL-1d6iTt3ps9-00viV9 <= S=cgi-mailer-bounces-501534230@kundenserver.de SZ=2219 D=0 SID=501534230
+2017-10-10 21:22:04 u75269439 1JmfvL-1d6iTt3ps9-00viV9 => servicesdaccueilpourmeubles@gmail.com msmtp.kundenserver.de[172.19.35.7] 250 Requested mail action okay, completed: id=0LwVKN-1dCn1n3zCx-018NBR
+2017-10-11 21:31:02 u75269439 1KsaOH-1e9lEP0kh5-00ArKg |< REMOTE="2a01:e35:2f1b:1ae0:61c8:33bb:88d2:7e42" SCRIPT=/envoiecommande.php -- /usr/sbin/sendmail -t -i -fNOREPLY@sam-web.fr
+2017-10-11 21:31:02 u75269439 1KsaOH-1e9lEP0kh5-00ArKg <= S=NOREPLY@sam-web.fr SZ=3490 D=0 SID=501534230
+2017-10-11 21:31:02 u75269439 1KsaOH-1e9lEP0kh5-00ArKg => servicesdaccueilpourmeubles@gmail.com msmtp.kundenserver.de[172.19.35.7] 250 Requested mail action okay, completed: id=0LcJPu-1daQXw0xFO-00jpuu
+2017-10-11 21:31:02 u75269439 1KsaOH-1e9lEP0kh5-00ArKg => gandon23@free.fr msmtp.kundenserver.de[172.19.35.7] 250 Requested mail action okay, completed: id=0LcJPu-1daQXw0xFO-00jpuu
+2017-10-11 21:37:38 u75269439 1Kh0bD-1dzM1H2v53-003hAk |< REMOTE="2a01:e35:2f1b:1ae0:61c8:33bb:88d2:7e42" SCRIPT=/confirmation_de_sejour.php -- /usr/sbin/sendmail -t -i -fNOREPLY@sam-web.fr
+2017-10-11 21:37:38 u75269439 1Kh0bD-1dzM1H2v53-003hAk <= S=NOREPLY@sam-web.fr SZ=5242 D=0 SID=501534230
+2017-10-11 21:37:38 u75269439 1Kh0bD-1dzM1H2v53-003hAk => dominique.pajot7@orange.fr msmtp.kundenserver.de[172.19.35.7] 250 Requested mail action okay, completed: id=0MP3ch-1dwZnh364V-006QCr
+2017-10-11 21:37:38 u75269439 1Kh0bD-1dzM1H2v53-003hAk => gandon23@free.fr msmtp.kundenserver.de[172.19.35.7] 250 Requested mail action okay, completed: id=0MP3ch-1dwZnh364V-006QCr
+2017-10-11 21:37:38 u75269439 1Kh0bD-1dzM1H2v53-003hAk => servicesdaccueilpourmeubles@gmail.com msmtp.kundenserver.de[172.19.35.7] 250 Requested mail action okay, completed: id=0MP3ch-1dwZnh364V-006QCr

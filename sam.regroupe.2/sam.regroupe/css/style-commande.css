@@ -1,0 +1,107 @@
+/*
+	TXT by HTML5 UP
+	html5up.net | @n33co
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+*/
+
+/*********************************************************************************/
+/* Basic                                                                         */
+/*********************************************************************************/
+
+
+.div_cmd_1 /* tous sauf le bouton valider */
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.div_cmd_2
+{
+
+	width:900px;
+
+}
+
+.div_cmd_21 /* type presta et reception */
+{
+    display: flex;
+    justify-content: space-around;
+
+
+}
+
+.div_cmd_22 /* bloc de 4 image */
+{
+	width: 900px;
+	height: 700px;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.div_cmd_22_ligne
+{
+
+	display: flex;
+	justify-content: space-around;
+
+} 
+
+.div_cmd_22_case /* image + legende */
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    border: 3px solid #303030;
+    border-radius: 2px;
+    align-items: center;
+    height: 210px;
+    width: 220px;
+
+
+}
+
+.div_cmd_image
+{
+    background: #ff8f006e;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    border-bottom: 2px solid black;
+    justify-content: center;
+
+}
+
+.div_cmd_legend
+{
+	display: flex;
+	justify-content: center;
+}
+
+.div_cmd_22 input 
+{
+	height:25px !important;
+	width:70px !important;
+	margin-left: 15px !important;
+}
+
+.div_cmd_2 select 
+{
+	width: 300px !important;
+	height: 30px !important;
+
+}
+.div_cmd_2 label 
+{
+	padding-top: 2px !important;
+
+} 
+
+.div_cmd_prix
+{
+
+
+
+}

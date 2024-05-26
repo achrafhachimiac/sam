@@ -1,0 +1,119 @@
+﻿<po>
+ <message msgid="firewall_connect_contrl_title" msgstr="Contrôle de connexion" />
+<message msgid="firewall_connect_contrl_maxnum" msgstr="Connexions maximales" />
+<message msgid="firewall_connect_contrl_permaxnum" msgstr="Taux de connexion maximum par PC" />
+<message msgid="firewall_connect_contrl_permaxnum_show" msgstr="(0 ~ 100) 0 signifie non limité" />
+<message msgid="firewall_connect_contrl_show" msgstr="Attention: les options suivantes sont recommandées uniquement pour les utilisateurs avancés" />
+<message msgid="firewall_connect_contrl_timeout" msgstr="Timeout de contrôle de connexion" />
+<message msgid="firewall_bt_apply" msgstr="Appliquer" />
+<message msgid="firewall_bt_run" msgstr="Courir" />
+<message msgid="firewall_bt_default" msgstr="Reset par défaut" />
+<message msgid="firewall_bt_refresh" msgstr="Rafraîchir" />
+<message msgid="firewall_bt_clean" msgstr="Clair" />
+<message msgid="firewall_bt_del" msgstr="Effacer" />
+<message msgid="firewall_bt_add" msgstr="Ajouter" />
+<message msgid="firewall_bt_cancel" msgstr="Annuler" />
+<message msgid="firewall_bt_close" msgstr="Fermer" />
+<message msgid="firewall_bt_drop" msgstr="Laissez tomber" />
+<message msgid="firewall_bt_accept" msgstr="Acceptez" />
+<message msgid="firewall_bt_scanmac" msgstr="Scan MAC" />
+<message msgid="firewall_message_maxconnect" msgstr="Continuer?" />
+<message msgid="firewall_message_toosmall" msgstr="Le nombre de connexions ne peut être inférieur à 512." />
+<message msgid="firewall_message_error_per" msgstr="Taux d'erreur pour chaque ordinateur connecté" />
+<message msgid="firewall_message_info_clear" msgstr="Que ce soit pour effacer toutes les données statistiques?" />
+<message msgid="firewall_error_ip" msgstr="Erreur IP" />
+<message msgid="firewall_message_addruleapply" msgstr="Augmentez l'application d'une règle avant" />
+<message msgid="firewall_message_delete_rule" msgstr="Les règles seront supprimées, êtes-vous sûr de continuer de toute façon?" />
+<message msgid="firewall_message_select_rule" msgstr="Sélectionnez une règle" />
+<message msgid="firewall_connect_info_title" msgstr="Statistique de connexion" />
+<message msgid="firewall_connect_info_perip" msgstr="Statistiques pour chaque connexion IP" />
+<message msgid="firewall_connect_info_unkonw" msgstr="Inconnu" />
+<message msgid="firewall_connect_info_ip" msgstr="Adresse IP" />
+<message msgid="firewall_connect_info_tcp_tx" msgstr="Envoyer un paquet TCP" />
+<message msgid="firewall_connect_info_udp_tx" msgstr="Envoyer un paquet UDP" />
+<message msgid="firewall_connect_info_icmp_tx" msgstr="Envoyer un paquet ICMP" />
+<message msgid="firewall_connect_info_unkonw_tx" msgstr="Envoyer un paquet inconnu" />
+<message msgid="firewall_connect_info_tcp_rx" msgstr="Recevoir un paquet TCP" />
+<message msgid="firewall_connect_info_udp_rx" msgstr="Recevoir un paquet UDP" />
+<message msgid="firewall_connect_info_icmp_rx" msgstr="Recevoir un paquet ICMP" />
+<message msgid="firewall_connect_info_unkonw_rx" msgstr="Recevoir un paquet Inconnu" />
+<message msgid="firewall_dmz_title" msgstr="Réglage DMZ" />
+<message msgid="firewall_dmz_show" msgstr="(Ouvrez tous les ports pour permettre un accès externe)" />
+<message msgid="firewall_dmz_ip" msgstr="LAN IP" />
+<message msgid="firewall_dmz_hostipshow" msgstr="L'adresse IP de l'ordinateur connecté (" />
+<message msgid="firewall_mac_title" msgstr="Filtrage MAC" />
+<message msgid="firewall_mac_addr" msgstr="MAC" />
+<message msgid="firewall_mac_maxrule" msgstr="La règle maximale compte: 64" />
+<message msgid="firewall_mac_list" msgstr="Liste de filtrage MAC" />
+<message msgid="firewall_mac_desc" msgstr="marque" />
+<message msgid="firewall_portfw_title" msgstr="Port Forwarding" />
+<message msgid="firewall_portfw_rule_type" msgstr="Type de règle" />
+<message msgid="firewall_portfw_MapTypeManual" msgstr="Défini par l'utilisateur" />
+<message msgid="firewall_portfw_rule_name" msgstr="Nom de la règle" />
+<message msgid="firewall_portfw_ip" msgstr="Lan IP" />
+<message msgid="firewall_portfw_protocol" msgstr="Protocole" />
+<message msgid="firewall_portfw_externport" msgstr="Port externe" />
+<message msgid="firewall_portfw_portrange" msgstr="(Portée 1-65535)" />
+<message msgid="firewall_portfw_innerport" msgstr="Port interne" />
+<message msgid="firewall_portfw_maxnum" msgstr="La règle maximale compte: 64" />
+<message msgid="firewall_portfw_list_ip" msgstr="Forward IP" />
+<message msgid="firewall_portfw_list_protocol" msgstr="Protocole" />
+<message msgid="firewall_filter_max_add" msgstr="Ajouter au maximum le nombre de règles est de 64" />
+<message msgid="firewall_filter_error_srcip" msgstr="Erreur d'adresse IP source" />
+<message msgid="firewall_filter_error_srcport" msgstr="Erreur du port source" />
+<message msgid="firewall_filter_error_destport" msgstr="Erreur du port de destination" />
+<message msgid="firewall_filter_error_add" msgstr="Augmenter après l'application d'une ou de plusieurs règles" />
+<message msgid="firewall_filter_del_sure" msgstr="Êtes-vous sûr de supprimer?" />
+<message msgid="firewall_ipfilter_title" msgstr="IP / Port Filtering" />
+<message msgid="firewall_ipfilter_iprange" msgstr="Gamme IP" />
+<message msgid="firewall_ipfilter_maxnum" msgstr="La règle maximale compte: 64" />
+<message msgid="firewall_ipfilter_list" msgstr="Liste de filtrage IP / Port" />
+<message msgid="firewall_ipfilter_list_ip" msgstr="Gamme IP" />
+<message msgid="firewall_ipfilter_portrange" msgstr="Port Range" />
+<message msgid="firewall_statistic_del" msgstr="Êtes-vous sûr de supprimer" />
+<message msgid="firewall_statistic_del1" msgstr="Statistiques?" />
+<message msgid="firewall_urlfilter_error_blank" msgstr="L'URL est vide" />
+<message msgid="firewall_urlfilter_error_exist" msgstr="L'adresse URL existe déjà" />
+<message msgid="firewall_urlfilter_title" msgstr="Filtrage d'URL" />
+<message msgid="firewall_urlfilter_string" msgstr="URL" />
+<message msgid="firewall_urlfilter_list" msgstr="Liste de filtrage d'URL" />
+<message msgid="man DDNS Title" msgstr="Paramètres DDNS" />
+<message msgid="man DDNS Note0" msgstr="DNS dynamique est un service qui vous fournit un nom de domaine Internet valide, non changeant (une URL) pour accéder à cette adresse IP (éventuellement en constante évolution)." />
+<message msgid="man DDNS Setting" msgstr="Configuration DDNS" />
+<message msgid="man DDNS Service Provider" msgstr="Fournisseur de services" />
+<message msgid="man DDNS Domain Name" msgstr="Nom de domaine" />
+<message msgid="man DDNS none" msgstr="aucun" />
+<message msgid="man DDNS User Name/Email" msgstr="Nom d'utilisateur" />
+<message msgid="man DDNS Password/Key" msgstr="Mot de passe / clé" />
+<message msgid="man DDNS" msgstr="DNS dynamique" />
+<message msgid="errMsg DDNS Domain Name can't be empty" msgstr="Le nom de domaine ne peut pas être vide" />
+<message msgid="errMsg DDNS User Name/Email can't be empty" msgstr="Le nom d'utilisateur ne peut pas être vide" />
+<message msgid="errMsg DDNS Password/Key can't be empty" msgstr="Le mot de passe ne peut pas être vide" />
+<message msgid="man DDNS link status" msgstr="Statut du lien" />
+<message msgid="man DDNS link status_0" msgstr="Connectez-vous avec succès" />
+<message msgid="man DDNS link status_1" msgstr="La vérification s'est écoulée" />
+<message msgid="man DDNS link status_2" msgstr="Accédez à la liste des noms de domaine" />
+<message msgid="man DDNS link status_3" msgstr="Succès de l'enregistrement des noms de domaine" />
+<message msgid="man DDNS link status_4" msgstr="Succès du service Ddns" />
+<message msgid="man DDNS link status_5" msgstr="Serveur de connexion ......" />
+<message msgid="man DDNS link status_6" msgstr="Connectez-vous avec succès" />
+<message msgid="man DDNS link status_7" msgstr="Redirigé vers le serveur ......" />
+<message msgid="man DDNS link status_256" msgstr="Impossible de se connecter au serveur" />
+<message msgid="man DDNS link status_258" msgstr="Erreur de nom d'utilisateur / mot de passe" />
+<message msgid="man DDNS link status_300" msgstr="L'échec du service Ddns" />
+<message msgid="man DDNS domain" msgstr="Domaine" />
+<message msgid="man DDNS wan ip" msgstr="IP publique" />
+<message msgid="man DDNS user type" msgstr="Type d'utilisateur" />
+<message msgid="man DDNS user type_0" msgstr="la norme" />
+<message msgid="man DDNS user type_1" msgstr="Professionnel" />
+<message msgid="man DDNS user type_2" msgstr="Commercial" />
+<message msgid="man DDNS user type_3" msgstr="Vaisseau amiral" />
+<message msgid="man DDNS Tip 1" msgstr="Pas de compte?" />
+<message msgid="man DDNS Tip 2" msgstr="enregistrement" />
+<message msgid="man DDNS Tip 3" msgstr="Mot de passe oublié" />
+<message msgid="man DDNS Tip 4" msgstr="Mettre à niveau vers des services professionnels" />
+<message msgid="man DDNS Tip 5" msgstr="Aidez-moi" />
+<message msgid="DDns logout" msgstr="déconnecter" />
+<message msgid="errMsg DDNS User Name can't be more than 16chars" msgstr="Le compte ne peut pas dépasser 16 caractères" />
+<message msgid="errMsg DDNS Password/Key ccan't be more than 16chars" msgstr="Le mot de passe ne peut pas dépasser 16 caractères" />                      
+</po>

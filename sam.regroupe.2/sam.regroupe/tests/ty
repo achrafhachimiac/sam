@@ -1,0 +1,29 @@
+ <!DOCTYPE html>
+<html>
+    <head>
+
+        <meta charset="utf-8" />
+
+        <title>Ma page web</title>
+
+    </head>
+
+    <body>
+<p id="demo"></p>
+
+<script>
+ google.language.translate(text, result.language, 'en', function(result) {
+            var translated = document.getElementById("transtext");
+            if (result.translation) {
+                translated.innerHTML = result.translation;
+            }
+
+        });
+
+</script>
+
+</body>
+
+</html>
+
+

@@ -1,0 +1,4 @@
+2014-04-29 09:32:39 u75269439 1K1Iuo-1X4R992gke-010u1p |< REMOTE=86.209.183.31 SCRIPT=/confirmation_de_sejour.php -- /usr/sbin/sendmail -t -i -fNOREPLY@sam-web.fr
+2014-04-29 09:32:39 u75269439 1K1Iuo-1X4R992gke-010u1p <= S=NOREPLY@sam-web.fr SZ=4959 D=0 SID=501534230
+2014-04-29 09:32:39 u75269439 1K1Iuo-1X4R992gke-010u1p => martin.gallas@wanadoo.fr msmtp.kundenserver.de[172.19.35.7] 250 Message 0M0HAz-1Wt8TC3OQv-00uWhv accepted by mreue001.kundenserver.de
+2014-04-29 09:32:39 u75269439 1K1Iuo-1X4R992gke-010u1p => servicesdaccueilpourmeubles@gmail.com msmtp.kundenserver.de[172.19.35.7] 250 Message 0M0HAz-1Wt8TC3OQv-00uWhv accepted by mreue001.kundenserver.de

@@ -1,0 +1,31 @@
+<po>
+ <message msgid="wifidog_set_titlet" msgstr="Paramètre WiFidog" />
+<message msgid="wifidog_set_error_input" msgstr="Veuillez saisir le bon" />
+<message msgid="wifidog_set_error_range" msgstr="Erreur de plage d'entrée" />
+<message msgid="wifidog_set_error_num" msgstr="Doit entrer les chiffres" />
+<message msgid="wifidog_set_name_title" msgstr="Nom du serveur Web" />
+<message msgid="wifidog_set_dev_code_title" msgstr="ID de la passerelle" />
+<message msgid="wifidog_set_port" msgstr="Port" />
+<message msgid="wifidog_set_port_range" msgstr="Par défaut: 2060 Range [1-65535]" />
+<message msgid="wifidog_set_max_con" msgstr="Maximum utilisateurs" />
+<message msgid="wifidog_set_max_con_range" msgstr="Valeur par défaut: 80 Range [1-80]" />
+<message msgid="wifidog_set_check_interval" msgstr="Intervalle de contrôle" />
+<message msgid="wifidog_set_check_interval_range" msgstr="Par défaut: 5 min Plage [1-60min]" />
+<message msgid="wifidog_set_client_timeout" msgstr="Délai d'attente du client" />
+<message msgid="wifidog_set_client_timeout_range" msgstr="Par défaut: 20 min Plage [1-60min]" />
+<message msgid="wifidog_set_auth_server_name" msgstr="Serveur d'authentification" />
+<message msgid="wifidog_set_auth_server_ssl" msgstr="Serveur d'authentification SSL Activer" />
+<message msgid="wifidog_set_auth_server_httpport" msgstr="Port de serveur d'authentification" />
+<message msgid="wifidog_set_auth_server_httpport_range" msgstr="Par défaut: 80 Range [1-65535]" />
+<message msgid="wifidog_set_auth_server_path" msgstr="Chemin du serveur d'authentification" />
+<message msgid="wifidog_set_auth_server_allow_rule" msgstr="Liste blanche du domaine externe" />
+<message msgid="wifidog_trustedurl_add" msgstr="Ajouter un domaine" />
+<message msgid="wifidog_trustedurl_add_err" msgstr="Domaine d'erreur" />
+<message msgid="wifidog_trustedurl_add_exist" msgstr="Ce domaine existe dans la liste" />
+<message msgid="wifidog_trustedurl_add_err_null" msgstr="Veuillez saisir le domaine" />
+<message msgid="wifidog_set_mac_allow_rule" msgstr="Liste blanche MAC" />
+<message msgid="wifidog_trustedmac_add" msgstr="Ajouter MAC" />
+<message msgid="wifidog_trustedmac_add_err" msgstr="Erreur MAC" />
+<message msgid="wifidog_trustedmac_add_exist" msgstr="MAC existe dans la liste" />
+<message msgid="wifidog_trustedmac_add_err_null" msgstr="Veuillez entrer MAC" />
+</po>

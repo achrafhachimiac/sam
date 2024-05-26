@@ -1,0 +1,115 @@
+<po>
+<message msgid="status title" msgstr="Statut" />
+<message msgid="status Select Language" msgstr="Choisir la langue" />
+<message msgid="status WAN" msgstr="Statut WAN" />
+<message msgid="status WAN" msgstr="Statut physique WAN" />
+<message msgid="status WAN Phy" msgstr="WAN_Phy Statut" />
+<message msgid="status Attain IP" msgstr="Atteindre le protocole IP" />
+<message msgid="status WAN IP Address" msgstr="Adresse IP" />
+<message msgid="status Internet connect time" msgstr="Temps de connexion Internet" />
+<message msgid="status WAN Subnet Mask" msgstr="Masque de sous-réseau" />
+<message msgid="status WAN Default Gateway" msgstr="Passerelle par défaut" />
+<message msgid="status WAN DNS" msgstr="DNS" />
+<message msgid="status WAN MAC Address" msgstr="Adresse Mac" />
+<message msgid="status WAN button Refresh" msgstr="Rafraîchir" />
+<message msgid="status LAN Title" msgstr="Statut LAN" />
+<message msgid="status LAN" msgstr="Statut LAN" />
+<message msgid="status LAN IP" msgstr="Adresse IP" />
+<message msgid="status LAN Subnet Mask" msgstr="Masque de sous-réseau" />
+<message msgid="status LAN Default Gateway" msgstr="Gérer l'adresse IP du serveur" />
+<message msgid="status LAN DHCP" msgstr="Serveur DHCP" />
+<message msgid="status LAN DHCP Range" msgstr="Portée DHCP" />
+<message msgid="status LAN DHCP Client List" msgstr="Liste des clients DHCP" />
+<message msgid="status LAN DHCP NUM" msgstr="Numéro IP attribué" />
+<message msgid="status LAN DHCP IP" msgstr="IP affectée" />
+<message msgid="status LAN DHCP IP LIST" msgstr="Client DHCP" />
+<message msgid="status LAN MAC" msgstr="Adresse Mac" />
+<message msgid="status LAN Refresh" msgstr="Rafraîchir" />
+<message msgid="status LAN DHCP Host Name" msgstr="HostName" />
+<message msgid="status LAN DHCP Client IP" msgstr="Adresse IP" />
+<message msgid="status LAN DHCP Client MAC" msgstr="Adresse Mac" />
+<message msgid="status LAN Client Time Expired" msgstr="Le temps est écoulé" />
+<message msgid="status Ethernet port link status" msgstr="Statut du lien du port Ethernet" />
+<message msgid="status Ethernet port" msgstr="Port" />
+<message msgid="status Ethernet link" msgstr="Lien" />
+<message msgid="status Ethernet speed" msgstr="La vitesse" />
+<message msgid="status No link" msgstr="Pas de lien" />
+<message msgid="WAN" msgstr="BLÊME" />
+<message msgid="LAN" msgstr="LAN" />
+<message msgid="status Link" msgstr="Lien" />
+<message msgid="Wlan status title" msgstr="Statut WLAN" />
+<message msgid="Wlan WLAN Status" msgstr="Statut WLAN" />
+<message msgid="Wlan WLAN Repeater Status" msgstr="Etat répéteur" />
+<message msgid="status WLAN" msgstr="Statut WLAN 2,4 GHz" />
+<message msgid="status WLAN 5G" msgstr="État du WLAN de 5,8 GHz" />
+<message msgid="status WLAN Signal Strength" msgstr="Force du signal" />
+<message msgid="status WLAN channel-Band" msgstr="Channel-Band" />
+<message msgid="status WLAN Rate" msgstr="Taux" />
+<message msgid="status WLAN TX Rate" msgstr="Taux TX" />
+<message msgid="status WLAN Band" msgstr="B: et" />
+<message msgid="status WLAN TX Packets" msgstr="Paquets TX" />
+<message msgid="status WLAN RX Packets" msgstr="RX Packets" />
+<message msgid="status WLAN Time Expired" msgstr="Temps de liaison" />
+<message msgid="status WLAN RSSI" msgstr="RSSI" />
+<message msgid="status WLAN Mode" msgstr="Mode" />
+<message msgid="status WLAN SSID" msgstr="SSID" />
+<message msgid="status WLAN BSSID" msgstr="BSSID" />
+<message msgid="status WLAN Enc" msgstr="Cryptage" />
+<message msgid="status WLAN Enc WDS" msgstr="Cryptage WDS" />
+<message msgid="status wds1" msgstr="Statut WDS1" />
+<message msgid="status wds2" msgstr="Statut WDS2" />
+<message msgid="status wds3" msgstr="Statut WDS3" />
+<message msgid="status wds4" msgstr="Statut WDS4" />
+<message msgid="system_status_wlanclientnum" msgstr="Numéro client" />
+<message msgid="system_status_wirelessauth_none" msgstr="Système ouvert" />
+<message msgid="system_status_wirelessauth_shared" msgstr="partagé" />
+<message msgid="system_status_wirelessauth_close" msgstr="Aucun" />
+<message msgid="status WLAN MAC Address" msgstr="Adresse Mac" />
+<message msgid="status MAC Address" msgstr="Adresse Mac" />
+<message msgid="status WLAN Access Control Mode" msgstr="Mode de contrôle d'accès" />
+<message msgid="status WLAN Repeater" msgstr="Répétiteur" />
+<message msgid="status WLAN Client Table" msgstr="Tableau client" />
+<message msgid="Wlan status button Refresh" msgstr="Rafraîchir" />
+<message msgid="status Other" msgstr="Autre" />
+<message msgid="status Firmware" msgstr="Firmware" />
+<message msgid="status Firmware Version" msgstr="Une version de logiciel" />
+<message msgid="status Hardware Version" msgstr="Version matérielle" />
+<message msgid="status System uptime" msgstr="Temps de disponibilité du système" />
+<message msgid="status Fixed IP" msgstr="IP fixe" />
+<message msgid="status Infrastructure Client" msgstr="Infrastructure Client" />
+<message msgid="status on" msgstr="sur" />
+<message msgid="status off" msgstr="de" />
+<message msgid="status Disabled" msgstr="désactivé" />
+<message msgid="status Enabled" msgstr="Activée" />
+<message msgid="status Broadcast" msgstr="Diffuser" />
+<message msgid="status Hidden" msgstr="Caché" />
+<message msgid="status Open" msgstr="Ouvrir" />
+<message msgid="status wlan auto" msgstr="auto" />
+<message msgid="status wlan channel" msgstr="canal" />
+<message msgid="status Allow All" msgstr="Autorise tout" />
+<message msgid="status Allow Listed" msgstr="Allow Listed" />
+<message msgid="status Deny Listed" msgstr="Refuser Listé" />
+<message msgid="status wlan link Disabled" msgstr="désactivé" />
+<message msgid="status wlan link Idle" msgstr="Tourner au ralenti" />
+<message msgid="status wlan link Scanning" msgstr="Balayage" />
+<message msgid="status wlan link Started" msgstr="Commencé" />
+<message msgid="status wlan link Connected" msgstr="Connecté" />
+<message msgid="status wlan link Waiting for keys" msgstr="Attendre des clés" />
+<message msgid="system_status_wandisconnect" msgstr="Le port WAN est déconnecté" />
+<message msgid="system_status_connect" msgstr="Connexion" />
+<message msgid="system_status_hadconnect" msgstr="- Connecté" />
+<message msgid="system_status_dialing" msgstr="- Numérotation" />
+<message msgid="system_status_connecting" msgstr="- Connexion" />
+<message msgid="system_status_connecttype_dhcp" msgstr="DHCP" />
+<message msgid="system_status_dhcping" msgstr="Obtenir une adresse IP" />
+<message msgid="system_status_connecttype_staticip" msgstr="I.P statique" />
+<message msgid="system_status_connecttype_staticip_hadconnected" msgstr="IP statique - connecté" />
+<message msgid="status wan link Disconnected" msgstr="Débranché" />
+<message msgid="status wan link Connected" msgstr="Connecté" />
+<message msgid="status day" msgstr="journée" />
+<message msgid="status hour" msgstr="H" />
+<message msgid="status minutes" msgstr="M" />
+<message msgid="status second" msgstr="S" />
+<message msgid="status lang zh" msgstr="简体 中文" />
+<message msgid="status lang en" msgstr="Anglais" />
+</po>

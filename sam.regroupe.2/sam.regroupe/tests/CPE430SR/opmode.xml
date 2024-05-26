@@ -1,0 +1,21 @@
+<po>
+ <message msgid="opmode title" msgstr="Mode de fonctionnement" />
+<message msgid="opmode note0" msgstr="Vous pouvez configurer différents modes sur l'interface LAN et WLAN pour la fonction NAT et de pontage." />
+<message msgid="opmode Gateway" msgstr="Mode passerelle" />
+<message msgid="opmode Gateway note" msgstr="Dans ce mode, l'appareil est censé se connecter à Internet via ADSL / Cable Modem. Le NAT est activé et les PC dans les ports LAN partagent la même IP au FAI via le port WAN. Le type de connexion peut être configuré dans la page WAN en utilisant PPPOE, DHCP client ou IP statique." />
+<message msgid="opmode Bridge" msgstr="Mode Répéteur" />
+<message msgid="opmode Bridge msg1" msgstr="Dans ce mode, la valeur par défaut éteint la fonction de couverture sans fil, en raison de l'ouverture, cette fonction augmentera l'interférence entre les AP sans fil, mais si vous utilisez une fonction de couverture sans fil, ouvrez-vous manuellement dans la fonction AP virtuelle de l'ensemble sans fil!" />
+<message msgid="opmode Bridge note" msgstr="Dans ce mode, tous les ports sont regroupés et la fonction NAT est désactivée. Toutes les fonctions WAN et le pare-feu ne sont pas pris en charge." />
+<message msgid="opmode Wireless ISP" msgstr="Mode WISP" />
+<message msgid="opmode Wireless ISP note" msgstr="Dans ce mode, tous les ports Ethernet sont regroupés et le client sans fil se connecte au point d'accès du FAI. Le NAT est activé et les PC dans les ports Ethernet partagent la même IP vers le FAI via le réseau local sans fil. Vous devez d'abord régler le mode sans fil en mode client et vous connecter à l'AP ISP dans la page Site-Survey. Le type de connexion peut être configuré dans la page WAN en utilisant PPPOE, DHCP client ou IP statique." />
+<message msgid="opmode Wireless ISP WAN Name" msgstr="Connexion sans fil" />
+<message msgid="opmode AP" msgstr="Mode AP" />
+<message msgid="opmode WDS" msgstr="Mode Super WDS" />
+<message msgid="opmode WDS note" msgstr="Dans ce mode, l'interface sans fil peut être connectée avec d'autres AP sans fil via WDS, et l'interface sans fil et l'interface de câble. Sans NAT, pare-feu et toutes les fonctions liées au réseau." />
+<message msgid="opmode AP note" msgstr="Dans ce mode, l'interface sans fil AP et l'interface câble relient ensemble. Sans NAT, pare-feu et toutes les fonctions liées au réseau." />
+<message msgid="opmode button Apply" msgstr="Appliquer les modifications" />
+<message msgid="opmode button Cancel" msgstr="Annuler" />
+<message msgid="opmode pbc change" msgstr="Mode de changement de bouton" />
+<message msgid="opmode pbc enabled" msgstr="Activée" />
+<message msgid="opmode pbc disabled" msgstr="désactivé" />
+</po>

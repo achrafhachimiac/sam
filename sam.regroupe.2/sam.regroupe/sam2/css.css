@@ -1,0 +1,555 @@
+@font-face {
+	font-family: 'AlexBrush-Regular-OTF';
+	src: url('AlexBrush-Regular-OTF.otf');
+}
+
+@font-face {
+    font-family: 'palace-script-mt-std-1361506308';
+	src: url('palace-script-mt-std-1361506308.ttf');
+}
+
+@font-face {
+    font-family: 'itcedscr';
+	src: url('itcedscr.ttf');
+}
+
+body {
+
+/*background-image: url("fond.jpg") ;
+background-attachment: fixed;*/
+
+background-color: rgb(240,240,240);
+
+margin: auto;
+width: 700px;
+
+
+
+
+}
+
+
+p {
+
+
+
+}
+table
+{
+   /* border-collapse: collapse;  Les bordures du tableau seront collées (plus joli) */
+   
+   width: 100%;
+}
+
+
+td /* Toutes les cellules des tableaux... */
+{
+    border: 1px solid black; /* auront une bordure de 1px */
+	
+}
+
+tr
+{
+width: 33%;
+
+}
+
+
+
+
+.titre 
+{//font-family: 'AlexBrush-Regular-OTF';
+font-size: large;
+
+width:100%;
+text-align: center;
+
+box-shadow: 6px 6px 5px black;
+border-radius: 10px;
+background-color: rgb(200,200,200);
+
+}
+
+.image{
+width: 15%;
+
+display: inline-block;
+margin: 0.5% ;
+
+ position: relative;
+   top: 15px;
+   
+box-shadow: 6px 6px 5px black;
+   
+
+}
+
+.valloire{
+float: right;
+width: 50%;
+height: 50%;
+box-shadow: 6px 6px 5px black;
+}
+
+
+
+
+.txt{
+float: left;
+font-size: 55px;
+width: 50%;
+text-align: center;
+font-family: 'itcedscr';
+}
+.txt2{
+float: left;
+font-size: 55px;
+width: 50%;
+text-align: center;
+font-family: 'itcedscr';
+position: relative;
+   top: 50px;
+
+}
+
+footer {
+text-align: center;
+color: black;
+width: 100%;
+position: relative;
+   top: 15px;
+float: left;
+margin:15px;
+}
+
+nav
+{
+	display: inline-block;
+	width: 100%;
+	background-color: red ;
+	vertical-align: top;
+	display: inline;
+	text-align: justify;
+	
+}
+
+.agauche
+{float: left;
+background-color: #E50DC8;
+
+width:100%;
+position: relative;
+   left: 10px;
+   top: 15px;
+   
+
+color: white;
+   
+box-shadow: 6px 6px 5px black;
+
+margin:10px;
+
+
+}
+
+.agaucheproprio
+{float: left;
+background-color: rgb(90,186,114);
+margin: 10px;
+width:100%;
+position: relative;
+   left: 10px;
+   top: 15px;
+   
+
+color: white;
+
+
+   
+box-shadow: 6px 6px 5px black;
+
+
+}
+.agaucheloc
+{float: left;
+background-color: rgb(0,134,255);
+margin: 10px;
+width:100%;
+position: relative;
+   left: 10px;
+   top: 15px;
+   
+
+color: white;
+
+
+   
+box-shadow: 6px 6px 5px black;
+
+
+}
+
+.agauchevacanciers
+
+{float: left;
+background-color: rgb(216,212,62);
+margin: 10px;
+width:100%;
+position: relative;
+   left: 10px;
+   top: 15px;
+   
+
+color: white;
+   
+box-shadow: 6px 6px 5px black;
+
+
+}
+
+.appartements{
+width: 100%;
+border-radius: 10px;
+background-color: rgb(50,184,255);
+box-shadow: 6px 6px 5px black;
+margin: 20px;
+padding:5px;
+}
+
+
+.proprio
+{ width: 50%;
+border-radius: 10px;
+background-color: rgb(90,186,114);
+box-shadow: 6px 6px 5px black;
+padding:5px;
+margin: 10px;
+
+}
+
+.infos
+
+{ width: 100%;
+border-radius: 10px;
+background-color: rgb(156,37,223);
+box-shadow: 6px 6px 5px black;
+padding:5px;
+
+}
+
+.vacanciers
+{ width: 60%;
+border-radius: 10px;
+background-color: rgb(216,212,62);
+box-shadow: 6px 6px 5px black;
+float: left;
+margin: 10px;
+padding:10px;
+
+}
+.vacanciers2
+{ width: 60%;
+border-radius: 10px;
+background-color: rgb(216,212,62);
+box-shadow: 6px 6px 5px black;
+float: right;
+padding:10px;
+}
+
+.descriptif
+{ width: 100%;
+border-radius: 10px;
+/*background-color: rgb(229,13,200);*/
+box-shadow: 6px 6px 5px black;
+padding:5px;
+margin: 10px;
+
+background: -moz-linear-gradient(top, rgba(226,9,208,0.65) 38%, rgba(226,9,208,0.37) 65%, rgba(0,0,0,0) 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(38%,rgba(226,9,208,0.65)), color-stop(65%,rgba(226,9,208,0.37)), color-stop(100%,rgba(0,0,0,0))); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top, rgba(226,9,208,0.65) 38%,rgba(226,9,208,0.37) 65%,rgba(0,0,0,0) 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top, rgba(226,9,208,0.65) 38%,rgba(226,9,208,0.37) 65%,rgba(0,0,0,0) 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top, rgba(226,9,208,0.65) 38%,rgba(226,9,208,0.37) 65%,rgba(0,0,0,0) 100%); /* IE10+ */
+background: linear-gradient(to bottom, rgba(226,9,208,0.65) 38%,rgba(226,9,208,0.37) 65%,rgba(0,0,0,0) 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a6e209d0', endColorstr='#00000000',GradientType=0 ); /* IE6-9 */
+
+
+}
+.descproprio
+{ width: 100%;
+border-radius: 10px;
+background-color: rgb(90,186,114);
+box-shadow: 6px 6px 5px black;
+padding:5px;
+margin: 15px;
+
+}
+
+.infoproprio
+{ width: 50%;
+border-radius: 10px;
+background-color: rgb(90,186,114);
+box-shadow: 6px 6px 5px black;
+padding:5px;
+float: right;
+margin:10px;
+}
+.infoproprio2
+{ width: 50%;
+border-radius: 10px;
+background-color: rgb(90,186,114);
+box-shadow: 6px 6px 5px black;
+padding:5px;
+float: left;
+margin-left:350px;
+}
+
+.descvacanciers
+{ width: 100%;
+border-radius: 10px;
+background-color: rgb(216,212,62);
+box-shadow: 6px 6px 5px black;
+padding:5px;
+margin: 15px;
+float:left;
+
+}
+
+.agauchecontact
+
+{float: left;
+background-color:rgb(255,166,38);
+margin: 10px;
+width:100%;
+position: relative;
+   left: 10px;
+   top: 15px;
+   
+
+color: white;
+   
+box-shadow: 6px 6px 5px black;
+
+
+}
+
+
+
+
+
+.contact
+{
+width: 100%;
+border-radius: 10px;
+background-color: rgb(255,166,38);
+box-shadow: 6px 6px 5px black;
+
+margin: 15px;
+padding:5px;
+
+
+
+}
+
+
+
+
+.beaufort
+{width: 200px;
+float: left;
+
+
+}
+
+.dessous
+{
+    clear: both;
+}
+
+.info
+{width: 60%;
+border-radius: 10px;
+background-color: rgb(60,60,60);
+box-shadow: 6px 6px 5px black;
+float: right;
+height: 100px;
+}
+
+
+.all
+{display: inline-block;
+width:100%;
+}
+
+
+.session
+{width: 100%;
+border-radius: 10px;
+background-color: rgb(200,200,200);
+box-shadow: 6px 6px 5px black;
+padding:10px;
+
+
+}
+
+
+
+.telegraphe
+{
+width: 100%;
+height: 90px;
+margin: 0px;
+opacity: 0.5;
+
+}
+
+
+
+.sam_titre{
+
+margin: 0px;
+
+
+}
+
+.form
+{
+float:right;
+margin-right: 230px;
+
+
+}
+
+.form2
+{
+float:right;
+margin-right: 50px;
+margin: 2px;
+
+
+}
+
+.perso 
+{
+position: absolute;
+right: 600px;
+
+}
+
+
+.asterix {
+font-size: small;
+}
+
+table
+{
+    border-collapse: collapse; /* Les bordures du tableau seront collées (plus joli) */
+    width: 100%;
+}
+td
+{
+    border: 1px solid black;
+}
+
+figure
+{
+width: 120px;
+float: left;
+margin: 0 20px 0 0;
+background: white;
+border: 10px solid white;
+-webkit-box-shadow: 0 3px 10px #ccc;
+-moz-box-shadow: 0 3px 10px #ccc;
+-webkit-transform: rotate(5deg);
+-moz-transform: rotate(5deg);
+-webkit-transition: all 0.7s ease;
+-moz-transition: all 1s ease;
+position: relative;
+}
+ 
+figcaption
+{
+text-align: center;
+display: block;
+font-size: 12px;
+font-style: italic;
+}
+
+figure:hover
+{
+-webkit-transform: rotate(-1deg); -moz-transform: rotate(1deg);
+-webkit-box-shadow: 0 3px 10px #666; -moz-box-shadow: 0 3px 10px #666;
+}
+ 
+figure:focus
+{
+outline: none;
+-webkit-transform: rotate(-3deg) scale(2.5); -moz-transform: rotate(-3deg) scale(2.5);
+-webkit-box-shadow: 0 3px 10px #666; -moz-box-shadow: 0 3px 10px #666;
+z-index: 9999;
+}
+
+.envoie
+{
+  text-align: center;
+}
+
+
+.documents
+
+{background-color: white;
+
+  margin: 2px;
+  padding: 5px;
+  outline: solid;
+
+}
+
+.orangedocu
+
+{
+width: 50%;
+border-radius: 4px;
+background-color: orange;
+box-shadow: 6px 6px 5px black;
+padding:5px;
+margin: 10px;
+}
+
+
+.vacances
+
+{
+
+  background-color: orange;
+}
+
+.vacancess
+
+{
+
+  background-color: orange;
+  width: 30%;
+}
+
+.BAL 
+
+{
+
+  height: 150px;
+  text-align: center;
+    position: relative;
+   left: 150px;
+
+}
+
+.BAL2
+
+{
+
+  height: 150px;
+  text-align: center;
+  position: relative;
+   left: 250px;
+   
+
+}

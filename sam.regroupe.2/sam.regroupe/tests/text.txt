@@ -1,0 +1,257 @@
+désactivé
+Activée
+Appliquer
+Annuler
+Rafraîchir
+Clair
+Tout sélectionner
+Surclassement
+Enregistrer les paramètres
+Paramètres de téléchargement
+Réinitialiser les options
+Redémarrage du système
+La gestion du système
+Vous pouvez configurer le compte d'administrateur et le mot de passe, les paramètres NTP et les paramètres DNS dynamiques ici.
+Paramètres de langue
+Choisir la langue
+Paramètres de l'administrateur
+Compte
+Mot de passe
+Paramètres NTP
+Fuseau horaire:
+Réglage fuseau horaire
+Outil de ping système
+Host IP / Domain
+Compte Ping
+Taille ping (octets)
+Veuillez saisir IP ou Domain
+Résultats d'implémentation
+Vous pouvez maintenir l'heure du système en synchronisant avec un serveur de temps public sur Internet.
+Heure actuelle
+Année
+Lun
+journée
+Heure
+Min
+Seconde
+Synchronisation avec l'hôte
+Sélection du fuseau horaire
+Activer la mise à jour du client NTP
+Réglage automatique de l'heure d'été
+Serveur NTP
+Réglage IP manuel
+Lorsque le périphérique fonctionne à
+Redémarrage automatique
+Adresse IP du serveur NTP invalide
+Le serveur NTP ne peut pas être vide
+(GMT-12: 00) Eniwetok, Kwajalein
+(GMT-11: 00) Midway Island, Samoa
+(GMT-10: 00) Hawaï
+(GMT-09: 00) Alaska
+(GMT-08: 00) heure du Pacifique (États-Unis, Canada); Tijuana
+(GMT-07: 00) Arizona
+(GMT-07: 00) Mountain Time (États-Unis, Canada)
+(GMT-06: 00) Heure centrale (États-Unis, Canada)
+(GMT-06: 00) Mexico, Tegucigalpa
+(GMT-06: 00) Saskatchewan
+(GMT-05: 00) Bogota, Lima, Quito
+(GMT-05: 00) New York, heure de l'Est (États-Unis, Canada)
+(GMT-05: 00) Indiana (Est)
+(GMT-04: 00) Heure de l'Atlantique (Canada)
+(GMT-04: 00) Caracas, La Paz
+(GMT-04: 00) Santiago
+(GMT-03: 30) Terre-Neuve
+(GMT-03: 00) Brasilia
+(GMT-03: 00) Buenos Aires, Georgetown
+(GMT-02: 00) Mid-Atlantic
+(GMT-01: 00) Açores, Cap-Vert est.
+(GMT) Casablanca, Monrovia
+(GMT) Temps moyen de Greenwich: Dublin, Édimbourg, Lisbonne, Londres
+(GMT + 01: 00) Amsterdam, Berlin, Berne, Rome, Stockholm, Vienne
+(GMT + 01: 00) Belgrade, Bratislava, Budapest, Ljubljana, Prague
+(GMT + 01: 00) Barcelone, Madrid
+(GMT + 01: 00) Bruxelles, Copenhague, Madrid, Paris, Vilnius
+(GMT + 01: 00) Paris
+(GMT + 01: 00) Sarajevo, Skopje, Sofija, Varsovie, Zagreb
+(GMT + 02: 00) Athènes, Istanbul, Minsk
+(GMT + 02: 00) Bucarest
+(GMT + 02: 00) Le Caire
+(GMT + 02: 00) Harare, Pretoria
+(GMT + 02: 00) Helsinki, Kiev, Riga, Sofia, Tallinn, Vilnius
+(GMT + 02: 00) Jérusalem
+(GMT + 03: 00) Bagdad, Koweït, Riyad
+(GMT + 03: 00) Moscou, Saint-Pétersbourg, Volgograd
+(GMT + 03: 00) Mairobi
+(GMT + 03: 30) Téhéran
+(GMT + 04: 00) Emirats Arabes Unis Dubaï, Muscat
+(GMT + 04: 00) Bakou, Tbilisi
+(GMT + 04: 30) Kaboul
+(GMT + 05: 00) Ekaterinburg
+(GMT + 05: 00) Islamabad, Karachi, Tachkent
+(GMT + 05: 30) Bombay, Calcutta, Madras, New Delhi
+(GMT + 06: 00) Astana, Almaty, Dhaka
+(GMT + 06: 00) Colombo
+(GMT + 07: 00) Bangkok, Hanoi, Jakarta
+(GMT + 08: 00) Beijing, Chongqing, Hong Kong, Urumqi
+(GMT + 08: 00) Perth
+(GMT + 08: 00) Singapour
+(GMT + 08: 00) Taipei
+(GMT + 09: 00) Osaka, Sapporo, Tokyo
+(GMT + 09h00) Séoul
+(GMT + 09: 00) Yakutsk
+(GMT + 09: 30) Adélaïde
+(GMT + 09: 30) Darwin
+(GMT + 10: 00) Brisbane
+(GMT + 10: 00) Canberra, Melbourne, Sydney
+(GMT + 10: 00) Guam, Port Moresby
+(GMT + 10: 00) Hobart
+(GMT + 10: 00) Vladivostok
+(GMT + 11: 00) Magadan, Salomon Is., Nouvelle-Calédonie
+(GMT + 12: 00) Auckland, Wllington
+(GMT + 12: 00) Fidji, Kamchatka, Marshall Is.
+Paramètres DDNS
+DNS dynamique est un service qui vous fournit un nom de domaine Internet valide, non changeant (une URL) pour accéder à cette adresse IP (éventuellement en constante évolution).
+Configuration DDNS
+Fournisseur de services
+Nom de domaine
+aucun
+Nom d'utilisateur
+Mot de passe / clé
+DNS dynamique
+Connectez - Out
+Le nom de domaine ne peut pas être vide
+Le nom d'utilisateur ne peut pas être vide
+Le mot de passe ne peut pas être vide
+Statut du lien
+Connectez-vous avec succès
+La vérification s'est écoulée
+Accédez à la liste des noms de domaine
+Succès de l'enregistrement des noms de domaine
+Succès du service Ddns
+Serveur de connexion ......
+Connectez-vous avec succès
+Redirigé vers le serveur ......
+Impossible de se connecter au serveur
+Erreur de nom d'utilisateur / mot de passe
+L'échec du service Ddns
+Domaine
+IP publique
+Type d'utilisateur
+la norme
+Professionnel
+Commercial
+Vaisseau amiral
+Pas de compte?
+enregistrement
+Mot de passe oublié
+Mettre à niveau vers des services professionnels
+Aidez-moi
+Image invalide
+Déni de service
+Une attaque DoS (déni de service) se caractérise par une tentative explicite des pirates informatiques pour empêcher les utilisateurs légitimes d'un service d'utiliser ce service.
+Activer la prévention DoS
+Inondation intégrale du système: SYN
+Inondation complète du système: FIN
+Inondation totale du système: UDP
+Inondation intégrale du système: ICMP
+Inondation IP par source: SYN
+Inondation IP par source: FIN
+Inondation IP par source: UDP
+Inondation IP par source: ICMP
+Activer le blocage IP de la source
+TCP / UDP PortScan
+ICTP Smurf
+IP Land
+IP Spoof
+IP TearDrop
+PingOfDeath
+Numérisation TCP
+TCP SynWithDate
+UDP Bomb
+UDP EchoChargen
+Paquets / Deuxième
+Temps de blocage (sec)
+Sensibilité
+Journal du système
+Cette page peut être utilisée pour configurer le serveur de journal distant et afficher le journal du système.
+journal du système
+Niveau de journal
+Tout le journal
+WLAN log
+Journal de DoS
+Serveur de journal à distance
+Adresse IP non valide
+Mise à niveau du firmware
+
+Version du firmware
+Temps de construction
+Choisir le dossier
+Que ce soit pour restaurer la configuration par défaut
+Remarque
+ne mettez pas l'appareil hors tension pendant le téléchargement, car il risque de bloquer le système!
+Choisissez le fichier image
+Enregistrer / Recharger les paramètres
+Cette page vous permet d'enregistrer les paramètres actuels dans un fichier ou de recharger les paramètres du fichier précédemment enregistré. En outre, vous pouvez réinitialiser la configuration actuelle par défaut.
+Enregistrer les paramètres dans le fichier
+Charger les paramètres à partir du fichier
+Réinitialiser les paramètres par défaut
+Voulez-vous réinitialiser les paramètres actuels par défaut?
+Sélectionnez un fichier de configuration de sauvegarde
+Redémarrage, veuillez patienter
+S'il vous plaît, attendez...
+Voulez-vous redémarrer le système?
+Configuration du mot de passe
+Cette page permet de configurer le compte pour accéder au serveur Web du point d'accès. Le nom d'utilisateur et le mot de passe vide désactiveront la protection.
+Nom d'utilisateur
+nouveau mot de passe
+Mot de passe confirmé
+Le compte d'utilisateur est vide.
+Le mot de passe n'est pas adapté. Tapez le même mot de passe entre la boîte nouvelle et confirmée.
+Le mot de passe ne peut pas être vide. Essayez-le à nouveau.
+Impossible d'accepter le caractère d'espace dans le nom d'utilisateur. Essayez-le à nouveau.
+Impossible d'accepter le caractère de l'espace dans le mot de passe. Essayez-le à nouveau.
+Statistiques de trafic
+Chargement, veuillez patienter ...
+Moniteur de trafic
+Graphique par IP
+Adresse IP
+Adresse Mac
+Télécharger
+Télécharger
+Protocole de transfer de fichier
+Protocole de connexion à distance SSH
+Telnet
+Protocole de transfert de courrier simple
+Système de noms de domaines
+Protocole de transfert de fichiers triviale
+WEB
+Protocole Post Office version 3
+Protocole de gestion de réseau simple
+WEB de sécurité
+Système de fichiers Internet commun
+RADUIS
+séance d'initiation au protocoles
+ping
+Autre
+Cette fonction ne fonctionne pas en mode Pont
+Fréquence du processeur:
+Mémoire système:
+Système utilisé:
+Système gratuit:
+Utilisation de la mémoire:
+L'utilisation du processeur:
+Vous ne trouvez aucun périphérique USB!
+Liste des périphériques
+Usage
+Taille
+Nom de l'appareil
+Disponible
+Utilisé
+Nom du serveur DLNA
+Erreur de nom de serveur DLNA
+Nom du serveur Samba
+Erreur de nom de serveur Samba
+Mode TxPower
+Mode économie d'énergie
+Mode standard
+Super Mode

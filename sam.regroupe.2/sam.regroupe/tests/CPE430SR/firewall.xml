@@ -1,0 +1,130 @@
+<po>
+<message msgid="firewall Time Control Title" msgstr="Contrôle du temps" />
+<message msgid="firewall Time Control Time_0" msgstr="dimanche" />
+<message msgid="firewall Time Control Time_1" msgstr="Lundi" />
+<message msgid="firewall Time Control Time_2" msgstr="Mardi" />
+<message msgid="firewall Time Control Time_3" msgstr="Mercredi" />
+<message msgid="firewall Time Control Time_4" msgstr="Jeudi" />
+<message msgid="firewall Time Control Time_5" msgstr="Vendredi" />
+<message msgid="firewall Time Control Time_6" msgstr="samedi" />
+<message msgid="firewall Time Control Time_start" msgstr="Heure de début" />
+<message msgid="firewall Time Control Time_H" msgstr="Heure" />
+<message msgid="firewall Time Control Time_M" msgstr="Minute" />
+<message msgid="firewall Time Control Time_stop" msgstr="Temps d'arrêt" />
+<message msgid="firewall errMsg Time Setting" msgstr="Le temps d'arrêt ne peut pas être inférieur à l'heure de début!" />
+<message msgid="firewall errMsg Day Setting" msgstr="Sélectionnez au moins un jour!" />
+<message msgid="firewall MAC Filtering Title" msgstr="Filtrage MAC" />
+<message msgid="firewall MAC Filtering Note0" msgstr="Les entrées dans ce tableau sont utilisées pour restreindre certains types de paquets de données de votre réseau local à Internet via la passerelle. L'utilisation de tels filtres peut être utile pour sécuriser ou restreindre votre réseau local." />
+<message msgid="firewall MAC Filtering" msgstr="Filtrage MAC" />
+<message msgid="firewall Port Filtering Title" msgstr="Filtrage de port" />
+<message msgid="firewall Port Filtering Note0" msgstr="Les entrées dans ce tableau sont utilisées pour restreindre certains types de paquets de données de votre réseau local à Internet via la passerelle. L'utilisation de tels filtres peut être utile pour sécuriser ou restreindre votre réseau local." />
+<message msgid="firewall Port Filtering" msgstr="Filtrage de port" />
+<message msgid="firewall IP Filtering Title" msgstr="IP / Port Filtering" />
+<message msgid="firewall IP Filtering Note0" msgstr="Les entrées dans ce tableau sont utilisées pour restreindre certains types de paquets de données de votre réseau local à Internet via la passerelle. L'utilisation de tels filtres peut être utile pour sécuriser ou restreindre votre réseau local. réseau vers Internet via la passerelle. L'utilisation de tels filtres peut être utile pour sécuriser ou restreindre votre réseau local." />
+<message msgid="firewall IP Filtering" msgstr="IP / Port Filtering" />
+<message msgid="firewall IP Port Filtering Title" msgstr="IP / Port Filtering" />
+<message msgid="firewall IP Port Filtering Note0" msgstr="Les entrées dans ce tableau sont utilisées pour restreindre certains types de paquets de données de votre réseau local à Internet via la passerelle. L'utilisation de tels filtres peut être utile pour sécuriser ou restreindre votre réseau local. réseau vers Internet via la passerelle. L'utilisation de tels filtres peut être utile pour sécuriser ou restreindre votre réseau local." />
+<message msgid="firewall IP Port Filtering" msgstr="IP / Port Filtering" />
+<message msgid="firewall Port Forwarding Title" msgstr="Port Forwarding" />
+<message msgid="firewall Port Forwarding Note0" msgstr="Les entrées dans ce tableau vous permettent de rediriger automatiquement les services réseau communs vers une machine spécifique derrière le pare-feu NAT. Ces paramètres ne sont nécessaires que si vous souhaitez héberger une sorte de serveur comme un serveur Web ou un serveur de messagerie sur le réseau local privé derrière le pare-feu NAT de votre passerelle." />
+<message msgid="firewall Port Forwarding" msgstr="Port Forwarding" />
+<message msgid="firewall URL Filtering Title" msgstr="Filtrage d'URL" />
+<message msgid="firewall URL Filtering Note0" msgstr="Le filtre URL est utilisé pour empêcher les utilisateurs de LAN d'accéder à Internet. Bloquez les URL qui contiennent des mots-clés répertoriés ci-dessous." />
+<message msgid="firewall URL Filtering" msgstr="Filtrage d'URL" />
+<message msgid="firewall DMZ Title" msgstr="DMZ" />
+<message msgid="firewall DMZ Note0" msgstr="Une zone démilitarisée est utilisée pour fournir des services Internet sans sacrifier l'accès non autorisé à son réseau privé local. En règle générale, l'hôte DMZ contient des périphériques accessibles au trafic Internet, tels que les serveurs Web (HTTP), les serveurs FTP, les serveurs SMTP (e-mail) et les serveurs DNS." />
+<message msgid="firewall DMZ Host IP Address" msgstr="Adresse IP hôte DMZ" />
+<message msgid="firewall DMZ Enabled" msgstr="Activer DMZ" />
+<message msgid="firewall SDMZ Enabled" msgstr="Activer Super DMZ" />
+<message msgid="firewall DMZ Host MAC Address" msgstr="Adresse MAC de l'hôte DMZ" />
+<message msgid="firewall SDMZ Must enable DHCP server" msgstr="Activer Super DMZ, le serveur DHCP doit être démarré" />
+<message msgid="firewall Disabled" msgstr="désactivé" />
+<message msgid="firewall Enabled" msgstr="Activée" />
+<message msgid="firewall Blacklist" msgstr="Liste noire" />
+<message msgid="firewall Whitelist" msgstr="Liste blanche" />
+<message msgid="firewall MAC Address" msgstr="Adresse Mac" />
+<message msgid="firewall URL Address" msgstr="Adresse URL" />
+<message msgid="firewall Comment" msgstr="Commentaire" />
+<message msgid="firewall Port Range" msgstr="Port Range" />
+<message msgid="firewall Local Port Range" msgstr="Port local" />
+<message msgid="firewall Wan Port Range" msgstr="Gamme de Port Wan" />
+<message msgid="firewall IP Address" msgstr="Adresse IP" />
+<message msgid="firewall IP Address Range" msgstr="Portée de l'adresse IP" />
+<message msgid="firewall Protocol" msgstr="Protocole" />
+<message msgid="firewall Current Filter Table" msgstr="Table de filtre actuelle" />
+<message msgid="firewall Button Add" msgstr="Ajouter" />
+<message msgid="firewall Button Edit" msgstr="modifier" />
+<message msgid="firewall Button Cancel" msgstr="Annuler" />
+<message msgid="firewall Button Delete" msgstr="Effacer" />
+<message msgid="firewall Button Scan Mac" msgstr="Scan MAC Address" />
+<message msgid="firewall Button Apply Changes" msgstr="Appliquer les modifications" />
+<message msgid="firewall Qos Title" msgstr="QoS" />
+<message msgid="firewall Qos" msgstr="QoS" />
+<message msgid="firewall Qos The Bandwidth provided by ISP" msgstr="Bande passante" />
+<message msgid="firewall QoS Rule Settings " msgstr="Paramètres de règle QoS" />
+<message msgid="firewall Qos Bandwidth" msgstr="Bande passante" />
+<message msgid="firewall Qos UP Link" msgstr="Lien UP" />
+<message msgid="firewall Qos UP Link Bandwidth" msgstr="Bande passante UP Link" />
+<message msgid="firewall Qos Down Link" msgstr="Lien vers le bas" />
+<message msgid="firewall Qos Down Link Bandwidth" msgstr="Largeur de bande descendante" />
+<message msgid="firewall Qos Range" msgstr="Gamme" />
+<message msgid="firewall Qos Mini. Rate" msgstr="Mini. Taux" />
+<message msgid="firewall Qos Max. Rate" msgstr="Max. Taux" />
+<message msgid="firewall Qos Mode" msgstr="Mode" />
+<message msgid="firewall Qos Share total bandwidth" msgstr="Partagez la bande passante totale avec toutes les adresses IP." />
+<message msgid="firewall Qos Assign Bandwidth" msgstr="Attribuer une bande passante pour chaque adresse IP" />
+<message msgid="firewall Qos Shared" msgstr="partagé" />
+<message msgid="firewall Qos Dedicated" msgstr="Dévoué" />
+<message msgid="firewall Qos Current QoS Rules Table" msgstr="Tableau des règles QoS actuelles" />
+<message msgid="firewall Qos UpLink Bandwidth" msgstr="UpLink" />
+<message msgid="firewall Qos DownLink Bandwidth" msgstr="DownLink" />
+<message msgid="firewall Qos Min. bandwidth" msgstr="Min. bande passante" />
+<message msgid="firewall Qos Max. bandwidth" msgstr="Max. bande passante" />
+<message msgid="firewall errMsg value regulations1" msgstr="La valeur d'entrée doit être comprise entre" />
+<message msgid="firewall errMsg value regulations2" msgstr="" />
+<message msgid="firewall Qos errMsg is invalid" msgstr="est invalide" />
+<message msgid="firewall errMsg URL Address empty" msgstr="L'adresse URL ne peut pas être vide" />
+<message msgid="firewall errMsg URL Address exist" msgstr="Cette règle de filtrage existe déjà" />
+<message msgid="firewall errMsg Invalid MAC" msgstr="Adresse MAC invalide" />
+<message msgid="firewall errMsg Invalid IP address" msgstr="Adresse IP non valide" />
+<message msgid="firewall errMsg Invalid subnet mask" msgstr="Masque de sous-réseau invalide" />
+<message msgid="firewall errMsg IP address must be in" msgstr="L'adresse IP doit être dans" />
+<message msgid="firewall errMsg subnet" msgstr="sous-réseau" />
+<message msgid="firewall errMsg IP address range conflict" msgstr="Conflit de la plage d'adresses IP" />
+<message msgid="firewall errMsg Invalid IP address range" msgstr="Plage d'adresse IP invalide" />
+<message msgid="firewall errMsg Bandwidth empty" msgstr="La bande passante de liaison montante ou la bande passante de liaison descendante ne peut pas être vide" />
+<message msgid="firewall errMsg compare Max Min" msgstr="Max. la bande passante devrait être supérieure à min. bande passante" />
+<message msgid="errMsg compare minUplink remaining" msgstr="Le minUplink est supérieur à la bande passante de liaison montante restante." />
+<message msgid="errMsg compare minDownlink remaining" msgstr="Le minDownlink est supérieur à la bande passante de liaison descendante restante." />
+<message msgid="firewall Port" msgstr="Port" />
+<message msgid="firewall Remote management port" msgstr="Port Web" />
+<message msgid="firewall ErrMsg Invalid Port range" msgstr="Plage de port non valide" />
+<message msgid="firewall errMsg MAC exists" msgstr="Cette adresse MAC existe déjà" />
+<message msgid="firewall errMsg Invalid Total IP number" msgstr="Le nombre total d'adresses IP plus que" />
+<message msgid="firewall Route Static Title" msgstr="Route statique" />
+<message msgid="firewall Route Static Note0" msgstr="Cette page permet d'ajouter ou de supprimer une route statique." />
+<message msgid="firewall Route Static Interface" msgstr="Interface" />
+<message msgid="firewall Route Static Mask" msgstr="Masque de sous-réseau" />
+<message msgid="firewall Route Static Gateway" msgstr="passerelle" />
+<message msgid="firewall Current Route Static Table" msgstr="Tableau de route statique actuel" />
+<message msgid="firewall Current Route Kernel Table" msgstr="Tableau de route actuel" />
+<message msgid="firewall Route Static Flags" msgstr="Drapeaux" />
+<message msgid="firewall Route Static DisableNAT" msgstr="Désactiver NAT" />
+<message msgid="firewall VLAN Title" msgstr="Paramètres VLAN" />
+<message msgid="firewall VLAN Note0" msgstr="Les entrées dans le tableau ci-dessous sont utilisées pour configurer les paramètres vlan. Les VLAN sont créés pour fournir les services de segmentation traditionnellement fournis par les routeurs. Les VLAN abordent des problèmes tels que l'évolutivité, la sécurité et la gestion du réseau." />
+<message msgid="firewall VLAN" msgstr="VLAN Gobal" />
+<message msgid="firewall VLAN Trunck Port Name" msgstr="Nom du port Trunck" />
+<message msgid="firewall VLAN Trunck Port Vlan ID" msgstr="Trunck Port Vlan ID" />
+<message msgid="firewall VLAN VLAN Information" msgstr="Informations VLAN" />
+<message msgid="firewall On-Off" msgstr="Allumé éteint" />
+<message msgid="firewall VLAN Port" msgstr="Port" />
+<message msgid="firewall VLAN VLAN ID" msgstr="ID du VLAN" />
+<message msgid="firewall VLAN VLAN Priority" msgstr="Priorité" />
+<message msgid="firewall VLAN VLAN CFI" msgstr="CFI" />
+<message msgid="Ethernet Port1" msgstr="Port Ethernet1" />
+<message msgid="Ethernet Port2" msgstr="Port Ethernet2" />
+<message msgid="Ethernet Port3" msgstr="Port Ethernet3" />
+<message msgid="Ethernet Port4" msgstr="Port Ethernet4" />
+<message msgid="Ethernet Port5" msgstr="Port Ethernet5" />
+
+</po>

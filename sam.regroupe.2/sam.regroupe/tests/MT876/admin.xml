@@ -1,0 +1,241 @@
+﻿<po>
+  <message msgid="system_usermanage_title" msgstr="Paramètres utilisateur" />
+<message msgid="system_usermanage_name" msgstr="Nom d'utilisateur" />
+<message msgid="system_usermanage_pwd" msgstr="Mot de passe" />
+<message msgid="system_usermanage_repwd" msgstr="Confirmez le mot de passe" />
+<message msgid="system_bt_apply" msgstr="Appliquer" />
+<message msgid="system_bt_refresh" msgstr="Rafraîchir" />
+<message msgid="system_bt_clear" msgstr="Effacer" />
+<message msgid="system_bt_cancel" msgstr="Annuler" />
+<message msgid="system_bt_del" msgstr="Effacer" />
+<message msgid="system_bt_add" msgstr="Ajouter" />
+<message msgid="system_bt_mod" msgstr="Modifier" />
+<message msgid="system_bt_upload" msgstr="Surclassement" />
+<message msgid="system_bt_close" msgstr="Fermer" />
+<message msgid="system_bt_back" msgstr="Sauvegarde" />
+<message msgid="system_bt_restore" msgstr="Restaurer" />
+<message msgid="system_bt_default" msgstr="Reset par défaut" />
+<message msgid="system_start" msgstr="Activer" />
+<message msgid="system_stop" msgstr="Désactiver" />
+<message msgid="dev_location_info_title" msgstr="Information de Lieu" />
+<message msgid="dev_location_title" msgstr="Emplacement" />
+<message msgid="dev_name_title" msgstr="Nom de l'appareil" />
+<message msgid="system_input_username" msgstr="S'il vous plaît entrez votre nom d'utilisateur" />
+<message msgid="system_input_userpwd" msgstr="s'il vous plait entrez votre mot de passe" />
+<message msgid="system_input_2userpwd_not_same" msgstr="Votre nouveau mot de passe ne correspond pas" />
+<message msgid="system_changepwd_ok" msgstr="Votre succès ne changera que le nom d'utilisateur et le mot de passe avec le nouveau" />
+<message msgid="system_backconfig_title" msgstr="Enregistrer / Recharger les paramètres" />
+<message msgid="system_backconfig_bt_backinfo_show" msgstr="Enregistrez le fichier de configuration sur votre ordinateur" />
+<message msgid="system_backconfig_bt_restoreinfo_show" msgstr="Utilisation de la configuration de récupération de fichier de configuration enregistrée" />
+<message msgid="system_backconfig_bt_backdefinfo_show" msgstr="Restaurez les paramètres par défaut d'usine, appuyez sur ce bouton" />
+<message msgid="system_backconfig_selectfile" msgstr="Sélectionnez un fichier de configuration de sauvegarde" />
+<message msgid="system_backconfig_reboot_tip" msgstr="Le système de configuration de restauration redémarre, vous êtes sûr de continuer de toute façon?" />
+<message msgid="system_backconfig_defaultreboot_tip" msgstr="Le système restaurera la réinitialisation par défaut d'usine, est-ce que vous êtes sûr de continuer?" />
+<message msgid="system_ddns_hostname_null" msgstr="Le nom de l'hôte est vide" />
+<message msgid="system_ddns_username_null" msgstr="Entrez le nom d'utilisateur" />
+<message msgid="system_ddns_userpwd_null" msgstr="Entrez le mot de passe de l'utilisateur" />
+<message msgid="system_ddns_title" msgstr="Paramètres DDNS" />
+<message msgid="system_ddns_status" msgstr="Statut DDNS" />
+<message msgid="system_ddns_ps" msgstr="DDNS PS" />
+<message msgid="system_ddns_hostname" msgstr="Nom de l'hôte" />
+<message msgid="system_ddns_username" msgstr="Nom d'utilisateur" />
+<message msgid="system_ddns_pwd" msgstr="Mot de passe" />
+<message msgid="system_ddns_conn_status" msgstr="Statut de connexion" />
+<message msgid="system_drt_list" msgstr="System Route list" />
+<message msgid="system_drt_aim" msgstr="Destination" />
+<message msgid="system_drt_netmask" msgstr="Masque de sous-réseau" />
+<message msgid="system_drt_gw" msgstr="Passerelle" />
+<message msgid="system_drt_interface" msgstr="Interface" />
+<message msgid="system_tool_title" msgstr="Outil de ping système" />
+<message msgid="system_tool_PingHost" msgstr="Host IP / Domain" />
+<message msgid="system_tool_PingCountName" msgstr="Compte Ping" />
+<message msgid="system_tool_PingLengthName" msgstr="Taille ping (octets)" />
+<message msgid="system_tool_pinghost_null" msgstr="Veuillez saisir IP ou Domain" />
+<message msgid="system_tool_res_title" msgstr="Résultats d'implémentation" />
+<message msgid="system_swup_selectfile" msgstr="Sélectionnez le fichier de mise à niveau!" />
+<message msgid="system_swup_title" msgstr="Mise à niveau du firmware" />
+<message msgid="system_swup_swver" msgstr="Une version de logiciel" />
+<message msgid="system_swup_show" msgstr="Pour la mise à niveau logicielle" />
+<message msgid="system_swup_show1" msgstr="1. Cliquez sur [Parcourir] et sélectionnez le logiciel à mettre à niveau" />
+<message msgid="system_swup_show2" msgstr="2. Cliquez sur le bouton [mise à niveau]" />
+<message msgid="system_swup_notice" msgstr="Remarque" />
+<message msgid="system_swup_notice1" msgstr="Le logiciel de mise à niveau peut provoquer l'interruption du système" />
+<message msgid="system_swup_notice2" msgstr="Dans le processus de mise à jour du microprogramme, ne pas éteindre ou endommager le système!" />
+<message msgid="system_log_title" msgstr="Logs du système" />
+<message msgid="system_log_status" msgstr="Statut" />
+<message msgid="system_log_remoteserver" msgstr="Service de journal à distance" />
+<message msgid="system_log_list" msgstr="Vue du journal du système" />
+<message msgid="system_qos_upband_invalid" msgstr="Le paramètre de transfert de bande passante est invalide" />
+<message msgid="system_qos_downband_invalid" msgstr="Téléchargement invalide de la bande passante" />
+<message msgid="system_qos_ip_exist" msgstr="La plage d'adresses IP existe déjà" />
+<message msgid="system_qos_ip_conflict1" msgstr="Plage d'adresse IP (" />
+<message msgid="system_qos_ip_conflict2" msgstr=") avec plage d'adresses IP (" />
+<message msgid="system_qos_ip_conflict3" msgstr=")Conflit" />
+<message msgid="system_qos_mac_exist1" msgstr="Adresse Mac(" />
+<message msgid="system_qos_mac_exist2" msgstr=") a été inclus dans les règles de QoS" />
+<message msgid="system_qos_ip_samewithlan" msgstr="Les règles de QoS IP doivent être dans l'IP du réseau local de sous-réseau identique" />
+<message msgid="system_qos_upband_null" msgstr="La bande passante ne peut pas être 0" />
+<message msgid="system_qos_downband_null" msgstr="Télécharger la bande passante ne peut pas être 0" />
+<message msgid="system_qos_upband_sum_morethan_set" msgstr="Télécharger la bande passante du port WAN et plus que la bande passante totale" />
+<message msgid="system_qos_downband_sum_morethan_set" msgstr="Télécharger la bande passante de la bande passante totale sur le port WAN" />
+<message msgid="system_qos_maxrule" msgstr="Qos règle pour vous permettre d'ajouter 8" />
+<message msgid="system_qos_sip_error" msgstr="L'adresse IP source doit être comprise entre le 1-255" />
+<message msgid="system_qos_dip_error" msgstr="L'adresse IP de destination doit être comprise entre le 1-255" />
+<message msgid="system_qos_startip_error" msgstr="Commencez l'erreur d'adresse IP!" />
+<message msgid="system_qos_endip_error" msgstr="Fin de l'erreur d'adresse IP!" />
+<message msgid="system_qos_iprange_error" msgstr="Erreur de plage d'adresse IP" />
+<message msgid="system_qos_mark_error" msgstr="Notes pour les caractères illégaux!" />
+<message msgid="system_qos_select_item" msgstr="Double-cliquez sur l'élément que vous souhaitez modifier les paramètres!" />
+<message msgid="system_qos_title" msgstr="Paramètres QoS" />
+<message msgid="system_qos_basic" msgstr="Paramètres de base Qos" />
+<message msgid="system_qos_status" msgstr="Statut" />
+<message msgid="system_qos_up" msgstr="Télécharger" />
+<message msgid="system_qos_upshow" msgstr="Portée: (30 ~ 102400) Kbps" />
+<message msgid="system_qos_down" msgstr="Télécharger" />
+<message msgid="system_qos_downshow" msgstr="Portée: (30 ~ 102400) Kbps" />
+<message msgid="system_qos_inputshow" msgstr="Le point décimal n'est pas autorisé" />
+<message msgid="system_qos_rule" msgstr="Paramètre de règle Qos" />
+<message msgid="system_qos_rule_ip" msgstr="Portée de l'adresse IP" />
+<message msgid="system_qos_rule_mac" msgstr="Adresse Mac" />
+<message msgid="system_qos_scanmac" msgstr="Scan MAC" />
+<message msgid="system_qos_rule_mode" msgstr="Mode" />
+<message msgid="system_qos_rule_modeshared" msgstr="partagé" />
+<message msgid="system_qos_rule_modeexsive" msgstr="Exclusif" />
+<message msgid="system_qos_rule_maxband" msgstr="Bande passante maximale" />
+<message msgid="system_qos_rule_show" msgstr="Le point décimal n'est pas autorisé" />
+<message msgid="system_qos_rule_mark" msgstr="marque" />
+<message msgid="system_qos_rule_list" msgstr="Liste des règles Qos" />
+<message msgid="system_qos_rule_list_show" msgstr="(Double-cliquez sur les éléments sélectionnés pour modifier les paramètres, QoS vous permet d'ajouter jusqu'à 8 règles)" />
+<message msgid="system_qos_rule_list_ip" msgstr="Portée de l'adresse IP" />
+<message msgid="system_qos_rule_list_mac" msgstr="Adresse Mac" />
+<message msgid="system_qos_rule_list_mode" msgstr="Mode" />
+<message msgid="system_qos_rule_list_up" msgstr="Télécharger" />
+<message msgid="system_qos_rule_list_down" msgstr="Télécharger" />
+<message msgid="system_reboot_tip" msgstr="Le périphérique sera réinitialisé. Je souhaite continuer?" />
+<message msgid="system_reboot_title" msgstr="Redémarrez le périphérique" />
+<message msgid="system_reboot" msgstr="Redémarrer" />
+<message msgid="system_language_tip" msgstr="Définissez la langue du système. Je souhaite continuer?" />
+<message msgid="system_language_title" msgstr="Définir la langue" />
+<message msgid="system_language_chinese" msgstr="简体 中文" />
+<message msgid="system_route_wannotconn_notadd" msgstr="WAN n'est pas connecté, vous ne pouvez pas définir le routage" />
+<message msgid="system_route_ip_error" msgstr="Erreur d'adresse IP" />
+<message msgid="system_route_netmask_error" msgstr="Erreur de masque de sous-réseau" />
+<message msgid="system_route_ipsamewithlan_error" msgstr="L'adresse IP cible et les adresses IP LAN ne peuvent pas être le même segment de réseau!" />
+<message msgid="system_route_ipsamewithwan_error" msgstr="L'adresse IP cible et l'adresse IP WAN ne peuvent pas être le même segment de réseau!" />
+<message msgid="system_route_select_item" msgstr="Choisissez de supprimer le tableau de routage" />
+<message msgid="system_route_del_confirm" msgstr="Assurez-vous de supprimer la table de routage?" />
+<message msgid="system_route_title" msgstr="Paramètres d'itinéraire" />
+<message msgid="system_route_sysroute" msgstr="System Route List" />
+<message msgid="system_route_type" msgstr="Type" />
+<message msgid="system_route_type_net" msgstr="NET" />
+<message msgid="system_route_type_host" msgstr="HÔTE" />
+<message msgid="system_route_aim" msgstr="Cible" />
+<message msgid="system_route_subnet" msgstr="Masque de sous-réseau" />
+<message msgid="system_route_gw" msgstr="passerelle" />
+<message msgid="system_ntp_title" msgstr="Le temps du système" />
+<message msgid="system_ntp_china_tz" msgstr="(GMT + 08: 00) Beijing, Chongqing, Re Hong Kong, Urumqi" />
+<message msgid="system_ntp_error_manualserver" msgstr="Entrez un serveur personnalisé!" />
+<message msgid="system_ntp_error_getsystime" msgstr="Sans obtenir l'heure du système" />
+<message msgid="system_ntp_status" msgstr="Statut" />
+<message msgid="system_ntp_server" msgstr="Serveur NTP" />
+<message msgid="system_ntp_manualserver" msgstr="Serveur NTP personnalisé" />
+<message msgid="system_ntp_tz" msgstr="Fuseau horaire" />
+<message msgid="system_ntp_SyncWithHost" msgstr="Synchronisation avec l'hôte" />
+<message msgid="system_ntp_reboot_time_show" msgstr="Lorsque le périphérique fonctionne à" />
+<message msgid="system_ntp_reboot_time_hour" msgstr="Redémarrage automatique" />
+<message msgid="auto_refresh" msgstr="Le Web sera rafraîchi après un moment" />
+<message msgid="system_status_wandisconnect" msgstr="Le port WAN est déconnecté" />
+<message msgid="system_status_connect" msgstr="Connexion" />
+<message msgid="system_status_hadconnect" msgstr="- Connecté" />
+<message msgid="system_status_dialing" msgstr="- Numérotation" />
+<message msgid="system_status_connecting" msgstr="- Connexion" />
+<message msgid="system_status_connecttype_dhcp" msgstr="DHCP" />
+<message msgid="system_status_dhcping" msgstr="Obtenir une adresse IP" />
+<message msgid="system_status_connecttype_staticip" msgstr="I.P statique" />
+<message msgid="system_status_connecttype_staticip_hadconnected" msgstr="IP statique - connecté" />
+<message msgid="system_status_wireless_open_ap_none" msgstr="Ouvert - mode AP - pas de cryptage" />
+<message msgid="system_status_wireless_open_ap_encrypt" msgstr="Ouvert - Mode AP - cryptage" />
+<message msgid="system_status_wireless_close_ap" msgstr="Fermer - Mode AP" />
+<message msgid="system_status_macauth_acceptall" msgstr="Accepter tout" />
+<message msgid="system_status_macauth_acceptregister" msgstr="Autoriser l'adresse MAC du registre" />
+<message msgid="system_status_macauth_dropregister" msgstr="Drop Register MAC Address" />
+<message msgid="system_status_wirelessauth_none" msgstr="Système ouvert" />
+<message msgid="system_status_wirelessauth_shared" msgstr="partagé" />
+<message msgid="system_status_wirelessauth_close" msgstr="Aucun" />
+<message msgid="system_status_title" msgstr="Statut" />
+<message msgid="system_status_wan_config" msgstr="Configuration WAN" />
+<message msgid="system_status_wan_status" msgstr="Statut WAN" />
+<message msgid="system_status_connecttype" msgstr="Type de connexion" />
+<message msgid="system_status_wanip" msgstr="WAN IP" />
+<message msgid="system_status_wanlink" msgstr="Plus de configuration WAN ......" />
+<message msgid="system_status_wansubnet" msgstr="Masque de sous-réseau" />
+<message msgid="system_status_wangw" msgstr="Passerelle par défaut" />
+<message msgid="system_status_dnsserver" msgstr="DNS" />
+<message msgid="system_status_wanmac" msgstr="MAC" />
+<message msgid="system_status_lanconfig" msgstr="Configuration LAN" />
+<message msgid="system_status_lanip" msgstr="LAN IP" />
+<message msgid="system_status_landhcpstatus" msgstr="Statut DHCP" />
+<message msgid="system_status_landhcppool" msgstr="Client DHCP" />
+<message msgid="system_status_lanlink" msgstr="Plus de configuration LAN ......" />
+<message msgid="system_status_lansubnet" msgstr="Masque de sous-réseau" />
+<message msgid="system_status_lanmac" msgstr="MAC" />
+<message msgid="system_status_landhcpnum" msgstr="Numéro IP attribué" />
+<message msgid="system_status_lanhadip" msgstr="IP affectée" />
+<message msgid="system_status_lanhadiplist" msgstr="Client DHCP" />
+<message msgid="system_status_wlanconfig" msgstr="Configuration sans fil" />
+<message msgid="system_status_wlanstatus" msgstr="Statut sans fil" />
+<message msgid="system_status_wlanclientnum" msgstr="Numéro client" />
+<message msgid="system_status_wlanssid" msgstr="SSID" />
+<message msgid="system_status_wlanapclientstatus" msgstr="AP Client" />
+<message msgid="system_status_wlanlink" msgstr="Plus de configuration sans fil ......" />
+<message msgid="system_status_wlanmode" msgstr="Mode" />
+<message msgid="system_status_wlanregion" msgstr="Régional" />
+<message msgid="system_status_wlanchannel" msgstr="Canal" />
+<message msgid="system_status_wlanbroadcastssid" msgstr="La diffusion du SSID" />
+<message msgid="system_status_wlanauth" msgstr="Authentification" />
+<message msgid="system_status_wlanencrypt" msgstr="Cryptage" />
+<message msgid="system_status_wlanmacauthen" msgstr="Contrôle d'accès" />
+<message msgid="system_status_wlanmac" msgstr="MAC sans fil" />
+<message msgid="system_status_wlanmutiplessid" msgstr="AP virtuel" />
+<message msgid="system_status_wlanmutiplessidlist" msgstr="Liste virtuelle AP" />
+<message msgid="system_status_wlanstaion" msgstr="Client sans fil" />
+<message msgid="system_status_wlanstaionlist" msgstr="Liste des clients" />
+<message msgid="system_status_wlanapclientconfig" msgstr="Configuration de connexion sans fil" />
+<message msgid="system_status_wlanapclient_channel" msgstr="Canal" />
+<message msgid="system_status_wlanapclient_authtype" msgstr="Authentification" />
+<message msgid="system_status_wlanapclient_encrypt" msgstr="Cryptage" />
+<message msgid="system_status_wlanapclient_connectstatus" msgstr="Statut de connexion" />
+<message msgid="system_status_wlanap_signal" msgstr="Résistance du signal AP" />
+<message msgid="system_status_wlanap_linkquality" msgstr="Qualité du lien" />
+<message msgid="system_status_wlan_txrate" msgstr="Tx Rate" />
+<message msgid="system_status_wlan_rxrate" msgstr="Rx Rate" />
+<message msgid="system_status_wlan_txThroughput" msgstr="Tx débit" />
+<message msgid="system_status_wlan_rxThroughput" msgstr="Rendement Rx" />
+<message msgid="system_status_wlanmac" msgstr="MAC" />
+<message msgid="system_status_otherconfig" msgstr="Autre" />
+<message msgid="system_status_other_verion" msgstr="Une version de logiciel" />
+<message msgid="system_status_other_HWverion" msgstr="Version matérielle" />
+<message msgid="system_status_other_time" msgstr="Temps de disponibilité du système" />
+<message msgid="system_3g_modem_info" msgstr="Informations sur le modem 3G" />
+<message msgid="system_3g_modem_Manufacturer" msgstr="Fabricant" />
+<message msgid="system_3g_modem_Pinfo" msgstr="maquette" />
+<message msgid="system_3g_modem_nettype" msgstr="Réseau" />
+<message msgid="system_3g_modem_sim_status" msgstr="Statut USIM" />
+<message msgid="system_3g_modem_nettype_cdma" msgstr="CDMA / CDMA2000" />
+<message msgid="system_3g_modem_nettype_wcdma" msgstr="WCDMA" />
+<message msgid="system_3g_modem_nettype_tdscdma" msgstr="TD_SCDMA" />
+<message msgid="system_3g_modem_sim_status_inserted" msgstr="USIM inséré" />
+<message msgid="system_3g_modem_status_unknow" msgstr="N / A" />
+<message msgid="system_3g_modem_signal" msgstr="Force du signal" />
+<message msgid="system_update_sw_error" msgstr="La mémoire restante du système actuel est trop petite pour être utilisée pour mettre à niveau l'arrêt de tous les services réseau ou redémarrer le périphérique, puis vous connecter à la mise à niveau!" />
+<message msgid="system_cpu_title" msgstr="Fréquence du processeur:" />
+<message msgid="system_mem_total" msgstr="Mémoire système:" />
+<message msgid="system_mem_used" msgstr="Système utilisé:" />
+<message msgid="system_mem_free" msgstr="Système gratuit:" />
+<message msgid="system_mem_usage" msgstr="Utilisation de la mémoire:" />
+<message msgid="system_cpu_usage" msgstr="L'utilisation du processeur:" />
+<message msgid="system_wlan_txpower_title" msgstr="Mode TxPower" />
+<message msgid="wlan_txpower_JN" msgstr="Mode économie d'énergie" />
+<message msgid="wlan_txpower_BZ" msgstr="Mode standard" />
+<message msgid="wlan_txpower_CQ" msgstr="Super Mode" />                          
+</po>

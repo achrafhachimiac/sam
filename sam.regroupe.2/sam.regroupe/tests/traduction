@@ -1,0 +1,733 @@
+Router
+Qualité du lien
+Tx Rate
+Rx Rate
+Tx débit
+Rendement Rx
+Nom d'utilisateur
+Mot de passe
+Mode synchrone
+Configuration manuelle
+Dans la procédure de suivi du signal, les effets inattendus se produisent probablement dans la transaction de données Tx / Rx. Appuyez sur le bouton "Arrêter le suivi" instantanément après le suivi du signal.
+Suivi du signal
+état de la piste
+clé d'authentification
+Auth Port
+Serveur Auth
+Paramètres Super WDS
+Etat Super WDS
+Longueur de la clé
+Format clé
+Wep 64 bit
+Wep 128 bit
+Premièrement: paramètres WDS
+Etat Super WDS
+Super WDS
+Port
+protocole
+protocole
+Pardon!
+Le firmware dans l'appareil n'est pas valide,
+Prévoyez un microprogramme valide.
+* Remarque: En cours de mise à niveau, maintenez l'appareil sous tension, sinon le microprogramme peut être endommagé!
+TOUT
+Besoin de redémarrer l'appareil pour prendre effet
+Fréquence CPU: 550MHz
+Une version de logiciel
+Bienvenue Utilisateur
+Statut
+sorcier
+Avancée
+Sortie
+Mode
+Redémarrer
+
+Temps de marche
+Une version de logiciel
+prénom
+position
+BSSID
+canal
+Sans fil
+5.8G WLAN hors tension
+Connexion relais désactivée
+BSSID
+Analyse des chaînes 2.4Gwifi
+Analyse des canaux 5.8Gwifi
+Paramétrage sans fil
+Paramètre sans fil 5.8G
+Paramétrage LAN
+l'utilisation du processeur
+Paramétrage sans fil
+Paramètre sans fil 5.8G
+Paramétrage LAN
+Paramètre WAN
+Réglage de la position AP
+Réglage du relais sans fil
+Mode d'accès WAN
+Choisissez Mode de fonctionnement
+Choisissez le mode que vous souhaitez configurer
+Mode passerelle
+Mode Répéteur
+Mode WISP
+Mode AP
+Mode passerelle
+Mode Répéteur
+Mode WISP
+Mode AP
+Information de Lieu
+AP Nom
+Emplacement AP
+Premièrement: Paramètres WAN
+Deuxième: sans fil
+Troisième: Terminé
+Troisième: sans fil
+Quatrième: terminé
+I.P statique
+PPPOE (ADSL)
+DHCP
+Adresse IP
+Masque de sous-réseau
+Passerelle par défaut
+MAC
+MTU
+DNS primaire
+DNS secondaire
+PPPOE Nom
+Mot de passe PPPOE
+Le mode d'accès actuel est DHCP, cliquez sur Suivant pour configurer.
+Mode d'accès DHCP, cliquez sur la configuration de l'application.
+Paramètres sans fil
+Paramètres sans fil
+Paramètres sans fil 5.8G
+Statut WLAN
+SSID
+Cryptage
+Clé
+État du WLAN de 5,8 GHz
+SSID
+Cryptage
+Clé
+Paramètres complets
+Félicitations, les paramètres sont terminés
+Premièrement: Répéteur
+Deuxième: sans fil
+Deuxième: terminé
+Répéteur sans fil
+Statut de connexion
+Connectez-vous, s'il vous plaît plus tard ...
+La connexion répétée est correcte
+Répéteur sans fil
+SSID répéteur
+BSSID
+Force du signal
+canal
+Cryptage:
+Scan AP
+Authentification
+Premièrement: Répéteur
+Deuxième: WAN
+Troisième: Terminé
+Quatrième: sans fil
+Liste des clients
+Liste DHCP
+MAC
+IP
+Temps de connexion
+Premièrement: sans fil
+Deuxième: LAN
+Troisième: Terminé
+Paramétrage LAN
+Réglages avancés
+Rentrer à la maison
+Assistant de configuration
+Statut du périphérique
+Sans fil
+5.8G sans fil
+Réseau
+Pare-feu
+La gestion
+Statut
+Statut sans fil
+5.8G Statut sans fil
+Statut LAN
+Statut WAN
+Statut
+Version matérielle
+Temps de disponibilité
+Statut LAN
+LAN IP
+Masque de sous-réseau
+MAC
+Statut DHCP
+Portée DHCP
+IP affectée
+Statut WAN
+Type de connexion WAN
+WAN IP
+Masque de sous-réseau
+passerelle
+DNS
+MAC
+connexion sans fil Statut
+Statut sans fil
+Statut sans fil
+SSID
+Canal
+Cryptage
+Utilisateurs connectés
+5.8G connexion sans fil Statut
+5.8G Statut sans fil
+5.8G Statut sans fil
+SSID
+Canal
+Cryptage
+Utilisateurs connectés
+MODE
+Seuil RTS
+Ack Timeout control
+Intervalle Beacon
+Utilisateur MAX
+Seuil de couverture
+Agrégation
+Short GI
+Isolation de l'utilisateur
+(1400-1500)
+(1400-1492)
+(256-2346)
+(0-2347)
+(0-255) nous
+(100-1024) ms
+(Plage 0-64 0 non limité)
+(-95dBm ~ -65dBm)
+Définir manuellement le DNS
+IP / Port Filtering
+Filtrage MAC
+Filtrage d'URL
+Port Forwarding
+DMZ Host
+Paramètres de filtrage IP
+Filtrage IP
+IP
+Adresse IP
+Paramètres de filtrage MAC
+Filtrage MAC
+MAC
+MAC
+Paramètres de filtrage d'URL
+Filtrage d'URL
+URL
+URL
+Port Forwarding
+IP
+Port interne
+Port externe
+(1-65535)
+IP
+Port interne
+Port externe
+Paramètres DMZ
+Réglage DMZ
+DMZ LAN IP
+Le temps du système
+Paramètres DDNS
+QoS
+Logs
+Mise à niveau du firmware
+Système
+Stockage / serveur
+Utilisateur
+Stockage / serveur
+Nom du serveur DLNA
+Nom du serveur Samba
+Impossible de trouver un périphérique USB
+Liste des périphériques
+Nom de l'appareil
+Taille
+Utilisé
+Disponible
+Usage
+Le temps du système
+Le temps du système
+Choisissez le fuseau horaire
+Serveur NTP
+Calendrier des équipements
+Redémarrage automatique
+DDNS
+DNS dynamique
+Nom d'utilisateur
+Mot de passe / clé
+IP publique
+Domaine
+Pas de compte?
+enregistrement
+Mot de passe oublié
+QoS
+QoS
+Télécharger
+Plage: (100-1024000) Kbps
+Télécharger
+Plage: (100-1024000) Kbps
+Paramètres de la règle QoS
+MAC
+Gamme IP
+Mode
+Partagez la bande passante totale avec toutes les adresses IP.
+Affectez de la bande passante pour chaque adresse IP.
+Bande passante
+Télécharger
+Télécharger
+Kbps
+Commentaire
+MAC
+Démarrez l'IP
+Fin de l'IP
+Mode
+Télécharger (Kbps)
+Télécharger (Kbps)
+Commentaire
+Logs du système
+Logs
+Serveur de journal à distance
+IP
+Port
+Mise à niveau du firmware
+Une version de logiciel
+Choisir le fichier
+Rétablir les paramètres d'usine
+Remarque
+ne mettez pas l'appareil hors tension pendant le téléchargement, car il risque de bloquer le système!
+Enregistrer / Recharger les paramètres
+Sauvegarde
+Restaurer
+Reset par défaut
+Redémarrer
+Utilisateur
+ancien mot de passe
+Mot de passe
+Confirmez le mot de passe
+Paramètres LAN
+Paramètres WAN
+VLAN
+Paramètres avancés WAN
+Paramètres LAN
+IP
+Masque de sous-réseau
+Statut DHCP
+Démarrage IP du client DHCP
+Autorisation IP du client DHCP
+Temps de location (heure)
+(1-360)
+Lien IP-MAC
+Lien IP-MAC
+VLAN
+VLAN-ID (3-4094)
+LAN1
+LAN2
+LAN3
+LAN4
+BLÊME
+AP
+VAP1
+VAP2
+VAP3
+AP
+VAP1
+VAP2
+VAP3
+Paramètres avancés WAN
+MAC clone
+Activer l'accès au serveur Web sur la WAN
+Port Web
+Activer uPnP
+Activer le proxy IGMP
+Activer l'accès au ping sur WAN
+Activer IPsec passer sur la connexion VPN
+Activer PPTP passer à travers la connexion VPN
+Activer L2TP passer à travers la connexion VPN
+Authentification
+Fonction d'authentification
+Fonction d'authentification
+Port
+Délai d'expiration du client
+Serveur d'authentification
+Port du serveur d'authentification
+Chemin du serveur d'authentification
+Liste blanche du domaine externe
+Liste blanche du domaine externe
+Liste blanche MAC
+Liste blanche MAC
+Par défaut 2060, gamme (1-65535)
+Défaut 20 minutes, portée (1-65535)
+Valeur par défaut 80, portée (1-65535)
+Paramètres en nuage
+Paramètres en nuage
+Cloud Server
+Serveur Heartbeat
+Identifiant
+exemple: (www.yowifi.net)
+I.P statique
+PPPOE (ADSL)
+DHCP
+MAC
+DNS primaire
+DNS secondaire
+MAC
+DNS primaire
+DNS secondaire
+Paramètres de base
+réglage du relais
+AP virtuel
+Réglages avancés
+Contrôle d'accès
+5.8G Contrôle d'accès
+Paramètres de base sans fil
+Réglage du relais sans fil
+lockmac
+WDS Passthrough
+Statut sans fil
+Désactiver
+Activer
+WMM
+Désactiver
+Activer
+Canal
+Largeur de bande
+Canal
+Authentification
+Cryptage
+Clé
+AP virtuel
+AP1 virtuel
+AP2 virtuel
+AP3 virtuel
+La diffusion du SSID
+Statut sans fil
+SSID
+La diffusion du SSID
+Désactiver
+Activer
+WMM
+Désactiver
+Activer
+Cryptage
+Clé
+Statut sans fil
+SSID
+La diffusion du SSID
+Désactiver
+Activer
+WMM
+Désactiver
+Activer
+Cryptage
+Clé
+Réglages avancés
+Puissance de sortie RF
+Contrôle d'accès sans fil
+Contrôle d'accès
+Liste de contrôle d'accès
+Liste de l'Association STA
+Paramètres de base 5.8G
+5.8G AP virtuel
+5.8G Paramètres avancés
+Paramètres de base sans fil
+Canal
+Largeur de bande
+Canal
+Cryptage
+5.8G AP virtuel
+5.8G Paramètres avancés
+Régional
+Régional
+Seuil de paquet
+Seuil de paquet
+Puissance de sortie RF
+Seuil de couverture
+LAN
+LAN IP
+MAC
+2.4G sans fil
+5.8G sans fil
+Statut
+Statut
+SSID
+Numéro d'utilisateur
+Type d'accès
+Gérer l'IP du serveur
+Numéro d'utilisateur
+Commencer le suivi
+Arrêtez le suivi
+Ajouter
+Ajouter
+Balayage
+analyseur sans fil
+Analyseur sans fil 5G
+Surclassement
+Surclassement
+réviser
+Liste des clients
+Liste des clients
+Liste DHCP
+Arrière
+Prochain
+Scan AP
+Choisissez AP
+Balayage
+Balayage
+Surclassement
+Importer
+Appliquer
+Rafraîchir
+Appliquer
+Appliquer
+Appliquer
+Appliquer
+Appliquer
+Appliquer
+Ajouter
+Clair
+Appliquer
+Sauvegarde
+Reset par défaut
+Redémarrer
+Restaurer
+utilisateur
+Admin
+Nom d'utilisateur
+Mot de passe
+Synchroniser avec le serveur
+Synchronisation avec l'hôte
+En cours de suivi ......
+cesser le suivi
+Le canal doit être cohérent
+MAC
+SSID
+Maximum pas plus de 32 caractères
+Maximum ajouter 32
+Le mot de passe doit comporter 5 caractères
+Le mot de passe doit comporter 10 caractères
+Le mot de passe doit comporter 13 caractères
+Le mot de passe doit comporter 26 caractères
+Le format n'est pas correct
+Erreur de mot de passe
+Erreur de configuration du pool d'adresses
+Veuillez entrer l'URL du serveur Cloud
+2.4G Réglage sans fil
+2.4G Client sans fil
+Paramètre sans fil 5.8G
+Client sans fil 5.8G
+Client DHCP
+Paramétrage LAN
+Paramètre WAN
+Réglage du relais sans fil
+Réglage de la position AP
+Statut LAN
+Statut sans fil
+5.8G Statut sans fil
+Statut du WAN
+Statut d'AP sans fil
+Statut du relais sans fil
+Mode passerelle
+BRIN
+Mode Répéteur
+Mode AP
+Super WDS
+Nom d'hôte
+IP
+Temps de connexion
+Force du signal
+Liste des clients
+Liste DHCP
+Activer
+Désactiver
+Le port Wan n'est pas inséré dans le câble réseau, confirmé en l'absence du câble pour le configurer?
+Êtes-vous sûr de redémarrer?
+Êtes-vous sûr de supprimer?
+Êtes-vous sûr de redémarrer?
+Êtes-vous sûr de réinitialiser la valeur par défaut?
+Choisissez MAC!
+journée
+H
+M
+S
+DHCP
+I.P STATIQUE
+PPPOE
+RSS:
+Cryptage:
+Canal:
+Choix
+Dans ce mode, le périphérique est censé se connecter à Internet via ADSL / Cable Modem. Le nat est activé et les PC dans les ports LAN partagent la même IP avec le FAI via le port WAN. Le type de connexion peut être configuré dans la page WAN en utilisant PPPOE, Client DHCP ou IP statique.
+Dans ce mode, l'utilisateur peut accéder aux AP sans fil, les périphériques peuvent être connectés à un autre réseau sans fil à l'aide de la connexion sans fil, toutes les interfaces sont reliées ensemble. Sans NAT, pare-feu et toutes les fonctions liées au réseau
+Dans ce mode, tous les ports Ethernet sont regroupés et le client sans fil se connecte au point d'accès ISP. Le NAT est activé et les PC dans le port Ethernet partagent la même IP avec le FAI via le réseau local sans fil. Vous devez d'abord configurer le mode sans fil en mode client et vous connecter à l'AP ISP dans la page Site-Survey. Le type de connexion peut être configuré dans la page WAN en utilisant PPPOE, DHCP client et IP statique.
+Dans ce mode, l'interface sans fil AP et l'interface câble relient ensemble. Sans NAT, pare-feu et toutes les fonctions liées au réseau.
+Aucun
+L'équipement est mis à jour, ne coupez pas
+Les paramètres sont en cours d'économie, veuillez patienter ...
+L'équipement redémarre, veuillez patienter ...
+Configurer avec succès
+Ajoutez du succès!
+Supprimez le succès!
+La composition est réussie.
+Composer ...
+La numérotation est une défaillance.
+L'utilisateur ou le mot de passe est une erreur.
+Obtenir l'adresse IP avec succès
+Obtenir l'adresse IP échoué
+Obtenir l'adresse IP ...
+Vérifiez l'état de fonctionnement du serveur DNS ...
+Le mode DHCP ne peut pas accéder au réseau, essayera l'accès à distance PPP0E.
+Veuillez patienter un instant, pour compléter votre configuration ...
+L'accès à Internet vérifie ...
+Le mode de connexion Internet vérifié est une panne
+Le mode d'accès Internet actuel vérifié est l'adresse dynamique internet (DHCP)
+Le mode d'accès Internet actuel vérifié est l'accès à distance (PPPOE)
+S'il vous plaît, attendez
+Choisissez le fichier de mise à niveau
+Le téléchargement du fichier a échoué, veuillez télécharger
+Le fichier télécharge
+L'APP est en cours de chargement, veuillez patienter
+L'ID de liaison est un échec, vérifiez la connexion Internet
+L'ID de liaison est l'acquisition
+Erreur d'exception
+Définir l'échec
+Veuillez vérifier au moins une fois!
+S'il vous plaît vérifier dans une semaine au moins!
+Veuillez vérifier au moins un groupe de temps au moins!
+Échec de connexion!
+Connectez-vous trop souvent, attendez un instant!
+Numéro de session maximum!
+Le déchargement est un succès
+La migration est réussie
+Format de succès
+Chargement du succès
+Message
+connexion interrompue
+Réglage du taux sur la plage maximale
+La couverture AP doit être comprise entre -65 ~ -95
+La plage des numéros d'utilisateur d'accès doit être comprise entre 0 ~ 64
+L'intervalle de trame Beacon doit être compris entre 100 et 1024
+Le délai d'attente ACK doit être compris entre 0 ~ 255
+Les valeurs de seuil RTS ne peuvent pas être supérieures à 2347 ou inférieures à 0
+La valeur seuil ne peut pas être supérieure à 2346 ou inférieure à 256
+Le bail n'est pas supérieur à 360 ou inférieur à 1
+Gamme d'ID VLAN 2-4094
+L'adresse IP ne peut pas être répétée
+L'adresse MAC ne peut pas être répétée
+L'URL ne peut pas répéter
+La règle ne peut pas répéter
+Veuillez saisir des données
+Dépasser max lenth, a été automatiquement en court-circuit
+Veuillez saisir le mot de passe de confirmation
+Les mots de passe inclus deux fois sont différents
+Entrez à nouveau un entier non vide
+Impossible de contenir des caractères non numériques
+Entrez une décimale non vide à nouveau
+Ne peut contenir d'autres caractères que le nombre et le point décimal
+Le format numérique n'est pas correct
+Entrez à nouveau une chaîne de caractères non vide
+Entrez le chinois, l'anglais ou le numéro
+Impossible de contenir des caractères illégaux
+caractères illégaux
+ajouter
+blanc
+Ne peut contenir d'autres caractères que le nombre et les lettres
+Le mot de passe ne peut pas être vide
+Le mot de passe doit être numérique ou en anglais et non nul
+Ne peut contenir de caractères chinois
+L'adresse du serveur ne peut pas être vide
+trouver
+individuel
+section
+Le nombre
+dans
+deux
+Trois
+quatre
+L'adresse IP ne peut pas être vide
+La valeur IP ne peut pas être vide
+La valeur IP peut être comprise entre 0 et 255
+L'adresse IP ne peut être que numérique
+L'adresse IP ne peut pas être l'adresse de brodcast
+L'adresse IP ne peut pas être une adresse de segment
+Démarrage d'une IP supérieure à la fin de l'IP
+IP lenth n'est pas correct
+La propriété intellectuelle est illégale
+Adresse IP ne peut pas être réservée Adresse
+L'adresse IP ne peut pas être une adresse de bouclage
+L'adresse IP ne peut pas être une adresse de multidiffusion
+L'adresse IP ne peut pas être identique à l'adresse du routeur
+L'adresse IP ne peut pas être une adresse de masque de sous-réseau
+IP ne peut pas être 0
+IP quatrième ne peut pas être 0
+La portée de la propriété intellectuelle doit être dans le même segment
+La plage IP ne peut pas être répétée
+L'adresse IP n'est pas la même que la passerelle par défaut
+L'adresse IP et la passerelle par défaut devraient être dans le même segment!
+Le réseau IP et le réseau IP ne peuvent pas être dans le même segment!
+La passerelle par défaut ne peut pas être vide
+La passerelle par défaut ne peut pas être vide
+La passerelle par défaut ne peut être que de la plage 0-255
+La passerelle par défaut ne peut être que des nombres
+La passerelle par défaut ne peut pas être l'adresse brodcast
+La passerelle par défaut ne peut pas être destination
+La longueur de la passerelle par défaut n'est pas correcte
+La passerelle par défaut est illégale
+La passerelle par défaut peut être une adresse réservée
+La passerelle par défaut ne peut pas être une adresse de redirection
+La passerelle par défaut ne peut pas être une adresse de multidiffusion
+La passerelle par défaut ne peut pas être identique à l'adresse du routeur
+La passerelle par défaut ne peut pas être une adresse de masque de sous-réseau
+La passerelle par défaut ne peut pas être 0
+La passerelle par défaut quatrième ne peut pas être 0
+Le DNS ne peut pas être vide
+Le format DNS n'est pas correct
+La période d'expiration ne peut pas être vide
+Le délai d'attente ne peut pas contenir de caractères non numériques
+La période d'expiration ne peut pas dépasser 65535 ou inférieure à 1
+Le port ne peut pas être vide
+Le port de départ est supérieur au port final
+Les ports ne peuvent pas contenir de caractères non numériques
+Les ports ne peuvent pas dépasser 65535 ou moins de 1
+Erreur d'entrée du masque de sous-réseau
+Le masque de sous-réseau n'est pas conforme à la spécification
+L'adresse MAC est une erreur
+L'adresse MAC ne peut pas être vide
+MAC ne peut pas répéter
+L'adresse MAC ne peut pas être une adresse multicaste
+La valeur MTU ne peut être supérieure à 1500 ou inférieure à 1400
+La valeur MTU ne peut être supérieure à 1500 ou inférieure à 576
+La valeur MTU ne peut être supérieure à 1492 ou inférieure à 1400
+La valeur MTU ne peut pas dépasser 1440 ou moins 576
+Le délai d'attente devrait être compris entre 1 et 30.
+L'année ne peut être inférieure à 2008
+Le mois varie de 1 à 12
+La période allant de 1-
+La gamme des heures de 0-23
+La gamme des minutes de 0 à 59
+La deuxième distance de 0 à 59
+La date ne peut être nulle
+Le format de la date n'est pas cor
+L'année inputed n'est pas correcte
+Le mois inputed n'est pas correct
+Date inputed n'est pas correcte
+Entrez une URL vide
+L'URL n'est pas correcte
+Entrez 5 caractères
+Entrez 4-20 caractères
+Entrez 6-20 caractères
+Entrez 8 à 63 caractères
+Entrez 8 à 30 caractères
+faible
+moyen
+fort
+désactiver
+la semaine
+Lundi
+Mardi
+Mercredi
+Jeudi
+Vendredi
+samedi
+dimanche

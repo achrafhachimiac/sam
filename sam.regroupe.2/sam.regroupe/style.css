@@ -1,0 +1,65 @@
+@font-face {
+	font-family: 'AlexBrush-Regular-OTF';
+	src: url('AlexBrush-Regular-OTF.otf');
+}
+
+
+body
+{
+	background-color: white;
+	
+}
+
+
+h2, em
+{
+    color: green;
+}
+
+h1
+{ 
+	color: brown;
+	font-family: 'AlexBrush-Regular-OTF';
+	font-size: 50px;
+	text-decoration: underline;
+	text-align: center;
+}
+
+
+
+p
+{
+    color: blue;
+	font-size: large;
+	text-align: justify;
+	border: 3px black solid;
+	box-shadow: 6px 6px 0px black;
+}
+
+.introduction
+{ color: red;
+}
+
+.jour
+{ color: brown;
+}
+
+.imageflottante
+{
+	float: left;
+	opacity: 0.3;
+	width: 50px;
+	height: 50px;
+}
+
+.imageflottante:hover
+{
+opacity: 1;
+
+}
+
+.telegraphe
+{
+width: 100%;
+}
+

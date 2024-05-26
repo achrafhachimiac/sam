@@ -1,0 +1,65 @@
+﻿<po>
+
+
+<message msgid="bt_error_title" msgstr="Périphériques de stockage introuvables" />
+<message msgid="bt_error_show1" msgstr="BT télécharger le logiciel doit fonctionner avec un périphérique de stockage de masse" />
+<message msgid="bt_error_show2" msgstr="Veuillez insérer et réessayer." />
+<message msgid="usb disable" msgstr="Désactiver" />
+<message msgid="usb enable" msgstr="Activer" />
+<message msgid="usb add" msgstr="Ajouter" />
+<message msgid="usb edit" msgstr="Modifier" />
+<message msgid="usb del" msgstr="Effacer" />
+<message msgid="usb apply" msgstr="Appliquer" />
+<message msgid="usb cancel" msgstr="Annuler" />
+<message msgid="usb reset" msgstr="Réinitialiser" />
+<message msgid="usb format" msgstr="Formate" />
+<message msgid="usb reallocate" msgstr="Redistribution" />
+<message msgid="usb remove" msgstr="Supprimer le disque" />
+<message msgid="storage disk title" msgstr="Disque USB" />
+<message msgid="storage disk display" msgstr="Liste des dossiers" />
+<message msgid="storage disk dirpath" msgstr="Chemin d'annuaire" />
+<message msgid="storage disk dirpart" msgstr="Nom des partitions" />
+<message msgid="storage part display" msgstr="Liste des partitions" />
+<message msgid="storage part path" msgstr="Chemin" />
+<message msgid="storage No Partition" msgstr="Partition introuvable" />
+<message msgid="storage input dirname" msgstr="Entrez le nom du répertoire" />
+<message msgid="storage adddirName" msgstr="Nom du répertoire" />
+<message msgid="ftp title" msgstr="Paramètres FTP" />
+<message msgid="ftp server enable" msgstr="Serveur FTP" />
+<message msgid="ftp server username" msgstr="Nom d'utilisateur FTP" />
+<message msgid="ftp server userpwd" msgstr="Mot de passe utilisateur FTP" />
+<message msgid="ftp server anonymous" msgstr="Connexion anonyme" />
+<message msgid="ftp server name" msgstr="Nom du serveur FTP" />
+<message msgid="ftp server port" msgstr="Port FTP" />
+<message msgid="ftp server maxsessions" msgstr="Nombre maximum de sessions" />
+<message msgid="ftp server adddir" msgstr="Créer le répertoire" />
+<message msgid="ftp server rename" msgstr="Renommer Fichier / Répertoire" />
+<message msgid="ftp server remove" msgstr="Supprimer le fichier / répertoire" />
+<message msgid="ftp server read" msgstr="Lire le fichier" />
+<message msgid="ftp server write" msgstr="Ecrire un fichier" />
+<message msgid="ftp server download" msgstr="Télécharger" />
+<message msgid="ftp server upload" msgstr="Télécharger" />
+<message msgid="ftp error server name" msgstr="Entrez le nom du serveur FTP" />
+<message msgid="ftp error server name same with admin" msgstr="Le nom du serveur FTP ne peut pas être administrateur" />
+<message msgid="ftp error server pwd" msgstr="Entrez le mot de passe du serveur FTP" />
+<message msgid="ftp error server port" msgstr="Entrez le port du serveur FTP" />
+<message msgid="ftp error number" msgstr="Numéro invalide" />
+<message msgid="ftp error maxsessions" msgstr="Entrez le nombre maximum de sessions" />
+<message msgid="smb title" msgstr="Paramètres Samba" />
+<message msgid="smb server enable" msgstr="Serveur Samba" />
+<message msgid="smb server workgroup" msgstr="WorkGroup" />
+<message msgid="smb server netbios" msgstr="Nom NetBIOS" />
+<message msgid="smb server username" msgstr="Nom d'utilisateur" />
+<message msgid="smb server userpwd" msgstr="Mot de passe de l'utilisateur" />
+<message msgid="smb error workgroup" msgstr="Entrez le Workgroup" />
+<message msgid="smb error netbios" msgstr="Entrez le nom NetBIOS" />
+<message msgid="smb error username" msgstr="Entrez le nom d'utilisateur" />
+<message msgid="smb error userpwd" msgstr="S'il vous plaît entrer le mot de passe" />
+<message msgid="smb error space" msgstr="Ne peut pas contenir d'espaces" />
+<message msgid="smb error select" msgstr="Sélectionnez un répertoire" />
+<message msgid="dlna title" msgstr="Paramètres DLNA" />
+<message msgid="dlna server enable" msgstr="Serveur DLNA" />
+<message msgid="dlna servername" msgstr="Nom du serveur DLNA" />
+<message msgid="dlna error servername" msgstr="Veuillez saisir le nom du serveur DLNA" />
+
+</po>

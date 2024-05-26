@@ -1,0 +1,121 @@
+<po>
+<message msgid="LAN Title" msgstr="Configuration de l'interface LAN" />
+<message msgid="LAN Access Type" msgstr="Type d'accès" />
+<message msgid="LAN IP Address" msgstr="Adresse IP" />
+<message msgid="LAN Subnet Mask" msgstr="Masque de sous-réseau" />
+<message msgid="LAN Default Gateway" msgstr="IP du serveur de gestion" />
+<message msgid="LAN DHCP" msgstr="Serveur DHCP" />
+<message msgid="LAN DHCP Range" msgstr="Gamme client DHCP" />
+<message msgid="LAN DHCP Client List" msgstr="Liste des clients DHCP" />
+<message msgid="LAN DHCP Client IP" msgstr="IP du client" />
+<message msgid="LAN DHCP Lease Time" msgstr="Temps de location (sec)" />
+<message msgid="LAN DHCP Static DHCP Setup" msgstr="Configuration DHCP statique" />
+<message msgid="LAN DHCP Static DHCP List" msgstr="Liste DHCP statique" />
+<message msgid="LAN IP-MAC List" msgstr="Liste IP-MAC" />
+<message msgid="LAN Static DHCP MAX Lists text" msgstr="Max Adresse MAC compte" />
+<message msgid="LAN Button Apply Changes" msgstr="Appliquer les modifications" />
+<message msgid="LAN Button Reset" msgstr="Réinitialiser" />
+<message msgid="LAN Button Add" msgstr="Ajouter" />
+<message msgid="LAN Button Delete" msgstr="Effacer" />
+<message msgid="Enabled" msgstr="Activée" />
+<message msgid="Disabled" msgstr="désactivé" />
+<message msgid="LAN DHCP Local" msgstr="Local" />
+<message msgid="LAN DHCP Relay" msgstr="Relais" />
+<message msgid="LAN DHCP Relay Server" msgstr="Serveur de relais DHCP" />
+<message msgid="Cloudclient Page Title" msgstr="Paramètres du serveur Cloud" />
+<message msgid="Cloudclient Server" msgstr="Cloud Serve" />
+<message msgid="Cloudclient Business Name" msgstr="Identifiant" />
+<message msgid="Cloudclient Business Addr" msgstr="Informations de contact" />
+<message msgid="Cloudclient Apply Change" msgstr="Appliquer les modifications" />
+<message msgid="Cloudclient Enabled" msgstr="Activée" />
+<message msgid="Cloudclient Disabled" msgstr="désactivé" />
+<message msgid="errMsg Invalid IP address" msgstr="Adresse IP non valide" />
+<message msgid="errMsg Invalid subnet mask" msgstr="Masque de sous-réseau invalide" />
+<message msgid="errMsg Invalid value of gateway address" msgstr="Valeur invalide de l'adresse de la passerelle" />
+<message msgid="Its host address can not be all zero" msgstr="Son adresse hôte ne peut pas être nulle" />
+<message msgid="Its host address can not be broadcast address" msgstr="Son adresse hôte ne peut pas être une adresse de diffusion" />
+<message msgid="Its net address can not be all zero" msgstr="Son adresse nette ne peut pas être nulle" />
+<message msgid="errMsg IP address must be in" msgstr="L'adresse IP doit être dans" />
+<message msgid="errMsg Gateway IP address must be in" msgstr="L'adresse IP de la passerelle doit être" />
+<message msgid="errMsg subnet" msgstr="sous-réseau" />
+<message msgid="errMsg IP address and Wan Static address not be in the same subnet" msgstr="L'adresse IP et l'adresse Wan Static ne peuvent pas être dans le même sous-réseau" />
+<message msgid="errMsg Invalid DHCP client range" msgstr="Gamme client DHCP invalide" />
+<message msgid="errMsg DHCP pool should be between" msgstr="Le pool DHCP devrait être entre" />
+<message msgid="errMsg Invalid DHCP lease time" msgstr="Temps de location DHCP invalide" />
+<message msgid="errMsg DHCP lease time should be greater 60s" msgstr="La plage de temps de bail DHCP devrait être de [300s-86400]" />
+<message msgid="errMsg Static DHCP List is full" msgstr="La liste DHCP statique est pleine" />
+<message msgid="errMsg This IP address" msgstr="Cette adresse IP" />
+<message msgid="errMsg This MAC address" msgstr="Cette adresse MAC" />
+<message msgid="errMsg already exists" msgstr="existe déjà" />
+<message msgid="errMsg Invalid MAC" msgstr="Adresse MAC invalide" />
+<message msgid="WAN Title" msgstr="Configuration de l'interface WAN" />
+<message msgid="WAN Introduction" msgstr="Cette page permet de configurer les paramètres du réseau Internet qui se connecte au port WAN de votre point d'accès. Ici, vous pouvez modifier la méthode d'accès à IP statique, DHCP, PPPoE ou PPTP en cliquant sur la valeur d'élément du type d'accès WAN." />
+<message msgid="WAN Access Type" msgstr="Type d'accès WAN" />
+<message msgid="wan_type_dhcp" msgstr="IP dynamique" />
+<message msgid="wan_type_static" msgstr="Statique" />
+<message msgid="wan_type_pppoe" msgstr="PPPOE (ADSL)" />
+<message msgid="WAN IP Address" msgstr="Adresse IP" />
+<message msgid="WAN Subnet Mask" msgstr="Masque de sous-réseau" />
+<message msgid="WAN Default Gateway" msgstr="Passerelle par défaut" />
+<message msgid="WAN MTU Size" msgstr="Taille MTU" />
+<message msgid="WAN Bytes" msgstr="Octets" />
+<message msgid="WAN User Name" msgstr="Nom d'utilisateur" />
+<message msgid="WAN Service Name" msgstr="Nom du service" />
+<message msgid="WAN AC Name" msgstr="Nom AC" />
+<message msgid="WAN Password" msgstr="Mot de passe" />
+<message msgid="WAN Connection Type" msgstr="Type de connexion" />
+<message msgid="WAN AC Name" msgstr="Nom AC" />
+<message msgid="WAN Service Name" msgstr="Nom du service" />
+<message msgid="WAN Address Type" msgstr="Type d'adresse" />
+<message msgid="WAN Static Address" msgstr="Statique" />
+<message msgid="WAN Dynamic Address" msgstr="Dynamique" />
+<message msgid="WAN Server Name" msgstr="Nom du serveur" />
+<message msgid="WAN link mode" msgstr="Taux et duplex" />
+<message msgid="WAN auto mode" msgstr="Auto" />
+<message msgid="WAN 10M full" msgstr="10base complète" />
+<message msgid="WAN 100M full" msgstr="100base complète" />
+<message msgid="WAN 1000M full" msgstr="1000base Full" />
+<message msgid="WAN Connect" msgstr="Relier" />
+<message msgid="WAN Disconnect" msgstr="Déconnecter" />
+<message msgid="WAN Idle Time" msgstr="Temps d'inactivité" />
+<message msgid="WAN minutes" msgstr="minutes" />
+<message msgid="WAN Set DNS Manually" msgstr="Définir le DNS manuellement" />
+<message msgid="WAN DNS1" msgstr="DNS1" />
+<message msgid="WAN DNS2" msgstr="DNS2" />
+<message msgid="WAN Clone MAC Address" msgstr="Clone MAC" />
+<message msgid="WAN Scan Mac" msgstr="Scan Mac Address" />
+<message msgid="WAN Idle Time" msgstr="Temps d'inactivité" />
+<message msgid="WAN minutes" msgstr="minutes" />
+<message msgid="WAN Set DNS Manually" msgstr="Définir le DNS manuellement" />
+<message msgid="WAN Server IP Address" msgstr="Adresse IP du serveur" />
+<message msgid="WAN Request MPPE Encryption" msgstr="Cryptage MPPE" />
+<message msgid="WAN Request MPPC Compression" msgstr="Compression MPPC" />
+<message msgid="WAN Server Name" msgstr="Nom du serveur" />
+<message msgid="WAN Address Type" msgstr="Type d'adresse" />
+<message msgid="WAN Static Address" msgstr="Statique" />
+<message msgid="WAN Dynamic Address" msgstr="Dynamique" />
+<message msgid="WAN Enable uPnP" msgstr="Activer uPnP" />
+<message msgid="WAN Enable IGMP Proxy" msgstr="Activer le proxy IGMP" />
+<message msgid="WAN Enable Ping Access on WAN" msgstr="Activer l'accès au ping sur WAN" />
+<message msgid="WAN Enable Web Server Access on WAN" msgstr="Activer l'accès au serveur Web sur la WAN" />
+<message msgid="WAN Enable IPsec pass through on VPN connection" msgstr="Activer IPsec passer sur la connexion VPN" />
+<message msgid="WAN Enable PPTP pass through on VPN connection" msgstr="Activer PPTP passer à travers la connexion VPN" />
+<message msgid="WAN Enable L2TP pass through on VPN connection" msgstr="Activer L2TP passer à travers la connexion VPN" />
+<message msgid="WAN Button Connect" msgstr="Relier" />
+<message msgid="WAN Button Disconnect" msgstr="Déconnecter" />
+<message msgid="WAN Button Apply Changes" msgstr="Appliquer les modifications" />
+<message msgid="WAN Button Reset" msgstr="Réinitialiser" />
+<message msgid="WAN Button Refresh" msgstr="Rafraîchir" />
+<message msgid="WAN Button Select" msgstr="Sélectionner" />
+<message msgid="WAN scanMac Note" msgstr="Cliquez sur la liste AP et cliquez sur le bouton 'Sélectionner AP'" />
+<message msgid="errMsg User Name cannot be empty" msgstr="Le nom d'utilisateur ne peut pas être vide" />
+<message msgid="errMsg Password cannot be empty" msgstr="Le mot de passe ne peut pas être vide" />
+<message msgid="errMsg Input value should be" msgstr="La valeur d'entrée devrait être" />
+<message msgid="errMsg in decimal." msgstr="en décimale." />
+<message msgid="errMsg Invalid DNS address" msgstr="Adresse DNS non valide" />
+<message msgid="errMsg Invalid value of MTU" msgstr="Valeur invalide de MTU" />
+<message msgid="errMsg Invalid value of Idle Time" msgstr="Valeur invalide du temps d'inactivité" />
+<message msgid="no users" msgstr="Pas de compte" />
+<message msgid="Register now" msgstr="inscrire maintenant" />
+
+</po>

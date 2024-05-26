@@ -1,0 +1,197 @@
+<po>
+<message msgid="wireless Title" msgstr="Paramètres de base sans fil" />
+<message msgid="wireless Introduction" msgstr="Cette page permet de configurer les paramètres pour les clients LAN sans fil qui peuvent se connecter à votre point d'accès. Ici, vous pouvez modifier les paramètres de cryptage sans fil ainsi que les paramètres du réseau sans fil" />
+<message msgid="wireless LAN Interface" msgstr="Statut" />
+<message msgid="wireless Enabled" msgstr="Activée" />
+<message msgid="wireless Disabled" msgstr="désactivé" />
+<message msgid="wireless On" msgstr="Allumé" />
+<message msgid="wireless Off" msgstr="Etteint" />
+<message msgid="wireless Mode" msgstr="Mode" />
+<message msgid="wireless Infrastructure Client" msgstr="Client" />
+<message msgid="wireless SSID" msgstr="SSID" />
+<message msgid="wireless MAC" msgstr="MAC" />
+<message msgid="wireless SSID limit" msgstr="(max. 32 caractères)" />
+<message msgid="wireless MAC Bind" msgstr="lockmac" />
+<message msgid="wireless BSSID" msgstr="BSSID" />
+<message msgid="wireless Signal" msgstr="Signal" />
+<message msgid="wireless Band" msgstr="B: et" />
+<message msgid="wireless Rate" msgstr="Taux" />
+<message msgid="wireless Channel" msgstr="Canal" />
+<message msgid="wireless search best channel" msgstr="Analyse intelligente" />
+<message msgid="wireless search channel quality1" msgstr="Ne recommande pas" />
+<message msgid="wireless search channel quality2" msgstr="Ne recommande pas" />
+<message msgid="wireless search channel quality3" msgstr="Prudent" />
+<message msgid="wireless search channel quality4" msgstr="Recommander" />
+<message msgid="wireless search channel quality5" msgstr="Recommander" />
+<message msgid="wireless search channel ap count1" msgstr="Il y a" />
+<message msgid="wireless search channel ap count2" msgstr="APs dans Channel" />
+<message msgid="wireless search channel select" msgstr="Sélectionner" />
+<message msgid="wireless doublue wifi same channel" msgstr="Canal pas deux périphériques sans fil avec le même" />
+<message msgid="wireless channel cannot set 80M" msgstr="Cette chaîne ne prend pas en charge la bande passante de 80M de canal" />
+<message msgid="wireless channel cannot set 40M" msgstr="Cette chaîne ne supporte pas la bande passante du canal 40M" />
+<message msgid="wireless p2p passthrough" msgstr="P2P passthrough" />
+<message msgid="wireless Auto channel" msgstr="Sélection automatique" />
+<message msgid="wireless Auto channel Time Control" msgstr="Optimisation intelligente" />
+<message msgid="wireless Broadcast SSID" msgstr="La diffusion du SSID" />
+<message msgid="wireless WMM" msgstr="WMM" />
+<message msgid="wireless scanAP Note" msgstr="Cliquez sur la liste AP et cliquez sur le bouton 'Sélectionner AP'" />
+<message msgid="dev_location_info_title" msgstr="Information de Lieu" />
+<message msgid="wireless AP Group" msgstr="Emplacement AP" />
+<message msgid="wireless AP Name" msgstr="AP Nom" />
+<message msgid="BIND MAC" msgstr="LOCK MAC" />
+<message msgid="WDS MODE" msgstr="Mode WDS" />
+<message msgid="ap wds" msgstr="AP + WDS" />
+<message msgid="pure wds" msgstr="Pure WDS" />
+<message msgid="WDS QUICK LINK" msgstr="WDS QUICK LINK" />
+<message msgid="wireless Channel Width" msgstr="Largeur de canal" />
+<message msgid="wireless Control Sideband" msgstr="Contrôle Sideband" />
+<message msgid="wireless Channel Number" msgstr="Le numéro de canal" />
+<message msgid="wireless Security" msgstr="Sécurité" />
+<message msgid="wireless Authentication" msgstr="Authentification" />
+<message msgid="wireless Authentication Open" msgstr="Ouvrir" />
+<message msgid="wireless Cipher Suite" msgstr="Suite de chiffrement" />
+<message msgid="wireless Key" msgstr="Clé" />
+<message msgid="wireless Key Length" msgstr="Longueur de la clé" />
+<message msgid="wireless Key Format" msgstr="Format clé" />
+<message msgid="wireless Wep 64 Bit" msgstr="Wep 64 Bit" />
+<message msgid="wireless Wep 128 Bit" msgstr="Wep 128 Bit" />
+<message msgid="wireless Button Apply Changes" msgstr="Appliquer les modifications" />
+<message msgid="wireless Button Reset" msgstr="Réinitialiser" />
+<message msgid="wireless Button ScanAP" msgstr="Scan AP" />
+<message msgid="wireless Button EDIT" msgstr="modifier" />
+<message msgid="wireless Button Refresh" msgstr="Rafraîchir" />
+<message msgid="wireless Button Select AP" msgstr="Sélectionnez AP" />
+<message msgid="wireless Button ADD" msgstr="Ajouter" />
+<message msgid="wireless Button Delete" msgstr="Effacer" />
+<message msgid="wireless Auto Channel" msgstr="Auto" />
+<message msgid="wireless Auto Rate" msgstr="Auto" />
+<message msgid="wireless Status" msgstr="Statut" />
+<message msgid="wireless Comment" msgstr="Commentaire" />
+<message msgid="wireless WPA/WP2 Key regulations" msgstr="La longueur de la clé doit être de 8 à 63 caractères ASCII ou 64 caractères hexadécimaux!" />
+<message msgid="wireless Key regulations0" msgstr="La clé doit être" />
+<message msgid="wireless Key regulations1" msgstr="personnages!" />
+<message msgid="wireless Key regulations2" msgstr="Caractères HEX!" />
+<message msgid="wireless WEP64 ASCII (5 characters)" msgstr="ASCII (5 caractères)" />
+<message msgid="wireless WEP128 ASCII (13 characters)" msgstr="ASCII (13 caractères)" />
+<message msgid="wireless WEP64 HEX (10 characters)" msgstr="HEX (10 caractères)" />
+<message msgid="wireless WEP128 HEX (26 characters)" msgstr="HEX (26 caractères)" />
+<message msgid="Repeater Title" msgstr="Répéteur sans fil" />
+<message msgid="Wisp Title" msgstr="BRIN" />
+<message msgid="Repeater introduction" msgstr="Cette page permet de configurer les paramètres pour les clients LAN sans fil qui peuvent se connecter à votre point d'accès. Ici, vous pouvez modifier les paramètres de cryptage sans fil ainsi que les paramètres du réseau sans fil." />
+<message msgid="Repeater Interface" msgstr="Interface répéteur" />
+<message msgid="VAP Title" msgstr="Paramètres VAP sans fil" />
+<message msgid="VAP introduction" msgstr="Cette page affiche et met à jour le paramètre sans fil pour plusieurs AP." />
+<message msgid="VAP Interface" msgstr="Interface VAP" />
+<message msgid="VAP Interface on" msgstr="Allumé" />
+<message msgid="VAP Interface off" msgstr="Etteint" />
+<message msgid="VAP network information" msgstr="Informations sur le réseau VAP" />
+<message msgid="WDS Title" msgstr="Paramètres WDS" />
+<message msgid="WDS introduction" msgstr="Le système de distribution sans fil utilise un média sans fil pour communiquer avec d'autres AP, comme l'Ethernet. Pour ce faire, vous devez définir ces AP dans le même canal et définir l'adresse MAC d'autres AP dont vous souhaitez communiquer avec le tableau, puis activer le WDS." />
+<message msgid="WDS" msgstr="WDS" />
+<message msgid="WDS AP BSSID" msgstr="AP BSSID" />
+<message msgid="WDS Current WDS AP List" msgstr="Liste actuelle de WDS AP" />
+<message msgid="WPS Title" msgstr="Réglage WPS" />
+<message msgid="WPS introduction" msgstr="Cette page vous permet de modifier le paramètre pour WPS (Wi-Fi Protected Setup). L'utilisation de cette fonctionnalité pourrait permettre à votre client sans fil de synchroniser automatiquement son réglage et de se connecter au point d'accès en une minute sans tracas." />
+<message msgid="WPS" msgstr="WPS" />
+<message msgid="WPS Status" msgstr="Statut WPS" />
+<message msgid="WPS Status Unconfigured" msgstr="Non configuré" />
+<message msgid="WPS Status Configured" msgstr="Configuré" />
+<message msgid="WPS Self-PIN Number" msgstr="Numéro AUTO-PIN" />
+<message msgid="WPS Regenerate PIN" msgstr="Régénérer le code PIN et appliquer" />
+<message msgid="WPS PIN Configuration" msgstr="Configuration du NIP" />
+<message msgid="WPS Start PIN" msgstr="NIP de départ" />
+<message msgid="WPS Push Button Configuration" msgstr="Configuration du bouton poussoir" />
+<message msgid="WPS Start PBC" msgstr="commencer PBC" />
+<message msgid="WPS Client PIN Number" msgstr="Numéro PIN du client" />
+<message msgid="WPS PIN message1" msgstr="Longueur du code PIN invalide invalide! Le code PIN de l'appareil comporte habituellement quatre ou huit chiffres." />
+<message msgid="WPS PIN message2" msgstr="NIP d'inscription invalide! Le code PIN d'inscription doit être numérique." />
+<message msgid="WPS PIN message3" msgstr="Le seuil de contrôle a échoué Utiliser PIN de toute façon?" />
+<message msgid="WPS Search wireless devices" msgstr="Rechercher des périphériques sans fil" />
+<message msgid="WPS log" msgstr="Statut WPS" />
+<message msgid="WPS log AP WPS Idle" msgstr="WPS Idle" />
+<message msgid="WPS log AP WPS start" msgstr="WPS en cours d'exécution" />
+<message msgid="WPS log AP PBC overlapping" msgstr="PBC se chevauchant" />
+<message msgid="WPS log AP Timeout" msgstr="Ajouter les périphériques sans fil sans succès, délai d'attente WPS" />
+<message msgid="WPS log AP Success" msgstr="Ajoutez les périphériques sans fil. Ajoutez un autre périphérique sans fil, cliquez à nouveau sur le bouton" />
+<message msgid="WPS log STA WPS Idle" msgstr="WPS Idle" />
+<message msgid="WPS log STA WPS start" msgstr="WPS en cours d'exécution" />
+<message msgid="WPS log STA PBC overlapping" msgstr="PBC se chevauchant" />
+<message msgid="WPS log STA Timeout" msgstr="Rejoindre les périphériques sans fil, WPS timeout" />
+<message msgid="WPS log STA Success" msgstr="Rejoignez le périphérique sans fil avec succès" />
+<message msgid="WPS log Encrypt Open" msgstr="---" />
+<message msgid="WPS log Authentication Open" msgstr="Ouvrir" />
+<message msgid="WPS log Key SSID" msgstr="SSID" />
+<message msgid="WPS log Key Authentication" msgstr="Authentification" />
+<message msgid="WPS log Key Encrypt" msgstr="Crypter" />
+<message msgid="WPS log Key Key" msgstr="Clé" />
+<message msgid="Adv Title" msgstr="Paramètres avancés sans fil" />
+<message msgid="Adv introduction" msgstr="Ces paramètres ne concernent que les utilisateurs techniquement plus avancés qui ont une connaissance suffisante du LAN sans fil. Ces paramètres ne doivent pas être modifiés à moins que vous sachiez quel effet les changements auront sur votre point d'accès." />
+<message msgid="Adv Fragment Threshold" msgstr="Seuil de fragments" />
+<message msgid="Adv RTS Threshold" msgstr="Seuil RTS" />
+<message msgid="Adv Ack Timeout Control" msgstr="Ack Timeout Control" />
+<message msgid="Adv Beacon Interval" msgstr="Intervalle Beacon" />
+<message msgid="Adv Max Users" msgstr="Max Users" />
+<message msgid="Adv Preamble Type" msgstr="Préambule Type" />
+<message msgid="Adv Aggregation" msgstr="Agrégation" />
+<message msgid="Adv Short GI" msgstr="Short GI" />
+<message msgid="Adv WLAN Partition" msgstr="Partition WLAN" />
+<message msgid="Adv WLAN DFS" msgstr="DFS" />
+<message msgid="WDS close dfs" msgstr="(Il va fermer la fonction DFS lorsque vous ouvrez la connexion. Si vous devez ouvrir, ouvrez manuellement la page avancée)" />
+<message msgid="wireless dfs notes" msgstr="(Si activé, les connexions WDS peuvent être perdues dans les canaux DFS)" />
+<message msgid="Adv RF Output Power" msgstr="Puissance de sortie RF" />
+<message msgid="Adv Long Preamble" msgstr="Long Préambule" />
+<message msgid="Adv Short Preamble" msgstr="Préambule court" />
+<message msgid="Adv Relayed" msgstr="Relayé" />
+<message msgid="Adv Blocked" msgstr="Bloqué" />
+<message msgid="Adv Kick Threshold" msgstr="Seuil de couverture" />
+<message msgid="Adv Kick Threshold Msg" msgstr="Valeur invalide du seuil de couverture" />
+<message msgid="Adv WLAN Partition introduction" msgstr="Lorsque cela est transmis, il n'y a pas de barrière entre les communications entre les stations sans fil qui se connectent au point d'accès. Si cela est bloqué, les stations sans fil ne sont pas autorisées à échanger des données via le point d'accès" />
+<message msgid="Adv value regulations1" msgstr="L'entrée doit être" />
+<message msgid="Adv value regulations2" msgstr="en décimale." />
+<message msgid="Adv Fragment Threshold msg" msgstr="Valeur invalide de Fragment Threshold." />
+<message msgid="Adv RST Threshold msg" msgstr="Valeur invalide du seuil RTS." />
+<message msgid="Adv AckTimeOut msg" msgstr="Valeur non valide de Ack Timeout." />
+<message msgid="Adv Beacon msg" msgstr="Valeur invalide de Beacon Interval." />
+<message msgid="Adv MaxUser msg" msgstr="Valeur non valide de Wlan Users Num." />
+<message msgid="Adv Country Region" msgstr="Région du pays" />
+<message msgid="Adv contrycode 1" msgstr="FCC" />
+<message msgid="Adv contrycode 2" msgstr="IC" />
+<message msgid="Adv contrycode 3" msgstr="ETSI" />
+<message msgid="Adv contrycode 4" msgstr="ESPAGNE" />
+<message msgid="Adv contrycode 5" msgstr="FRANCE" />
+<message msgid="Adv contrycode 6" msgstr="MKK" />
+<message msgid="Adv contrycode 7" msgstr="EST VRAI" />
+<message msgid="Adv contrycode 8" msgstr="MKK1" />
+<message msgid="Adv contrycode 9" msgstr="MKK2" />
+<message msgid="Adv contrycode 10" msgstr="MKK3" />
+<message msgid="Adv contrycode 11" msgstr="NCC" />
+<message msgid="Adv contrycode 12" msgstr="RUSSE" />
+<message msgid="Adv contrycode 13" msgstr="CN" />
+<message msgid="Adv contrycode 14" msgstr="GLOBAL" />
+<message msgid="Adv contrycode 15" msgstr="À L'ÉCHELLE MONDIALE" />
+<message msgid="Adv Max Sta" msgstr="Max Client" />
+<message msgid="Adv Max Sta msg" msgstr="(Plage 0-64 0: pas de limite)" />
+<message msgid="wireless ACL Title" msgstr="Contrôle d'accès sans fil" />
+<message msgid="wireless ACL introduction" msgstr="Si vous choisissez «Liste permise», seuls les clients dont les adresses MAC sans fil se trouvent dans la liste de contrôle d'accès pourront se connecter à votre point d'accès. Lorsque 'Deny Listed' est sélectionné, ces clients sans fil sur la liste ne pourront pas connecter le point d'accès." />
+<message msgid="wireless ACL Mode" msgstr="Mode de contrôle d'accès sans fil" />
+<message msgid="wireless ACL Allow All" msgstr="Autorise tout" />
+<message msgid="wireless ACL Allow Listed" msgstr="Allow Listed" />
+<message msgid="wireless ACL Deny Listed" msgstr="Refuser Listé" />
+<message msgid="wireless ACL Setup" msgstr="Configuration du contrôle d'accès" />
+<message msgid="wireless ACL List" msgstr="Liste de contrôle d'accès" />
+<message msgid="wireless ACL STA list" msgstr="Liste de l'Association STA" />
+<message msgid="wireless ACL MAX Lists text" msgstr="Max Adresse MAC compte" />
+<message msgid="wireless Invalid MAC" msgstr="Adresse MAC invalide" />
+<message msgid="wireless Invalid MAC RPT" msgstr="L'adresse MAC est répétée." />
+<message msgid="wireless MAC exists msg0" msgstr="Adresse Mac" />
+<message msgid="wireless MAC exists msg1" msgstr="existe déjà" />
+<message msgid="wireless Security Title" msgstr="Paramètres de sécurité sans fil" />
+<message msgid="wireless Security Introduction" msgstr="Cette page vous permet de configurer la sécurité sans fil. Activez WEP ou WPA en utilisant les clés de cryptage pour empêcher tout accès non autorisé à votre réseau sans fil." />
+<message msgid="errMsg SSID cannot be empty" msgstr="SSID ne peut pas être vide" />
+<message msgid="wireless connection signal strength limit" msgstr="Limite de résistance du signal de connexion du client" />
+<message msgid="errMsg connection signal strength limit" msgstr="Entrez la valeur d'intensité du signal correcte" />
+<message msgid="system_status_sin" msgstr="Etat du signal" />
+<message msgid="cho" msgstr="Chaîne 1" />
+<message msgid="ch1" msgstr="Chaîne 2" />
+</po>
+

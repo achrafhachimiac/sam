@@ -1,0 +1,17 @@
+<po>
+<message msgid="wizard button next" msgstr="Paramètres de base sans fil" />
+<message msgid="wizard button back" msgstr="Cette page permet de configurer les paramètres pour les clients LAN sans fil qui peuvent se connecter à votre point d'accès. Ici, vous pouvez modifier les paramètres de cryptage sans fil ainsi que les paramètres du réseau sans fil" />
+<message msgid="wizard button cancel" msgstr="Statut" />
+<message msgid="wizard button finished" msgstr="Activée" />
+<message msgid="wizard title" msgstr="désactivé" />
+<message msgid="wizard Note0" msgstr="Allumé" />
+<message msgid="wizard Note1" msgstr="Etteint" />
+<message msgid="wizard Note2" msgstr="Mode" />
+<message msgid="wizard Setup Operation Mode" msgstr="Client" />
+<message msgid="wizard Choose your Time Zone" msgstr="SSID" />
+<message msgid="wizard Setup LAN Interface" msgstr="MAC" />
+<message msgid="wizard Setup WAN Interface" msgstr="(max. 32 caractères)" />
+<message msgid="wizard Wireless LAN Setting" msgstr="lockmac" />
+<message msgid="wizard Wireless Security Setting" msgstr="BSSID" />
+<message msgid="wizard " msgstr="Signal" />
+</po>

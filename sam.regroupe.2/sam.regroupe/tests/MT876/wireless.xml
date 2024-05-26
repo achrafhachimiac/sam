@@ -1,0 +1,207 @@
+﻿<po>
+  <message msgid="wireless basic title" msgstr="Réglage de base" />
+<message msgid="wireless status" msgstr="Statut" />
+<message msgid="wireless enable" msgstr="Activer" />
+<message msgid="wireless disable" msgstr="Désactiver" />
+<message msgid="wireless mode" msgstr="Mode" />
+<message msgid="wireless country" msgstr="Régional" />
+<message msgid="wireless country china" msgstr="ETSI" />
+<message msgid="wireless country hanguo" msgstr="Corée" />
+<message msgid="wireless country japan" msgstr="Japon" />
+<message msgid="wireless country us" msgstr="FCC" />
+<message msgid="wireless channel" msgstr="Canal" />
+<message msgid="wireless search best channel" msgstr="Analyse intelligente" />
+<message msgid="wireless search channel quality1" msgstr="Ne recommande pas" />
+<message msgid="wireless search channel quality2" msgstr="Ne recommande pas" />
+<message msgid="wireless search channel quality3" msgstr="Prudent" />
+<message msgid="wireless search channel quality4" msgstr="Recommander" />
+<message msgid="wireless search channel quality5" msgstr="Recommander" />
+<message msgid="wireless search channel ap count1" msgstr="Il y a" />
+<message msgid="wireless search channel ap count2" msgstr="APs dans Channel" />
+<message msgid="wireless search channel select" msgstr="Sélectionner" />
+<message msgid="wireless doublue wifi same channel" msgstr="Canal pas deux périphériques sans fil avec le même" />
+<message msgid="wireless Auto channel" msgstr="Sélection automatique" />
+<message msgid="wireless Auto channel Time Control" msgstr="Optimisation intelligente" />
+<message msgid="wireless Hour" msgstr="Heures" />
+<message msgid="wireless Auto channel Time Control Tip" msgstr="La connexion sans fil est déjà ouverte, ouvrez l'optimisation intelligente du canal sans fil, provoquera l'interruption de la connexion sans fil!" />
+<message msgid="wireless vlan title" msgstr="Paramètre VLAN" />
+<message msgid="wireless vlan show" msgstr="VLAN ID 0-4094, la fonction VLAN n'est pas valide lorsque vlanid est 0" />
+<message msgid="wireless brodcastssid" msgstr="La diffusion du SSID" />
+<message msgid="wireless auth" msgstr="Authentification" />
+<message msgid="wireless auth open" msgstr="Système ouvert" />
+<message msgid="wireless auth shared" msgstr="partagé" />
+<message msgid="wireless encrypt" msgstr="Cryptage" />
+<message msgid="wireless key type" msgstr="Type de clé" />
+<message msgid="wireless encrypt none" msgstr="Aucun" />
+<message msgid="wireless wpakey" msgstr="Clé" />
+<message msgid="wireless key way" msgstr="Formulaire clé" />
+<message msgid="wireless key hex" msgstr="HEX" />
+<message msgid="wireless basic key" msgstr="Clé" />
+<message msgid="wireless input key" msgstr="Clé d'entrée" />
+<message msgid="wireless apply" msgstr="Appliquer" />
+<message msgid="wireless off tip" msgstr="AP Client est ouvert, éteignez la fonctionnalité sans fil, éteindrez également le client AP. Que ce soit pour continuer?" />
+<message msgid="wireless error ssid" msgstr="Caractères illégaux SSID!" />
+<message msgid="wireless error channel" msgstr="Sélectionnez le canal approprié" />
+<message msgid="wireless error mac" msgstr="Erreur d'adresse MAC" />
+<message msgid="wireless error mac exist" msgstr="L'adresse MAC existe déjà!" />
+<message msgid="wireless error input ssid" msgstr="Entrez le SSID" />
+<message msgid="wireless error input key" msgstr="Entrez la clé réseau" />
+<message msgid="wireless error key" msgstr="Clé de cryptage pour les caractères illégaux!" />
+<message msgid="wireless error key length" msgstr="Longueur de clé de réseau incorrecte" />
+<message msgid="wireless error hex key" msgstr="Erreur 16 clé hexagonale!" />
+<message msgid="wireless error wpakey" msgstr="Clé de réseau en 8 à 63 mois ou 64 caractères ASCII 16 numéros hexadécimaux" />
+<message msgid="wireless key len" msgstr="Longueur de la clé:" />
+<message msgid="wireless multissid title" msgstr="AP virtuel" />
+<message msgid="wireless multissid operate show" msgstr="Utilisez d'abord le bouton Ajouter pour ajouter un AP virtuel, cliquez sur le bouton Appliquer pour ajouter l'entrée en vigueur après" />
+<message msgid="wireless multissid num show" msgstr="La plupart des AP virtuels permettent l'ajout de 4" />
+<message msgid="wireless mutilssid list" msgstr="Liste virtuelle AP" />
+<message msgid="wireless button sel" msgstr="Sélectionner" />
+<message msgid="wireless button ref" msgstr="Rafraîchir" />
+<message msgid="wireless button add" msgstr="Ajouter" />
+<message msgid="wireless button mod" msgstr="Modifier" />
+<message msgid="wireless button close" msgstr="Fermer" />
+<message msgid="wireless button del" msgstr="Effacer" />
+<message msgid="wireless select wlan" msgstr="Sélectionnez un AP virtuel" />
+<message msgid="wireless select item" msgstr="Sélectionnez un élément" />
+<message msgid="wireless multissid apply tip" msgstr="Application de Virtual AP, vous devez redémarrer l'appareil. Je souhaite continuer?" />
+<message msgid="wireless advsetting title" msgstr="Réglages avancés" />
+<message msgid="wireless advsetting show" msgstr="Les options suivantes sont recommandées uniquement pour les utilisateurs avancés" />
+<message msgid="wireless advsetting band" msgstr="BandWidth" />
+<message msgid="wireless advsetting rdg" msgstr="RDG" />
+<message msgid="wireless advsetting tx_burst" msgstr="Burst de TX" />
+<message msgid="wireless advsetting aggregation" msgstr="Agrégation" />
+<message msgid="wireless advsetting short_slot" msgstr="Slot court" />
+<message msgid="wireless advsetting preamble" msgstr="Préambule Type" />
+<message msgid="wireless advsetting preamblelong" msgstr="Long Préambule" />
+<message msgid="wireless advsetting preambleshort" msgstr="Préambule court" />
+<message msgid="wireless advsetting bg_protect" msgstr="Protection BG" />
+<message msgid="wireless advsetting bg_protect_auto" msgstr="Auto" />
+<message msgid="wireless advsetting bg_protect_open" msgstr="Allumer" />
+<message msgid="wireless advsetting bg_protect_close" msgstr="Etteint" />
+<message msgid="wireless client isolation" msgstr="Isolation des clients" />
+<message msgid="wireless advsetting tx_power" msgstr="Puissance de sortie RF" />
+<message msgid="wireless advsetting rts" msgstr="Seuil RTS" />
+<message msgid="wireless advsetting frag" msgstr="Seuil de fragments" />
+<message msgid="wireless advsetting beacon" msgstr="Intervalle Beacon" />
+<message msgid="wireless advsetting bt_default" msgstr="Reset par défaut" />
+<message msgid="wireless advsetting coverage threshold" msgstr="Seuil de couverture" />
+<message msgid="wireless advsetting error coverage threshold" msgstr="Veuillez saisir le seuil de couverture correct [-65dBm ~ -95dBm]" />
+<message msgid="wireless advsetting max sta count" msgstr="Station Max" />
+<message msgid="wireless advsetting error max sta count" msgstr="Veuillez saisir le numéro de station max. [1-32] 0: pas de limite" />
+<message msgid="wireless advsetting max sta count show" msgstr="(1-32 0: pas de limite)" />
+<message msgid="wireless apclient title" msgstr="Paramétrage de connexion" />
+<message msgid="wan_link_setting" msgstr="Paramètre PPPOE" />
+<message msgid="wlan_link_setting" msgstr="Réglage WLAN" />
+<message msgid="wireless apclient status" msgstr="Statut" />
+<message msgid="wireless apclient ssidchannel" msgstr="SSID et Channel" />
+<message msgid="wireless apclient serchap" msgstr="Scan AP" />
+<message msgid="wireless apclient anyssidenable" msgstr="Activer tout SSID" />
+<message msgid="wireless apclient connect" msgstr="Statut de connexion" />
+<message msgid="system_status_wlanap_signal" msgstr="Résistance du signal AP" />
+<message msgid="system_status_wlanap_linkquality" msgstr="Qualité du lien" />
+<message msgid="system_status_wlan_txrate" msgstr="Tx Rate" />
+<message msgid="system_status_wlan_rxrate" msgstr="Rx Rate" />
+<message msgid="system_status_wlan_txThroughput" msgstr="Tx débit" />
+<message msgid="system_status_wlan_rxThroughput" msgstr="Rendement Rx" />
+<message msgid="wan_setmanual_dns" msgstr="Définir le DNS manuellement" />
+<message msgid="wan_set_dns1" msgstr="DNS primaire" />
+<message msgid="wan_set_dns2" msgstr="DNS secondaire" />
+<message msgid="wan_username" msgstr="Nom d'utilisateur" />
+<message msgid="wan_userpwd" msgstr="Mot de passe de l'utilisateur" />
+<message msgid="wan_pppoe_idletime" msgstr="Temps d'inactivité" />
+<message msgid="wan_pppoe_idletime_show" msgstr="Les minutes se déconnecteront" />
+<message msgid="wan_pppoe_connect_continue" msgstr="Continu" />
+<message msgid="wan_pppoe_connect_manual" msgstr="Connecet à la demande" />
+<message msgid="wan_pppoe_lcp" msgstr="Paramètre LCP" />
+<message msgid="wan_pppoe_lcp_interval" msgstr="Intervalle" />
+<message msgid="wan_pppoe_lcp_interval_show" msgstr="s count" />
+<message msgid="wan_error_input_dns1" msgstr="Veuillez saisir le DNS principal" />
+<message msgid="wan_error_input_username" msgstr="Veuillez saisir le nom d'utilisateur" />
+<message msgid="wan_error_username" msgstr="Nom d'utilisateur de caractère illégal" />
+<message msgid="wan_error_input_userpwd" msgstr="Veuillez entrer le mot de passe de l'utilisateur" />
+<message msgid="wan_error_userpwd" msgstr="Mot de passe de l'utilisateur du caractère illégal" />
+<message msgid="wan_error_lcpnotnum" msgstr="L'intervalle LCP doit être de [0 à 9] nombres" />
+<message msgid="wan_error_lcprange" msgstr="La plage d'intervalle LCP doit être (1-600)" />
+<message msgid="wan_error_lcpcountnotnum" msgstr="Le nombre de LCP doit être [0-9] numéro" />
+<message msgid="wan_error_lcpcountrange" msgstr="LCP doit compter la plage (1-500)" />
+<message msgid="wan_error_idlenotnum" msgstr="Le temps d'inactivité PPPOE doit être de [0 à 9] nombres" />
+<message msgid="wan_error_idlerange" msgstr="PPPOE gamme de temps libre à (1-600)" />
+<message msgid="wan_error_mtunotnum" msgstr="MTU doit être de [0 à 9] nombres." />
+<message msgid="wan_error_mturange" msgstr="La portée de MTU doit" />
+<message msgid="wan_pppoe_connect" msgstr="Relier" />
+<message msgid="wan_pppoe_disconnect" msgstr="Déconnecter" />
+<message msgid="wan_error_pppoenotstart" msgstr="Erreur de connexion échouée: le logiciel d'accès à distance ne démarre pas" />
+<message msgid="wan_error_usernameorpwd" msgstr="Erreur de connexion échouée: Erreur de nom d'utilisateur ou de mot de passe" />
+<message msgid="wan_error_linktimeout" msgstr="Erreur de défaillance de la connexion: délai de connexion du lien d'accès à distance" />
+<message msgid="wlan_apclient_lock_bssid" msgstr="Lock AP" />
+<message msgid="wlan_apclient_dhcpc_pass" msgstr="Proxy DHCP" />
+<message msgid="wlan_statistic_title" msgstr="Statistique de débit sans fil" />
+<message msgid="wlan_bandtest_title" msgstr="Test de bande passante sans fil" />
+<message msgid="wlan_bandtest_start" msgstr="Début" />
+<message msgid="wlan_bandtest_stop" msgstr="Arrêtez" />
+<message msgid="wlan_bandtest_input_url" msgstr="Veuillez entrer l'url de test. Par exemple (http: //XXXX.XXXX.XX)" />
+<message msgid="wlan_bandtesturl_name" msgstr="Url de test" />
+<message msgid="wlan_bandtesttime_name" msgstr="Temps de test" />
+<message msgid="wlan_bandtesttime_range" msgstr="(1 à 5 minutes)" />
+<message msgid="wlan_bandtesttime_range_Error" msgstr="Le temps d'essai doit être compris entre 1 et 5 minutes" />
+<message msgid="wlan_bandtesttime_Error" msgstr="Le temps d'essai doit être compris entre 1 et 9 numéros" />
+<message msgid="wlan_bandtesturl_show" msgstr="URL de test: se réfère généralement à un serveur distant, l'URL d'un fichier (par exemple: http: //xxx.xxx.xx/xxx ou ftp: //xxx.xxx.xx/xxx), afin de tester la précision des résultats Sex, ce fichier qui ne peut pas être trop petit (taille minimale de 300M du fichier)" />
+<message msgid="wlan_bandtest_down" msgstr="Wlan Bandwidth Statistic" />
+<message msgid="wlan_upload_rate" msgstr="Télécharger" />
+<message msgid="wlan_down_rate" msgstr="Télécharger" />
+<message msgid="wlan_bandtest_current" msgstr="Bande passante actuelle" />
+<message msgid="wlan_bandtest_average" msgstr="Bande passante moyenne" />
+<message msgid="wireless change mode reboot" msgstr="Modifiez le mode sans fil que le système redémarrera. You Tong doit continuer?" />
+<message msgid="wireless change wan reboot" msgstr="L'interface WAN changera, le port Ethernet WAN câblé ne pourra pas utiliser le réseau sans fil servira d'interface WAN. La fonction WDS va également fermer et redémarrer l'appareil, continuer?" />
+<message msgid="wireless change wan" msgstr="L'interface WAN changera, le port Ethernet WAN câblé ne pourra pas utiliser le réseau sans fil servira d'interface WAN. Je souhaite continuer?" />
+<message msgid="wireless 3G Can not enable ap client" msgstr="Impossible d'activer AP Client, car wan courant est 3G" />
+<message msgid="wireless macauth title" msgstr="Contrôle d'accès" />
+<message msgid="wireless macauth policy_acceptall" msgstr="Accepter tout" />
+<message msgid="wireless macauth policy_whitelist" msgstr="Autoriser l'adresse MAC du registre" />
+<message msgid="wireless macauth policy_blacklist" msgstr="Drop Register MAC Address" />
+<message msgid="wireless macauth register list" msgstr="Enregistrez la liste MAC Wirelss" />
+<message msgid="wireless macauth connect list" msgstr="Liste MAC associée Wirelss" />
+<message msgid="wireless macauth max num" msgstr="Nombre d'enregistrements Max Register MAC: 64" />
+<message msgid="wireless macauth add num error" msgstr="Plus que la valeur maximale de MAC" />
+<message msgid="wireless research_ap" msgstr="Rafraîchir" />
+<message msgid="wireless searchap show" msgstr="Double-cliquez sur une ligne ou cliquez sur le bouton AP pour sélectionner l'AP" />
+<message msgid="wireless sta list title" msgstr="Liste des stations" />
+<message msgid="wireless sta mac" msgstr="Client MAC" />
+<message msgid="wireless sta rssi" msgstr="Signal" />
+<message msgid="wireless sta time" msgstr="Temps de connexion" />
+<message msgid="wireless sta band" msgstr="B: et" />
+<message msgid="wireless wds title" msgstr="Paramètres WDS" />
+<message msgid="wireless wds show" msgstr="Après avoir activé ou désactivé ou ajouter ou supprimer un périphérique WDS, cliquez sur le bouton "Appliquer Changer" pour rendre l'appareil WDS efficace" />
+<message msgid="wireless wds max num" msgstr="Nombre maximum de périphériques WDS: 4" />
+<message msgid="wireless wds not support mix encrypt" msgstr="Le mode mixte ne prend pas en charge le cryptage, veuillez sélectionner de nouveau AP" />
+<message msgid="wireless wds reboot" msgstr="WDS doit redémarrer l'application. Je souhaite continuer?" />
+<message msgid="wireless wds not support" msgstr="Équipement pour démarrer une fonction ApClient, ouvrir la fonction WDS n'est pas autorisée" />
+<message msgid="wireless wps title" msgstr="Paramètres WPS" />
+<message msgid="wireless wps function" msgstr="WPS" />
+<message msgid="wireless wps mode" msgstr="Mode WPS" />
+<message msgid="wireless wps mode pin" msgstr="Mode PIN" />
+<message msgid="wireless wps mode pbc" msgstr="Mode PBC" />
+<message msgid="wireless wps pin num" msgstr="Code PIN" />
+<message msgid="wireless wps status" msgstr="Statut WPS" />
+<message msgid="wireless wps conf status" msgstr="Configuration WPS" />
+<message msgid="wireless wps auth" msgstr="Authentification WPS" />
+<message msgid="wireless wps encryption" msgstr="Cryptage WPS" />
+<message msgid="wireless wps default keyid" msgstr="WID KeyID par défaut" />
+<message msgid="wireless wps AP PIN" msgstr="Numéro PIN PIN" />
+<message msgid="wireless wps gerenate pin" msgstr="Régénérer le code PIN" />
+<message msgid="wireless wps reset oob" msgstr="Changer de connexion sans fil" />
+<message msgid="wireless wps not support this mode" msgstr="WPS ne prend pas en charge ce modèle de sécurité, redéfinissez d'abord l'OOB!" />
+<message msgid="wireless wps pin error" msgstr="Erreur de code PIN" />
+<message msgid="wireless wps input pin" msgstr="Entrez le code PIN" />
+<message msgid="wireless wps configurated" msgstr="Configuré" />
+<message msgid="wireless wps not configurated" msgstr="Pas configuré" />
+<message msgid="wireless wps key hex" msgstr="WPS Key (Hex)" />
+<message msgid="wireless wps key ascii" msgstr="WPS Key (ASCII)" />
+<message msgid="wireless wps fail" msgstr="Échec de WPS" />
+<message msgid="wireless wps succeed" msgstr="WPS réussit" />
+<message msgid="wireless wps add device" msgstr="Ajouter un périphérique sans fil" />  
+</po>
+
+
+
+

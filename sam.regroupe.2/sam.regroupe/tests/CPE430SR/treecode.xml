@@ -1,0 +1,98 @@
+<po>
+<message msgid="tree System Status" msgstr="État du système" />
+<message msgid="tree Setup Wizard" msgstr="Assistant de configuration" />
+<message msgid="tree Simple Setup" msgstr="Configuration simple" />
+<message msgid="tree Operation Mode" msgstr="Mode de fonctionnement" />
+<message msgid="menu wizard setting" msgstr="System home" />
+<message msgid="tree Wireless wifianalysis" msgstr="Analyseur sans fil" />
+<message msgid="tree Wireless" msgstr="2.4GHz sans fil" />
+<message msgid="tree Wireless 5G" msgstr="5.8GHz sans fil" />
+<message msgid="tree Wireless Status" msgstr="Statut 2,4 GHz" />
+<message msgid="tree Wireless Status 5G" msgstr="Statut 5.8 GHz" />
+<message msgid="tree Wireles LAN Status" msgstr="Statut du LAN Wireles" />
+<message msgid="tree Basic Settings" msgstr="2.4GHz Basic" />
+<message msgid="tree Basic Settings 5G" msgstr="5.8GHz Basic" />
+<message msgid="tree Setup wireless basic configuration" msgstr="Configurer la configuration de base sans fil" />
+<message msgid="tree Repeater Settings" msgstr="Répéteur à 2,4 GHz" />
+<message msgid="tree Repeater Settings 5G" msgstr="Répéteur 5,8 GHz" />
+<message msgid="tree Wireless Repeater Settings" msgstr="Répéteur sans fil" />
+<message msgid="tree Virtual AP Settings" msgstr="AP virtuel 2,4 GHz" />
+<message msgid="tree Virtual AP Settings 5G" msgstr="AP virtuel de 5,8 GHz" />
+<message msgid="tree Setup wireless virtual AP configuration" msgstr="Configurer la configuration virtuelle sans fil de l'AP" />
+<message msgid="tree WDS Settings" msgstr="2,4 GHz WDS" />
+<message msgid="tree WDS Settings 5G" msgstr="5.8 GHz WDS" />
+<message msgid="tree WDS Setting" msgstr="WDS" />
+<message msgid="tree WPS" msgstr="2,4 GHz WPS" />
+<message msgid="tree WPS 5G" msgstr="WPS de 5,8 GHz" />
+<message msgid="tree Setup wireless distribution system" msgstr="Configuration du système de distribution sans fil" />
+<message msgid="tree Advanced Settings" msgstr="2.4GHz Advanced" />
+<message msgid="tree Advanced Settings 5G" msgstr="5.8GHz Advanced" />
+<message msgid="tree Setup wireless advanced configuration" msgstr="Configuration avancée sans fil" />
+<message msgid="tree Access Control" msgstr="2.4GHz Access Control" />
+<message msgid="tree Access Control 5G" msgstr="Contrôle d'accès de 5,8 GHz" />
+<message msgid="tree Setup access control list for wireless clients" msgstr="Liste de contrôle d'accès à l'installation pour les clients sans fil" />
+<message msgid="tree TCP/IP Settings" msgstr="Paramètre réseau" />
+<message msgid="tree LAN Status" msgstr="Statut LAN" />
+<message msgid="tree WAN Status" msgstr="Statut WAN" />
+<message msgid="tree LAN Interface" msgstr="Interface LAN" />
+<message msgid="tree WAN Interface" msgstr="Interface WAN" />
+<message msgid="tree authclient set" msgstr="Authentification" />
+<message msgid="tree cloud server" msgstr="Paramètres en nuage" />
+<message msgid="tree Setup WAN Interface" msgstr="Configuration de l'interface WAN" />
+<message msgid="tree Firewall" msgstr="Pare-feu" />
+<message msgid="tree Port Filtering" msgstr="Filtrage de port" />
+<message msgid="tree Setup port filtering" msgstr="Filtrage du port d'installation" />
+<message msgid="tree IP Filtering" msgstr="Filtrage IP" />
+<message msgid="tree IP/Port Filtering" msgstr="IP / Port Filtering" />
+<message msgid="tree Setup IP filering" msgstr="Configurer le filtrage IP" />
+<message msgid="tree MAC Filtering" msgstr="Filtrage MAC" />
+<message msgid="tree Setup MAC filering" msgstr="Configuration du filtrage MAC" />
+<message msgid="tree Port Forwarding" msgstr="Port Forwarding" />
+<message msgid="tree Setup port-forwarding" msgstr="Renvoi de port d'installation" />
+<message msgid="tree URL Filtering" msgstr="Filtrage d'URL" />
+<message msgid="tree Setup URL filering" msgstr="Affitation d'URL d'installation" />
+<message msgid="tree DMZ" msgstr="DMZ" />
+<message msgid="tree Setup DMZ" msgstr="Configuration DMZ" />
+<message msgid="tree Static Route" msgstr="Route statique" />
+<message msgid="tree Management" msgstr="La gestion" />
+<message msgid="tree QoS" msgstr="QoS" />
+<message msgid="tree Traffic Statistics" msgstr="Statistiques de trafic" />
+<message msgid="tree Setup QoS" msgstr="QoS d'installation" />
+<message msgid="tree DDNS" msgstr="DDNS" />
+<message msgid="tree Setup DDNS" msgstr="Setup DDNS" />
+<message msgid="tree Time Zone Setting" msgstr="Le temps du système" />
+<message msgid="tree Setup Time Zone" msgstr="Temps d'installation" />
+<message msgid="tree Denial-of-Service" msgstr="Déni de service" />
+<message msgid="tree Setup DoS" msgstr="Configuration DoS" />
+<message msgid="tree Log" msgstr="Bûche" />
+<message msgid="tree System Log" msgstr="Journal du système" />
+<message msgid="tree Upgrade Firmware" msgstr="Mise à niveau du firmware" />
+<message msgid="tree Update firmware image" msgstr="Mettre à jour l'image du firmware" />
+<message msgid="tree Save/Reload Settings" msgstr="Gestion des paramètres" />
+<message msgid="tree Save/reload current settings" msgstr="Enregistrer / recharger les paramètres actuels" />
+<message msgid="tree Password" msgstr="Mot de passe" />
+<message msgid="tree USB" msgstr="Stockage / serveur" />
+<message msgid="change mode info" msgstr="Changer le mode de fonctionnement, l'appareil sera redémarré. Êtes-vous sûr?" />
+<message msgid="close pbc AP info" msgstr="Étant donné que le matériel est appliqué pour le mode AP, ce mode ne peut pas être réglé, si vous devez configurer ce mode, vous devez fermer la fonction de mode de commutation matérielle en mode de travail de la page." />
+<message msgid="close pbc GW info" msgstr="Étant donné que le matériel est appliqué pour le mode passerelle, ce mode ne peut pas être réglé, si vous devez configurer ce mode doit être fermé en mode de changement de matériel en mode de fonctionnement de la page." />
+<message msgid="tree Setup access password" msgstr="Mot de passe d'accès à l'installation" />
+<message msgid="menu easysetup status" msgstr="Statut du périphérique" />
+<message msgid="menu easysetup gateway" msgstr="Mode passerelle" />
+<message msgid="menu easysetup repeater" msgstr="Mode Répéteur" />
+<message msgid="menu easysetup ap" msgstr="Mode AP" />
+<message msgid="menu easysetup wds" msgstr="Mode Super WDS" />
+<message msgid="menu easysetup cmd" msgstr="Outils système" />
+<message msgid="menu easysetup cmd show" msgstr="Fournir un réseau de matériel sans fil outils de test de base, utilisé pour juger le périphérique à la connexion réseau du périphérique" />
+<message msgid="menu easysetup adv" msgstr="Avancée" />
+<message msgid="menu easysetup wisp" msgstr="BRIN" />
+<message msgid="menu easysetup dscp pic" msgstr="Structure de base du graphe du réseau" />
+<message msgid="menu wlan follow" msgstr="Suivi du signal" />
+<message msgid="follow" msgstr="suivi" />
+<message msgid="follow sta" msgstr="état de la piste" />
+<message msgid="follow in" msgstr="Dans le suivi ..." />
+<message msgid="follow off" msgstr="cesser le suivi" />
+<message msgid="follow message" msgstr="Dans la procédure de suivi du signal, les effets inattendus se produisent probablement dans la transaction de données Tx / Rx. Appuyez sur le bouton Stop Tracking immédiatement après le suivi du signal." />
+<message msgid="follow stop" msgstr="Arrêtez de suivre" />
+<message msgid="follow track" msgstr="suivvre" />
+<message msgid="follow nums" msgstr="fois" />
+</po>

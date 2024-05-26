@@ -1,0 +1,141 @@
+﻿<po>
+ 
+
+<message msgid="system_status_wan_status_help" msgstr="Afficher l'état de la connexion, le type de connexion, l'adresse IP, la passerelle, le MAC, le DNS et d'autres informations connexes du périphérique d'interface WAN" />
+<message msgid="system_3g_modem_info_help" msgstr="Affichez les fabricants de carte 3G, le modèle de produit, PID, VID, les informations liées à la carte SIM et les types de réseau." />
+<message msgid="system_status_lanconfig_help" msgstr="Afficher les informations actuelles du serveur IP, du serveur DHCP, du MAC et d'autres informations connexes" />
+<message msgid="system_status_wlanconfig_help" msgstr="Afficher les informations de base de l'AP sans fil. Tels que: SSID, canal, mode de cryptage authentifié, les informations utilisateur sans fil et MAC et d'autres informations connexes" />
+<message msgid="system_status_wlanapclientconfig_help" msgstr="Afficher les informations de base des connexions sans fil. Tels que: SSID, canal, mode de cryptage authentifié et état de connexion sans fil" />
+<message msgid="system_status_otherconfig_help" msgstr="Informations sur la version du logiciel de l'équipement d'affichage, les informations sur la version matérielle et le temps de fonctionnement" />
+<message msgid="system_usermanage_name_help" msgstr="Utilisé pour définir le nouveau nom d'utilisateur de connexion" />
+<message msgid="system_usermanage_pwd_help" msgstr="Utilisé pour définir le nouveau mot de passe de l'utilisateur" />
+<message msgid="system_usermanage_repwd_help" msgstr="Mot de passe utilisé et nouveau, confirmez que l'utilisateur entre le même mot de passe 2 fois" />
+<message msgid="wlan_apclient_status_help" msgstr="Configurez la connexion à un AP sans fil" />
+<message msgid="wlan_apclient_ssidchannel_help" msgstr="Réglez le SSID de l'AP pour se connecter, un canal qui indique où AP. Recommandation: le bouton de recherche pour localiser un AP sans fil nécessite une connexion de AP, l'AP sera sélectionné en fonction du système correspondant automatiquement au canal et au cryptage" />
+<message msgid="wlan_apclient_lockbssid_help" msgstr="Réglez AP pour connecter le BSSID (adresse MAC). instructions d'utilisation: lorsqu'il y a plusieurs SSID et que l'environnement est utilisé lorsque l'appareil est connecté à la même chose que le SSID de l'AP, activez cette fonction, vous ne pouvez accéder qu'au périphérique MAC AP" />
+<message msgid="wlan_apclient_auth_help" msgstr="Définir la certification AP de connexion" />
+<message msgid="wlan_apclient_encrypt_help" msgstr="Définir le cryptage AP de connexion" />
+<message msgid="wlan_apclient_key_help" msgstr="Réglez la connexion de la touche AP. instructions d'utilisation: lors de l'utilisation du cryptage WEP, selon les conseils de la page sur la longueur de la clé et le format de la touche, vous sélectionnez la touche d'entrée correcte; Lorsque vous utilisez le cryptage TKIP / AES, entrez la longueur du mot de passe est 8 ~ 63 caractères ASCII ou 64 HEX" />
+<message msgid="wlan_apclient_input_keyway_help" msgstr="Définir le format de clé WEP" />
+<message msgid="wlan_apclient_basic_key_help" msgstr="Définir l'indice de clé de connexion WEP de l'AP. Remarque: car le cryptage WEP n'est pas certifié, donc si vous avez des informations clés sur l'erreur, l'état de la connexion peut être affiché correctement, mais les données ne peuvent pas communiquer" />
+<message msgid="wlan_apclient_connect_help" msgstr="Afficher l'état de connexion actuel de l'AP" />
+<message msgid="wlan_client_statistic_help" msgstr="Afficher le débit en temps réel de liaison montante et de liaison descendante de la connexion sans fil actuelle" />
+<message msgid="system_status_wlanap_signal_help" msgstr="Indique la tension actuelle du signal AP" />
+<message msgid="system_status_wlanap_linkquality_help" msgstr="Indique que la qualité actuelle de la liaison de communication sans fil, qui est la perte de paquets" />
+<message msgid="system_status_wlan_txrate_help" msgstr="Indique que le taux d'émission des périphériques sans fil actuel" />
+<message msgid="system_status_wlan_rxrate_help" msgstr="Indique que les périphériques sans fil actuels reçoivent le taux" />
+<message msgid="system_status_wlan_txThroughput_help" msgstr="Indiquez le débit d'envoi actuel des données du périphérique sans fil" />
+<message msgid="system_status_wlan_rxThroughput_help" msgstr="Indiquez le débit de réception actuel des données du périphérique sans fil" />
+<message msgid="wlan_status_help" msgstr="Paramétrage des fonctions AP" />
+<message msgid="wlan_ssid_help" msgstr="Définir AP SSID.SSID ne dépasse pas 32 chaînes de code ASSCII" />
+<message msgid="wlan_mode_help" msgstr="Réglez le mode AP sans fil. Taux maximum de 11B pour 11M, taux maximal de 11G pour 54M, taux maximal 11N pour 150M ou 300M (ce taux associé au matériel RF, si RF est 1T1R le taux maximum à 150M, si 2T2R taux maximum de 300M)" />
+<message msgid="wlan_country_help" msgstr="Réglez la zone de travail de l'AP. parce que chaque État permet différents canaux sans fil, vous devez donc choisir le bon espace de travail" />
+<message msgid="wlan_channel_help" msgstr="Réglage de la chaîne AP" />
+<message msgid="wlan_brodcastssid_help" msgstr="Définir le SSID de l'AP peut être trouvé" />
+<message msgid="wlan_wmm_help" msgstr="et si l'AP est sur WMM. Lorsque cette fonction est utilisée pour la transmission multimédia sans fil, assurez-vous la qualité des services de transport. En mode sans fil 11N, cette fonction doit être activée" />
+<message msgid="wlan_auth_help" msgstr="Définir la certification AP" />
+<message msgid="wlan_encrypt_help" msgstr="Définir le cryptage de l'AP" />
+<message msgid="wlan_key_help" msgstr="Définit la clé AP. instructions d'utilisation: lors de l'utilisation du cryptage WEP, selon les conseils de la page sur la longueur de la clé et le format de la touche, vous sélectionnez la touche d'entrée correcte; Lorsque vous utilisez le cryptage TKIP / AES, entrez la longueur du mot de passe est 8 ~ 63 caractères ASCII ou 64 HEX" />
+<message msgid="wlan_input_keyway_help" msgstr="Définir le format de clé WEP" />
+<message msgid="wlan_basic_key_help" msgstr="Définir l'indice clé WEP" />
+<message msgid="wlan_wds_title_help" msgstr="Définissez si vous souhaitez activer la fonction WDS" />
+<message msgid="wlan_wds_bssid_help" msgstr="Configurez pour vous connecter à AP BSSID. suggéré: recherche via un bouton AP sans fil pour trouver le nécessaire pour connecter AP" />
+<message msgid="wlan_wds_ssid_help" msgstr="Remarque pour se connecter au SSID AP. grâce à la fonction de recherche de l'AP, l'automatisme devra connecter SSID avec AP" />
+<message msgid="wlan_vap_what" msgstr="Qu'est-ce qu'un AP virtuel?" />
+<message msgid="wlan_vap_what_help" msgstr="Il suffit de mettre un périphérique physique sans fil basé sur des périphériques virtuels. Les périphériques virtuels peuvent être configurés avec le SSID, l'authentification et le mot de passe du périphérique principal. Ne peut pas définir la chaîne seule, puisqu'une seule radio fréquence physique. Ces paramètres d'AP principaux d'AP virtuels d'équipement sont identiques à ceux de la signification de. Reportez-vous à l'aide des paramètres de base sans fil" />
+<message msgid="wlan_vap_howto_add" msgstr="Comment ajouter un AP virtuel?" />
+<message msgid="wlan_vap_howto_add_help" msgstr="Sur la page dans l'entrée correcte requise pour SSID AP, la méthode d'authentification, la méthode de cryptage, les clés, etc. Ensuite, cliquez sur le bouton [Ajouter]. À ce moment-là, une information de configuration d'AP virtuelle a été ajoutée au système, alors que la liste d'AP virtuelle sera également répertoriée. Mais les AP virtuels ne fonctionnent pas vraiment. Si vous voulez que l'AP virtuel soit vraiment opérationnel, vous devez également cliquer sur le bouton [appliquer]. Remarque: le système doit redémarrer" />
+<message msgid="wlan_vap_howto_modify" msgstr="Comment modifier un AP virtuel?" />
+<message msgid="wlan_vap_howto_modify_help" msgstr="L'AP virtuel que vous souhaitez modifier dans la liste du bouton d'option AP ou double-cliquez sur la ligne qui contient l'AP virtuel n'importe où, le système AP virtuel devrait modifier les informations dans une page, et lorsque les modifications sont terminées, cliquez sur [modifier ] bouton" />
+<message msgid="wlan_vap_howto_del" msgstr="Comment supprimer l'AP?" />
+<message msgid="wlan_vap_howto_del_help" msgstr="Liste d'accès virtuel à laquelle vous souhaitez supprimer le bouton d'option AP, cliquez sur le bouton [effacer]. Sur la configuration de l'AP virtuel a été supprimé du système. Le périphérique AP virtuel ne supprime pas, si vous voulez une suppression d'AP virtuelle, vous devez également cliquer sur le bouton [appliquer]. Remarque: le système doit redémarrer" />
+<message msgid="wlan_vlan" msgstr="VLAN sans fil" />
+<message msgid="wlan_vlan_help" msgstr="Définir la liaison de VLANID à SSID sans fil" />
+<message msgid="wlan_mac_what" msgstr="Qu'est-ce qu'un contrôle d'accès basé sur MAC?" />
+<message msgid="wlan_mac_what_help" msgstr="Contrôle d'accès en détectant l'accès MAC client MAC correspondant au jeu MAC, de manière à obtenir l'effet du contrôle d'accès" />
+<message msgid="wlan_mac_policy_acceptall_help" msgstr="Permet un accès client. En réalité, a interdit la fonction de contrôle d'accès" />
+<message msgid="wlan_mac_policy_whitelist_help" msgstr="Autoriser uniquement ajouté à la liste de contrôle d'accès de l'accès client MAC" />
+<message msgid="wlan_mac_policy_blacklist_help" msgstr="Prohiber uniquement ajouté à la liste de contrôle d'accès de l'accès client MAC" />
+<message msgid="mac_register_list_help" msgstr="Des listes ont été ajoutées aux listes de contrôle d'accès MAC, vous pouvez choisir de supprimer" />
+<message msgid="mac_connect_list_help" msgstr="À l'heure actuelle, a été connecté à la liste MAC du client AP, l'utilisateur peut ajouter manuellement la liste MAC de contrôle d'accès MAC" />
+<message msgid="wlan_advsetting_beacon_help" msgstr="Utilisé pour définir l'intervalle de balise AP. Est généralement dans la plage de 50 ms ~ 1024 ms, la valeur par défaut est de 100 ms" />
+<message msgid="wlan_advsetting_frag_help" msgstr="Utilisé pour définir la longueur maximale du paquet de données sans fil, lorsque la longueur du paquet est supérieure à cette valeur, elle met le paquet dans une pluralité de longueur maximale pour les paquets de données numériques" />
+<message msgid="wlan_advsetting_band_help" msgstr="Utilisé pour définir la bande passante sans fil de transmission de données, uniquement dans un mode sans fil à 11N lorsque cela prend effet" />
+<message msgid="wlan_advsetting_tx_burst_help" msgstr="Ouvrez la fonction TX Burst pour améliorer la vitesse de transmission du périphérique 11G [de l'AP au client" />
+<message msgid="wlan_advsetting_short_slot_help" msgstr="Est utilisé pour réduire les symboles OFDM de l'interférence entre les symboles intersymbole. Dans l'environnement multi-voies, un symbole de l'extrémité avant peut arriver au récepteur est plus rapide qu'avant la fin d'un symbole, provoquant ainsi l'interférence entre les symboles. L'intervalle de garde est une période de temps avant et après le symbole inter, le temps de tampon peut fournir plus comme signal de retard. La longueur d'intervalle selon la protection de l'état des chemins multiples, l'intervalle de protection de 802.11a / g en utilisant 800ns, le défaut 802.11n utilise également l'intervalle de garde 800ns, mais dans certaines circonstances, il peut utiliser un intervalle de protection de 400ns. Lorsque l'effet multi-voies n'est pas très grave, les utilisateurs peuvent prendre la configuration d'espaceur pour 400ns; pour l'effet multi-voies est un environnement évident, il n'est pas recommandé d'ouvrir" />
+<message msgid="wlan_advsetting_preamble_help" msgstr="Est principalement utilisé pour la synchronisation des trames" />
+<message msgid="wlan_advsetting_bg_protect_help" msgstr="N faveur de l'appareil sans fil 11B dans la variété complexe de modèles peut se connecter avec succès au routeur. Par défaut, automatique" />
+<message msgid="wlan_advsetting_tx_power_help" msgstr="Mettre en place une puissance d'émission sans fil, envoie la puissance d'émission, plus elle est grande plus loin" />
+<message msgid="wlan_advsetting_rts_help" msgstr="Lorsque la taille du paquet dépasse ce seuil, utilisez le mécanisme CTS / RTS, réduisant la probabilité de conflit, n'est pas recommandé de modifier les valeurs par défaut" />
+<message msgid="wlan_advsetting_aggregation_help" msgstr="Cette fonctionnalité peut être activée pour augmenter la bande passante du réseau" />
+<message msgid="wlan_client_isolation_help" msgstr="Bloquer les utilisateurs sans fil se communiquer" />
+<message msgid="wireless wps title" msgstr="Qu'est-ce que WPS?" />
+<message msgid="wireless wps title help" msgstr="WPS (Wi-Fi Protected Setup) Le dispositif de protection Wi-Fi est implémenté par le programme de certification de l'alliance Wi-Fi, l'installation et le travail de configuration des performances de sécurité axées sur la simplification du réseau local sans fil. De manière traditionnelle, les utilisateurs créent un réseau sans fil, le point d'accès doit être défini manuellement le nom du réseau (SSID) et la clé de sécurité, puis la clé d'authentification du client pour arrêter le «visiteur occasionnel». L'ensemble du processus exige que l'utilisateur dispose d'un équipement Wi-Fi de connaissance de fond et de la modification de la capacité de configuration. La configuration protégée Wi-Fi peut aider l'utilisateur à définir automatiquement le nom du réseau (SSID), la configuration du codage et de l'authentification des puissants de données WPA. Les utilisateurs doivent seulement entrer le code d'information personnel (méthode PIN) ou appuyer sur le bouton (les paramètres des boutons ou PBC), qui peut être connecté en toute sécurité au réseau sans fil. Cela simplifie grandement l'utilisation des paramètres de sécurité sans fil. Wi-Fi Protected Setup prend en charge une variété de produits 802.11 grâce à la certification Wi-Fi, y compris le point d'accès, l'adaptateur sans fil, les téléphones Wi-Fi et d'autres appareils électroniques grand public.WPS peut aider le client à configurer automatiquement le nom du réseau (SSID) et clé de cryptage sans fil. Pour les utilisateurs ordinaires, sans avoir à comprendre le concept de SSID et la clé de sécurité peut obtenir une connexion sécurisée; et l'utilisateur clé de sécurité ne peut pas pirater par des étrangers, car il est généré au hasard; le plus important est le mot de passe de cryptage sans fil, les utilisateurs n'ont pas besoin de se rappeler longtemps, évitez le mot de passe oublié." />
+<message msgid="lan_setting_ipaddress_help" msgstr="Configurer l'adresse IP du réseau local" />
+<message msgid="lan_setting_subnet_help" msgstr="Configurer le masque de sous-réseau LAN" />
+<message msgid="lan_setting_lanfilter_help" msgstr="Lorsque plusieurs périphériques CPE sont connectés à l'AP et que l'adresse IP CPE est identique, le redémarrage de cette fonction permettra aux utilisateurs d'accéder au CPE via le réseau câblé, les utilisateurs sans fil ne peuvent pas éviter de verrouiller les périphériques à configurer.Note: cette fonction est valable uniquement en mode pont, démarrer cette fonction réduira le débit du mode pont" />
+<message msgid="lan_setting_dhcpserver_help" msgstr="Le serveur DHCP peut gérer et allouer automatiquement les paramètres IP requis par les utilisateurs internes" />
+<message msgid="lan_setting_dhcppool_help" msgstr="Le serveur DHCP peut gérer et distribuer automatiquement la plage d'adresses IP" />
+<message msgid="lan_setting_dhcplease_help" msgstr="Le temps de location IP de l'équipement réseau interne par le serveur DHCP" />
+<message msgid="lan_dhcp_list_help" msgstr="Une liste de la liste de liaison statique MAC-IP a été assignée" />
+<message msgid="lan_connect_list_help" msgstr="Liste des équipements connectés aux informations sur les périphériques IP et MAC" />
+<message msgid="wan_type_dhcp_help" msgstr="Interface WAN pour obtenir des informations IP et DNS via DHCP" />
+<message msgid="wan_type_pppoe_help" msgstr="Interface WAN pour obtenir des informations IP et DNS par numérotation PPPOE" />
+<message msgid="wan_type_staticip_help" msgstr="Interface WAN pour définir manuellement les informations IP et DNS" />
+<message msgid="wan_type_pptp_help" msgstr="Interface WAN pour obtenir des informations IP et DNS via PPTP" />
+<message msgid="wan_type_3g_help" msgstr="Interface WAN pour obtenir des informations IP et DNS par numérotation 3G. La connexion manuelle se réfère à l'équipement lors du démarrage de la numérotation, seul l'utilisateur clique sur le bouton [connecté] pour composer. La connexion automatique signifie que le démarrage de l'équipement commence à composer" />
+<message msgid="wan_mac_clone_help" msgstr="L'interface spécifiée MAC Wan, en cliquant sur le bouton [MAC] pour rechercher l'adresse, affichera un périphérique connecté au MAC, sélectionnez MAC. clone peut également spécifier manuellement le MAC" />
+<message msgid="wan_igmp_help" msgstr="Ouvrez le proxy IGMP, cette fonction peut être transmise aux données IGMP de Wan vers LAN" />
+<message msgid="wan_enable_ping_help" msgstr="Cette fonction est activée, ce qui permet de sortir de l'interface réseau de large réseau Ping" />
+<message msgid="wan_enable_web_mangage_help" msgstr="Cette fonctionnalité est activée, elle permet la gestion à distance de la gestion des équipements portuaires spécifiée par le réseau depuis l'extérieur" />
+<message msgid="firewall_ipfilter_name_help" msgstr="Cette fonction est activée, le routeur sera conforme aux règles de filtrage sélectionnées pour le transfert des limitations de données. Lorsque les règles de filtrage pour [refuser], le routeur refuse de transférer les données conformément aux conditions; lorsque les règles de filtrage [permettent], le routeur ne transmet que des données selon les conditions" />
+<message msgid="firewall_ipfilter_iprange_help" msgstr="Définissez les règles pour la plage d'adresses IP" />
+<message msgid="firewall_ipfilter_protocol_help" msgstr="Définir les règles pour le protocole de filtrage" />
+<message msgid="firewall_ipfilter_portrange_help" msgstr="Définissez les règles pour la plage des ports de filtrage" />
+<message msgid="firewall_ipfilter_decs_help" msgstr="Pour faire une description simple pour ajouter des règles, afin de faciliter la gestion des utilisateurs" />
+<message msgid="firewall_mac_addr_help" msgstr="Définissez les règles de l'adresse MAC, l'utilisateur peut cliquer sur le bouton [MAC] pour rechercher l'adresse, sélectionner l'hôte connecté au routeur, vous pouvez également ajouter manuellement" />
+<message msgid="firewall_urlfilter_name_help" msgstr="Cette fonctionnalité est activée, le routeur va rejeter l'accès des utilisateurs LAN à l'URL spécifiée" />
+<message msgid="firewall_urlfilter_string_help" msgstr="Définir l'adresse URL refusée" />
+<message msgid="firewall_portfw_title_help" msgstr="Le renvoi de port transmet un port réseau d'un nœud à un autre comportement, ce qui rend un utilisateur de l'extérieur à travers un routeur NAT activé vers une adresse IP privée (LAN) sur un port" />
+<message msgid="firewall_portfw_rule_type_help" msgstr="Spécifiez le type de service spécifique, ces services sont déterminés par le port" />
+<message msgid="firewall_portfw_rule_name_help" msgstr="Le nom de l'ensemble de règles" />
+<message msgid="firewall_portfw_ip_help" msgstr="Ports de renvoi d'adresse IP LAN" />
+<message msgid="firewall_portfw_externport_help" msgstr="Définition des règles du port externe" />
+<message msgid="firewall_portfw_innerport_help" msgstr="Définition des règles du port interne" />
+<message msgid="firewall_portfw_protocol_help" msgstr="Définition des règles de protocole de transmission" />
+<message msgid="firewall_dmz_what" msgstr="Qu'est-ce que DMZ?" />
+<message msgid="firewall_dmz_what_help" msgstr="DMZ est la «zone démilitarisée» anglaise, l'abréviation, le nom chinois de la «Quarantaine», également appelée «zone démilitarisée». C'est pour résoudre le réseau de pare-feu installé que le réseau externe ne peut pas accéder aux problèmes internes du serveur de réseau, une zone tampon entre le système non sécurisé et l'établissement du système de sécurité; la zone tampon se trouve dans la petite zone de réseau entre les réseaux internes et externes certains doivent être ouverts dans cette entreprise de petites installations de serveurs, comme le serveur Web, le serveur FTP et le forum. D'autre part, grâce à une telle zone de DMZ, protéger plus efficacement le réseau interne, car le déploiement du réseau, par rapport au schéma général du pare-feu, l'attaquant a un obstacle." />
+<message msgid="firewall_dmz_ip_help" msgstr="L'adresse IP de l'hôte définissant la DMZ correspondant au réseau local" />
+<message msgid="manage_reboot_help" msgstr="Le périphérique redémarre" />
+<message msgid="system_static_route_what" msgstr="Qu'est-ce qu'une route statique?" />
+<message msgid="system_static_route_what_help" msgstr="Le routage statique est défini par les informations de routage de l'utilisateur ou la configuration manuelle de l'administrateur réseau. Lorsque la topologie du réseau ou l'état du lien change, les administrateurs réseau doivent modifier manuellement les informations de routage statique dans la table de routage. Les informations de routage statique sont privées par défaut, ne seront pas transférées vers d'autres routeurs. Bien sûr, l'administrateur peut également configurer le routeur pour le partager. Le routage statique s'applique généralement à un environnement de réseau relativement simple, dans cet environnement, l'administrateur de réseau pour clarifier la compréhension de la topologie du réseau, pour définir les informations de routage correctes" />
+<message msgid="system_route_type_help" msgstr="Type de routage statique" />
+<message msgid="system_route_aim_help" msgstr="Objectifs de routage statique" />
+<message msgid="system_route_subnet_help" msgstr="Le masquage définit le routage statique" />
+<message msgid="system_route_gw_help" msgstr="Routage statique défini par passerelle" />
+<message msgid="system_ddns_what" msgstr="Qu'est-ce que DDNS?" />
+<message msgid="system_ddns_what_help" msgstr="DDNS est une adresse IP dynamique qui mappe l'utilisateur à un service de nom de domaine fixe, l'utilisateur se connectant chaque fois au programme client réseau transmettra l'information à la transmission d'adresse IP dynamique de l'hôte au fournisseur de service sur le serveur hôte, le serveur est responsable de fournir des services DNS et de réaliser le DNS dynamique" />
+<message msgid="system_ddns_status_help" msgstr="Définissez si vous souhaitez démarrer le service DDNS" />
+<message msgid="system_ddns_ps_help" msgstr="Choisissez de fournir un fournisseur de services DDNS" />
+<message msgid="system_ddns_hostname_help" msgstr="Définir l'hôte des fournisseurs de services DDNS" />
+<message msgid="system_ddns_username_help" msgstr="Définissez le nom d'utilisateur DDNS enregistré" />
+<message msgid="system_ddns_pwd_help" msgstr="Définissez le mot de passe DDNS" />
+<message msgid="system_ddns_conn_status_help" msgstr="Afficher l'état de connexion du DDNS actuel" />
+<message msgid="system_qos_status_help" msgstr="Définissez si vous souhaitez démarrer le contrôle de bande passante QoS" />
+<message msgid="system_qos_up_help" msgstr="Télécharger la bande passante totale de Wan" />
+<message msgid="system_qos_down_help" msgstr="Réseau étendu de bande passante de téléchargement étendu" />
+<message msgid="system_qos_rule_ip_help" msgstr="Définissez la plage d'adresses IP du contrôle de bande passante" />
+<message msgid="system_qos_rule_mac_help" msgstr="Définissez l'adresse MAC de contrôle de la bande passante, l'utilisateur peut choisir d'accéder à l'équipement du PC, peut également configurer son propre" />
+<message msgid="system_qos_rule_mode_help" msgstr="Définissez le mode de gestion de la bande passante, définissez le partage de la bande passante, se réfère à la gamme complète d'IP dans les hôtes de la règle de QoS, partage la bande passante spécifiée, profitez de la bande passante, se réfère à la bande passante spécifiée à chaque hôte" />
+<message msgid="system_qos_rule_maxband_help" msgstr="La limite maximale de bande passante spécifiée par la QoS" />
+<message msgid="system_log_status_help" msgstr="Définissez si vous souhaitez afficher le journal du système" />
+<message msgid="system_log_remoteserver_help" msgstr="Définit si la synchronisation du journal du système distant spécifié" />
+<message msgid="NTPSyncWithHost_help" msgstr="L'heure et le routeur sont actuellement connectés synchronisation horaire PC" />
+<message msgid="system_ntp_status_help" msgstr="Définissez si vous souhaitez commencer le NTP" />
+<message msgid="system_ntp_server_help" msgstr="Sélectionnez la synchronisation de l'heure du serveur" />
+<message msgid="system_ntp_manualserver_help" msgstr="Définir l'adresse IP du serveur de synchronisation personnalisée utilisateur" />
+<message msgid="system_ntp_tz_help" msgstr="Définissez le fuseau horaire standard du routeur" />
+</po>
+
+
+

@@ -1,0 +1,85 @@
+﻿<po>
+ 
+
+<message msgid="menu sta title" msgstr="Station sans fil" />
+<message msgid="menu gw title" msgstr="Passerelle sans fil" />
+<message msgid="menu br title" msgstr="Wireless Brigde" />
+<message msgid="menu opmode" msgstr="Mode de fonctionnement" />
+<message msgid="menu wizard setting" msgstr="Installation rapide" />
+<message msgid="menu wireless setting" msgstr="Sans fil" />
+<message msgid="menu wireless basic setting" msgstr="Paramètres de base" />
+<message msgid="menu wireless mutiple ssid" msgstr="AP virtuel" />
+<message msgid="menu wireless apclient" msgstr="Connexion sans fil" />
+<message msgid="menu wireless statistic" msgstr="Statistique de débit" />
+<message msgid="menu wireless bandtest" msgstr="Test de bande passante" />
+<message msgid="menu wireless mac auth" msgstr="Contrôle d'accès" />
+<message msgid="menu wireless vlan" msgstr="Paramètres VLAN" />
+<message msgid="menu wireless wds" msgstr="Paramètres WDS" />
+<message msgid="menu wireless wps" msgstr="Paramètres WPS" />
+<message msgid="menu wireless advanced" msgstr="Réglages avancés" />
+<message msgid="menu tcpip setting" msgstr="Réseau" />
+<message msgid="menu tcpip lan" msgstr="Paramètres LAN" />
+<message msgid="menu tcpip wan" msgstr="Paramètres WAN" />
+<message msgid="menu firewall setting" msgstr="Pare-feu" />
+<message msgid="menu wifidog set" msgstr="Paramètres WiFiDog" />
+<message msgid="menu cloud server" msgstr="Paramètres en nuage" />
+<message msgid="menu firewall ipport filter" msgstr="IP / Port Filtering" />
+<message msgid="menu firewall mac filter" msgstr="Filtrage MAC" />
+<message msgid="menu firewall url filter" msgstr="Filtrage d'URL" />
+<message msgid="menu firewall port forword" msgstr="Port Forwarding" />
+<message msgid="menu firewall dmz" msgstr="Paramètres DMZ" />
+<message msgid="menu firewall coninfo" msgstr="Statistique de connexion" />
+<message msgid="menu firewall conctrl" msgstr="Contrôle de connexion" />
+<message msgid="menu storagenetservice" msgstr="Stockage / serveur" />
+<message msgid="menu storagenetservice usb disk" msgstr="Disque USB" />
+<message msgid="menu storagenetservice ftp" msgstr="Paramètres FTP" />
+<message msgid="menu storagenetservice samba" msgstr="Paramètres SAMBA" />
+<message msgid="menu dlna server" msgstr="Paramètres DLNA" />
+<message msgid="menu storagenetservice printersrv" msgstr="Paramètre du serveur d'imprimante" />
+<message msgid="menu storagenetservice bt" msgstr="Paramètres BT" />
+<message msgid="menu dev management" msgstr="La gestion" />
+<message msgid="menu dev management status" msgstr="Statut" />
+<message msgid="menu dev management status sw info" msgstr="Informations de base" />
+<message msgid="menu dev management status lan" msgstr="LAN" />
+<message msgid="menu dev management status wan" msgstr="BLÊME" />
+<message msgid="menu dev management status 3G" msgstr="3G / 4G" />
+<message msgid="menu dev management status wifi" msgstr="Statut WiFi" />
+<message msgid="menu dev management status apcli" msgstr="Statut de connexion WiFi" />
+<message msgid="menu dev management route" msgstr="Route" />
+<message msgid="menu dev management ddns" msgstr="DDNS" />
+<message msgid="menu dev management qos" msgstr="QoS" />
+<message msgid="menu dev management admin" msgstr="Utilisateur" />
+<message msgid="menu dev management log" msgstr="Logs" />
+<message msgid="menu dev management reboot" msgstr="Redémarrer" />
+<message msgid="menu dev management language" msgstr="La langue" />
+<message msgid="menu dev management saverestore config" msgstr="Système" />
+<message msgid="menu dev management swupdate" msgstr="Mise à niveau du firmware" />
+<message msgid="menu dev management ntp" msgstr="Le temps du système" />
+<message msgid="menu easysetup status" msgstr="Statut du périphérique" />
+<message msgid="menu easysetup gateway" msgstr="Paramètres Internet" />
+<message msgid="menu easysetup repeater" msgstr="Répéteur sans fil" />
+<message msgid="menu easysetup ap" msgstr="Couverture sans fil" />
+<message msgid="menu easysetup cmd" msgstr="Outils système" />
+<message msgid="menu easysetup adv" msgstr="Réglages avancés" />
+<message msgid="menu easysetup dscp pic" msgstr="Structure de base du graphe du réseau" />
+<message msgid="system save config and exceute" msgstr="La configuration est appliquée ......" />
+<message msgid="system upgrade software" msgstr="Le système augmente, veuillez patienter ..." />
+<message msgid="system rebooting" msgstr="Le système redémarre, veuillez patienter ......" />
+<message msgid="opmode title" msgstr="Mode de fonctionnement" />
+<message msgid="menu Help" msgstr="Aidez-moi" />
+<message msgid="menu zhcn" msgstr="简体 中文" />
+<message msgid="main apply" msgstr="Appliquer" />
+<message msgid="main cancel" msgstr="Annuler" />
+<message msgid="change mode info" msgstr="Changer le mode de fonctionnement, l'appareil sera redémarré. Êtes-vous sûr?" />
+<message msgid="GW_name" msgstr="Mode passerelle" />
+<message msgid="GW_Show" msgstr="Dans ce mode, l'appareil est censé se connecter à Internet via ADSL / Cable Modem. Le NAT est activé et les PC dans les ports LAN partagent la même IP au FAI via le port WAN. Le type de connexion peut être configuré dans la page WAN en utilisant PPPOE, DHCP client ou IP statique." />
+<message msgid="BR_name" msgstr="Mode Répéteur" />
+<message msgid="BR_show" msgstr="Dans ce mode, l'utilisateur peut accéder aux AP sans fil, les périphériques peuvent être connectés à un autre réseau sans fil à l'aide de la connexion sans fil, toutes les interfaces sont reliées ensemble. Sans NAT, pare-feu et toutes les fonctions liées au réseau" />
+<message msgid="WISP_name" msgstr="Wireless ISP" />
+<message msgid="WISP_show" msgstr="Dans ce mode, tous les ports Ethernet sont regroupés et le client sans fil se connecte au point d'accès du FAI. Le NAT est activé et les PC dans les ports Ethernet partagent la même IP vers le FAI via le réseau local sans fil. Vous devez d'abord régler le mode sans fil en mode client et vous connecter à l'AP ISP dans la page Site-Survey. Le type de connexion peut être configuré dans la page WAN en utilisant PPPOE, DHCP client ou IP statique." />
+<message msgid="AP_name" msgstr="Mode AP" />
+<message msgid="AP_show" msgstr="Dans ce mode, l'interface sans fil AP et l'interface câble relient ensemble. Sans NAT, pare-feu et toutes les fonctions liées au réseau." />
+<message msgid="APWDS_name" msgstr="Mode WDS" />
+<message msgid="APWDS_show" msgstr="Dans ce mode, l'interface sans fil peut être connectée avec d'autres AP sans fil via WDS, et l'interface sans fil et l'interface de câble. Sans NAT, pare-feu et toutes les fonctions liées au réseau." />
+
+</po>

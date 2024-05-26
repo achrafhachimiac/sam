@@ -1,0 +1,259 @@
+<po>
+<message msgid="man Disabled" msgstr="désactivé" />
+<message msgid="man Enabled" msgstr="Activée" />
+<message msgid="man Button Apply Changes" msgstr="Appliquer" />
+<message msgid="man Button Reset" msgstr="Annuler" />
+<message msgid="man Button Refresh" msgstr="Rafraîchir" />
+<message msgid="man Button Clear" msgstr="Clair" />
+<message msgid="man Select All" msgstr="Tout sélectionner" />
+<message msgid="man Button Upgrade" msgstr="Surclassement" />
+<message msgid="man Button Save Settings" msgstr="Enregistrer les paramètres" />
+<message msgid="man Button Upload Settings" msgstr="Paramètres de téléchargement" />
+<message msgid="man Button Reset Settings" msgstr="Réinitialiser les options" />
+<message msgid="man Button System Reboot" msgstr="Redémarrage du système" />
+<message msgid="man title" msgstr="La gestion du système" />
+<message msgid="man introduction" msgstr="Vous pouvez configurer le compte d'administrateur et le mot de passe, les paramètres NTP et les paramètres DNS dynamiques ici." />
+<message msgid="man language setting" msgstr="Paramètres de langue" />
+<message msgid="man select language" msgstr="Choisir la langue" />
+<message msgid="man admin setting" msgstr="Paramètres de l'administrateur" />
+<message msgid="man admin account" msgstr="Compte" />
+<message msgid="man admin passwd" msgstr="Mot de passe" />
+<message msgid="man ntp setting" msgstr="Paramètres NTP" />
+<message msgid="man ntp timezone" msgstr="Fuseau horaire:" />
+<message msgid="man Time Zone Setting Title" msgstr="Réglage fuseau horaire" />
+<message msgid="system_tool_title" msgstr="Outil de ping système" />
+<message msgid="system_tool_PingHost" msgstr="Host IP / Domain" />
+<message msgid="system_tool_PingCountName" msgstr="Compte Ping" />
+<message msgid="system_tool_PingLengthName" msgstr="Taille ping (octets)" />
+<message msgid="system_tool_pinghost_null" msgstr="Veuillez saisir IP ou Domain" />
+<message msgid="system_tool_res_title" msgstr="Résultats d'implémentation" />
+<message msgid="man NTP Note0" msgstr="Vous pouvez maintenir l'heure du système en synchronisant avec un serveur de temps public sur Internet." />
+<message msgid="man NTP Current Time" msgstr="Heure actuelle" />
+<message msgid="man NTP Yr" msgstr="Année" />
+<message msgid="man NTP Mon" msgstr="Lun" />
+<message msgid="man NTP Day" msgstr="journée" />
+<message msgid="man NTP Hr" msgstr="Heure" />
+<message msgid="man NTP Mn" msgstr="Mn" />
+<message msgid="man NTP Sec" msgstr="Seconde" />
+<message msgid="man NTP Button Sync with host" msgstr="Synchronisation avec l'hôte" />
+<message msgid="man NTP Time Zone Select" msgstr="Sélection du fuseau horaire" />
+<message msgid="man NTP Enable NTP client update" msgstr="Activer la mise à jour du client NTP" />
+<message msgid="man NTP Automatically Adjust Daylight Saving" msgstr="Réglage automatique de l'heure d'été" />
+<message msgid="man NTP Server" msgstr="Serveur NTP" />
+<message msgid="man NTP Manual IP Setting" msgstr="Réglage IP manuel" />
+<message msgid="man NTP Reboot Time Show" msgstr="Lorsque le périphérique fonctionne à" />
+<message msgid="man NTP Reboot Time Hours" msgstr="Redémarrage automatique" />
+<message msgid="errMsg Invalid NTP Server IP address" msgstr="Adresse IP du serveur NTP invalide" />
+<message msgid="errMsg Invalid NTP Server can not be empty" msgstr="Le serveur NTP ne peut pas être vide" />
+<message msgid="man ntp Eniwetok" msgstr="(GMT-12: 00) Eniwetok, Kwajalein" />
+<message msgid="man ntp Midway Island" msgstr="(GMT-11: 00) Midway Island, Samoa" />
+<message msgid="man ntp Hawaii" msgstr="(GMT-10: 00) Hawaï" />
+<message msgid="man ntp Alaska" msgstr="(GMT-09: 00) Alaska" />
+<message msgid="man ntp Pacific Time" msgstr="(GMT-08: 00) heure du Pacifique (États-Unis, Canada); Tijuana" />
+<message msgid="man ntp Arizona" msgstr="(GMT-07: 00) Arizona" />
+<message msgid="man ntp Mountain Time" msgstr="(GMT-07: 00) Mountain Time (États-Unis, Canada)" />
+<message msgid="man ntp Central Time" msgstr="(GMT-06: 00) Heure centrale (États-Unis, Canada)" />
+<message msgid="man ntp Mexico City" msgstr="(GMT-06: 00) Mexico, Tegucigalpa" />
+<message msgid="man ntp Saskatchewan" msgstr="(GMT-06: 00) Saskatchewan" />
+<message msgid="man ntp Bogota" msgstr="(GMT-05: 00) Bogota, Lima, Quito" />
+<message msgid="man ntp Eastern Time" msgstr="(GMT-05: 00) New York, heure de l'Est (États-Unis, Canada)" />
+<message msgid="man ntp Indiana" msgstr="(GMT-05: 00) Indiana (Est)" />
+<message msgid="man ntp Atlantic Time" msgstr="(GMT-04: 00) Heure de l'Atlantique (Canada)" />
+<message msgid="man ntp Caracas" msgstr="(GMT-04: 00) Caracas, La Paz" />
+<message msgid="man ntp Santiago" msgstr="(GMT-04: 00) Santiago" />
+<message msgid="man ntp Newfoundland" msgstr="(GMT-03: 30) Terre-Neuve" />
+<message msgid="man ntp Brasilia" msgstr="(GMT-03: 00) Brasilia" />
+<message msgid="man ntp Buenos Aires" msgstr="(GMT-03: 00) Buenos Aires, Georgetown" />
+<message msgid="man ntp Mid-Atlantic" msgstr="(GMT-02: 00) Mid-Atlantic" />
+<message msgid="man ntp Azores" msgstr="(GMT-01: 00) Açores, Cap-Vert est." />
+<message msgid="man ntp Casablanca" msgstr="(GMT) Casablanca, Monrovia" />
+<message msgid="man ntp Greenwich Mean Time" msgstr="(GMT) Temps moyen de Greenwich: Dublin, Édimbourg, Lisbonne, Londres" />
+<message msgid="man ntp Amsterdam" msgstr="(GMT + 01: 00) Amsterdam, Berlin, Berne, Rome, Stockholm, Vienne" />
+<message msgid="man ntp Belgrade" msgstr="(GMT + 01: 00) Belgrade, Bratislava, Budapest, Ljubljana, Prague" />
+<message msgid="man ntp Barcelona" msgstr="(GMT + 01: 00) Barcelone, Madrid" />
+<message msgid="man ntp Brussels" msgstr="(GMT + 01: 00) Bruxelles, Copenhague, Madrid, Paris, Vilnius" />
+<message msgid="man ntp Paris" msgstr="(GMT + 01: 00) Paris" />
+<message msgid="man ntp Sarajevo" msgstr="(GMT + 01: 00) Sarajevo, Skopje, Sofija, Varsovie, Zagreb" />
+<message msgid="man ntp Athens" msgstr="(GMT + 02: 00) Athènes, Istanbul, Minsk" />
+<message msgid="man ntp Bucharest" msgstr="(GMT + 02: 00) Bucarest" />
+<message msgid="man ntp Cairo" msgstr="(GMT + 02: 00) Le Caire" />
+<message msgid="man ntp Harare" msgstr="(GMT + 02: 00) Harare, Pretoria" />
+<message msgid="man ntp Helsinki" msgstr="(GMT + 02: 00) Helsinki, Kiev, Riga, Sofia, Tallinn, Vilnius" />
+<message msgid="man ntp Jerusalem" msgstr="(GMT + 02: 00) Jérusalem" />
+<message msgid="man ntp Baghdad" msgstr="(GMT + 03: 00) Bagdad, Koweït, Riyad" />
+<message msgid="man ntp Moscow" msgstr="(GMT + 03: 00) Moscou, Saint-Pétersbourg, Volgograd" />
+<message msgid="man ntp Mairobi" msgstr="(GMT + 03: 00) Mairobi" />
+<message msgid="man ntp Tehran" msgstr="(GMT + 03: 30) Téhéran" />
+<message msgid="man ntp Abu Dhabi" msgstr="(GMT + 04: 00) Emirats Arabes Unis Dubaï, Muscat" />
+<message msgid="man ntp Baku" msgstr="(GMT + 04: 00) Bakou, Tbilisi" />
+<message msgid="man ntp Kabul" msgstr="(GMT + 04: 30) Kaboul" />
+<message msgid="man ntp Ekaterinburg" msgstr="(GMT + 05: 00) Ekaterinburg" />
+<message msgid="man ntp Islamabad" msgstr="(GMT + 05: 00) Islamabad, Karachi, Tachkent" />
+<message msgid="man ntp Bombay" msgstr="(GMT + 05: 30) Bombay, Calcutta, Madras, New Delhi" />
+<message msgid="man ntp Astana" msgstr="(GMT + 06: 00) Astana, Almaty, Dhaka" />
+<message msgid="man ntp Colombo" msgstr="(GMT + 06: 00) Colombo" />
+<message msgid="man ntp Bangkok" msgstr="(GMT + 07: 00) Bangkok, Hanoi, Jakarta" />
+<message msgid="man ntp Beijing" msgstr="(GMT + 08: 00) Beijing, Chongqing, Hong Kong, Urumqi" />
+<message msgid="man ntp Perth" msgstr="(GMT + 08: 00) Perth" />
+<message msgid="man ntp Singapore" msgstr="(GMT + 08: 00) Singapour" />
+<message msgid="man ntp Taipei" msgstr="(GMT + 08: 00) Taipei" />
+<message msgid="man ntp Osaka" msgstr="(GMT + 09: 00) Osaka, Sapporo, Tokyo" />
+<message msgid="man ntp Seoul" msgstr="(GMT + 09h00) Séoul" />
+<message msgid="man ntp Yakutsk" msgstr="(GMT + 09: 00) Yakutsk" />
+<message msgid="man ntp Adelaide" msgstr="(GMT + 09: 30) Adélaïde" />
+<message msgid="man ntp Darwin" msgstr="(GMT + 09: 30) Darwin" />
+<message msgid="man ntp Brisbane" msgstr="(GMT + 10: 00) Brisbane" />
+<message msgid="man ntp Canberra" msgstr="(GMT + 10: 00) Canberra, Melbourne, Sydney" />
+<message msgid="man ntp Guam" msgstr="(GMT + 10: 00) Guam, Port Moresby" />
+<message msgid="man ntp Hobart" msgstr="(GMT + 10: 00) Hobart" />
+<message msgid="man ntp Vladivostok" msgstr="(GMT + 10: 00) Vladivostok" />
+<message msgid="man ntp Magadan" msgstr="(GMT + 11: 00) Magadan, Salomon Is., Nouvelle-Calédonie" />
+<message msgid="man ntp Auckland" msgstr="(GMT + 12: 00) Auckland, Wllington" />
+<message msgid="man ntp Fiji" msgstr="(GMT + 12: 00) Fidji, Kamchatka, Marshall Is." />
+<message msgid="man DDNS Title" msgstr="Paramètres DDNS" />
+<message msgid="man DDNS Note0" msgstr="DNS dynamique est un service qui vous fournit un nom de domaine Internet valide, non changeant (une URL) pour accéder à cette adresse IP (éventuellement en constante évolution)." />
+<message msgid="man DDNS Setting" msgstr="Configuration DDNS" />
+<message msgid="man DDNS Service Provider" msgstr="Fournisseur de services" />
+<message msgid="man DDNS Domain Name" msgstr="Nom de domaine" />
+<message msgid="man DDNS none" msgstr="aucun" />
+<message msgid="man DDNS User Name/Email" msgstr="Nom d'utilisateur" />
+<message msgid="man DDNS Password/Key" msgstr="Mot de passe / clé" />
+<message msgid="man DDNS" msgstr="DNS dynamique" />
+<message msgid="man DDNS LOGOUT" msgstr="Connectez - Out" />
+<message msgid="errMsg DDNS Domain Name can't be empty" msgstr="Le nom de domaine ne peut pas être vide" />
+<message msgid="errMsg DDNS User Name/Email can't be empty" msgstr="Le nom d'utilisateur ne peut pas être vide" />
+<message msgid="errMsg DDNS Password/Key can't be empty" msgstr="Le mot de passe ne peut pas être vide" />
+<message msgid="man DDNS link status" msgstr="Statut du lien" />
+<message msgid="man DDNS link status_0" msgstr="Connectez-vous avec succès" />
+<message msgid="man DDNS link status_1" msgstr="La vérification s'est écoulée" />
+<message msgid="man DDNS link status_2" msgstr="Accédez à la liste des noms de domaine" />
+<message msgid="man DDNS link status_3" msgstr="Succès de l'enregistrement des noms de domaine" />
+<message msgid="man DDNS link status_4" msgstr="Succès du service Ddns" />
+<message msgid="man DDNS link status_5" msgstr="Serveur de connexion ......" />
+<message msgid="man DDNS link status_6" msgstr="Connectez-vous avec succès" />
+<message msgid="man DDNS link status_7" msgstr="Redirigé vers le serveur ......" />
+<message msgid="man DDNS link status_256" msgstr="Impossible de se connecter au serveur" />
+<message msgid="man DDNS link status_258" msgstr="Erreur de nom d'utilisateur / mot de passe" />
+<message msgid="man DDNS link status_300" msgstr="L'échec du service Ddns" />
+<message msgid="man DDNS domain" msgstr="Domaine" />
+<message msgid="man DDNS wan ip" msgstr="IP publique" />
+<message msgid="man DDNS user type" msgstr="Type d'utilisateur" />
+<message msgid="man DDNS user type_0" msgstr="la norme" />
+<message msgid="man DDNS user type_1" msgstr="Professionnel" />
+<message msgid="man DDNS user type_2" msgstr="Commercial" />
+<message msgid="man DDNS user type_3" msgstr="Vaisseau amiral" />
+<message msgid="man DDNS Tip 1" msgstr="Pas de compte?" />
+<message msgid="man DDNS Tip 2" msgstr="enregistrement" />
+<message msgid="man DDNS Tip 3" msgstr="Mot de passe oublié" />
+<message msgid="man DDNS Tip 4" msgstr="Mettre à niveau vers des services professionnels" />
+<message msgid="man DDNS Tip 5" msgstr="Aidez-moi" />
+<message msgid="errMsg Invalid image" msgstr="Image invalide" />
+<message msgid="DoS Title" msgstr="Déni de service" />
+<message msgid="DoS Note0" msgstr="Une attaque DoS (déni de service) se caractérise par une tentative explicite des pirates informatiques pour empêcher les utilisateurs légitimes d'un service d'utiliser ce service." />
+<message msgid="DoS Enable DoS Prevention" msgstr="Activer la prévention DoS" />
+<message msgid="DoS Whole System Flood: SYN" msgstr="Inondation intégrale du système: SYN" />
+<message msgid="DoS Whole System Flood: FIN" msgstr="Inondation complète du système: FIN" />
+<message msgid="DoS Whole System Flood: UDP" msgstr="Inondation totale du système: UDP" />
+<message msgid="DoS Whole System Flood: ICMP" msgstr="Inondation intégrale du système: ICMP" />
+<message msgid="DoS Per-Source IP Flood: SYN" msgstr="Inondation IP par source: SYN" />
+<message msgid="DoS Per-Source IP Flood: FIN" msgstr="Inondation IP par source: FIN" />
+<message msgid="DoS Per-Source IP Flood: UDP" msgstr="Inondation IP par source: UDP" />
+<message msgid="DoS Per-Source IP Flood: ICMP" msgstr="Inondation IP par source: ICMP" />
+<message msgid="DoS Enable Source IP Blocking" msgstr="Activer le blocage IP de la source" />
+<message msgid="DoS TCP/UDP PortScan" msgstr="TCP / UDP PortScan" />
+<message msgid="DoS ICMP Smurf" msgstr="ICTP Smurf" />
+<message msgid="DoS IP Land" msgstr="IP Land" />
+<message msgid="DoS IP Spoof" msgstr="IP Spoof" />
+<message msgid="DoS IP TearDrop" msgstr="IP TearDrop" />
+<message msgid="DoS PingOfDeath" msgstr="PingOfDeath" />
+<message msgid="DoS TCP Scan" msgstr="Numérisation TCP" />
+<message msgid="DoS TCP SynWithDate" msgstr="TCP SynWithDate" />
+<message msgid="DoS UDP Bomb" msgstr="UDP Bomb" />
+<message msgid="DoS UDP EchoChargen" msgstr="UDP EchoChargen" />
+<message msgid="DoS Packets/Second" msgstr="Paquets / Deuxième" />
+<message msgid="DoS Block time(sec)" msgstr="Temps de blocage (sec)" />
+<message msgid="DoS Sensitivity" msgstr="Sensibilité" />
+<message msgid="syslog Title" msgstr="Journal du système" />
+<message msgid="syslog Note0" msgstr="Cette page peut être utilisée pour configurer le serveur de journal distant et afficher le journal du système." />
+<message msgid="syslog system log" msgstr="journal du système" />
+<message msgid="syslog Log Level" msgstr="Niveau de journal" />
+<message msgid="syslog All Level" msgstr="Tout le journal" />
+<message msgid="syslog WLAN Level" msgstr="WLAN log" />
+<message msgid="syslog DoS Level" msgstr="Journal de DoS" />
+<message msgid="syslog Remote Log Server" msgstr="Serveur de journal à distance" />
+<message msgid="errMsg Invalid IP address" msgstr="Adresse IP non valide" />
+<message msgid="Upgrade Title" msgstr="Mise à niveau du firmware" />
+<message msgid="Upgrade Note0" msgstr="" />
+<message msgid="Upgrade Firmware Version" msgstr="Version du firmware" />
+<message msgid="Upgrade Build Time" msgstr="emps de construction" />
+<message msgid="Upgrade Select File" msgstr="Choisir le dossier" />
+<message msgid="Upgrade reset" msgstr="Que ce soit pour restaurer la configuration par défaut" />
+<message msgid="Upgrade Note" msgstr="Remarque" />
+<message msgid="Upgrade Note1" msgstr="ne mettez pas l'appareil hors tension pendant le téléchargement, car il risque de bloquer le système!" />
+<message msgid="Upgrade Select File msg" msgstr="Choisissez le fichier image" />
+<message msgid="upload Title" msgstr="Enregistrer / Recharger les paramètres" />
+<message msgid="upload Note0" msgstr="Cette page vous permet d'enregistrer les paramètres actuels dans un fichier ou de recharger les paramètres du fichier précédemment enregistré. En outre, vous pouvez réinitialiser la configuration actuelle par défaut." />
+<message msgid="upload Save Settings to File" msgstr="Enregistrer les paramètres dans un fichier" />
+<message msgid="upload Load Settings from File" msgstr="Charger les paramètres à partir du fichier" />
+<message msgid="upload Reset Settings to Default" msgstr="Réinitialiser les paramètres par défaut" />
+<message msgid="upload Reset Settings Msg" msgstr="Voulez-vous réinitialiser les paramètres actuels par défaut?" />
+<message msgid="upload Load Settings msg" msgstr="Sélectionnez un fichier de configuration de sauvegarde" />
+<message msgid="man Reboot msg" msgstr="Redémarrage, veuillez patienter" />
+<message msgid="man Please wait" msgstr="S'il vous plaît, attendez..." />
+<message msgid="man ErrMsg restart system" msgstr="Voulez-vous redémarrer le système?" />
+<message msgid="Account Title" msgstr="Configuration du mot de passe" />
+<message msgid="Account Note0" msgstr="Cette page permet de configurer le compte pour accéder au serveur Web du point d'accès. Le nom d'utilisateur et le mot de passe vide désactiveront la protection." />
+<message msgid="Account User Name" msgstr="Nom d'utilisateur" />
+<message msgid="Account New Password" msgstr="nouveau mot de passe" />
+<message msgid="Account Confirmed Password" msgstr="Mot de passe confirmé" />
+<message msgid="Account errMsg User name empty" msgstr="Le compte d'utilisateur est vide." />
+<message msgid="Account errMsg password not matched" msgstr="Le mot de passe n'est pas adapté. Tapez le même mot de passe entre la boîte nouvelle et confirmée." />
+<message msgid="Account errMsg Password empty" msgstr="Le mot de passe ne peut pas être vide. Essayez-le à nouveau." />
+<message msgid="Account errMsg User name space" msgstr="Impossible d'accepter le caractère d'espace dans le nom d'utilisateur. Essayez-le à nouveau." />
+<message msgid="Account errMsg Password space" msgstr="Impossible d'accepter le caractère de l'espace dans le mot de passe. Essayez-le à nouveau." />
+<message msgid="man TrafficStatistics Title" msgstr="Statistiques de trafic" />
+<message msgid="man Traffic Loading, please wait ..." msgstr="Chargement, veuillez patienter ..." />
+<message msgid="man Traffic Monitor" msgstr="Moniteur de trafic" />
+<message msgid="man Traffic Graphic IP" msgstr="Graphique par IP" />
+<message msgid="man IP Address" msgstr="Adresse IP" />
+<message msgid="man MAC Address" msgstr="Adresse Mac" />
+<message msgid="man Upload" msgstr="Télécharger" />
+<message msgid="man Download" msgstr="Télécharger" />
+<message msgid="man FTP" msgstr="Protocole de transfer de fichier" />
+<message msgid="man SSH" msgstr="Protocole de connexion à distance SSH" />
+<message msgid="man Telnet" msgstr="Telnet" />
+<message msgid="man SMTP" msgstr="Protocole de transfert de courrier simple" />
+<message msgid="man DNS" msgstr="Système de noms de domaines" />
+<message msgid="man TFTP" msgstr="Protocole de transfert de fichiers triviale" />
+<message msgid="man HTTP" msgstr="WEB" />
+<message msgid="man POP3" msgstr="Protocole Post Office version 3" />
+<message msgid="man SNMP" msgstr="Protocole de gestion de réseau simple" />
+<message msgid="man HTTPS" msgstr="WEB de sécurité" />
+<message msgid="man CIFS" msgstr="Système de fichiers Internet commun" />
+<message msgid="man RADUIS" msgstr="RADUIS" />
+<message msgid="man SIP" msgstr="séance d'initiation au protocoles" />
+<message msgid="man ICMP" msgstr="ping" />
+<message msgid="man Other" msgstr="Autre" />
+<message msgid="errMsg Traffic no work in Bridge" msgstr="Cette fonction ne fonctionne pas en mode Pont" />
+<message msgid="system_cpu_title" msgstr="Fréquence du processeur:" />
+<message msgid="system_mem_total" msgstr="Mémoire système:" />
+<message msgid="system_mem_used" msgstr="Système utilisé:" />
+<message msgid="system_mem_free" msgstr="Système gratuit:" />
+<message msgid="system_mem_usage" msgstr="Utilisation de la mémoire:" />
+<message msgid="system_cpu_usage" msgstr="L'utilisation du processeur:" />
+<message msgid="dev_usb_not_find_tip" msgstr="Vous ne trouvez aucun périphérique USB!" />
+<message msgid="dev_usb_list_title" msgstr="Liste des périphériques" />
+<message msgid="dev_usb_usage" msgstr="Usage" />
+<message msgid="dev_usb_size" msgstr="Taille" />
+<message msgid="dev_usb_path" msgstr="Nom de l'appareil" />
+<message msgid="dev_usb_available" msgstr="Disponible" />
+<message msgid="dev_usb_used" msgstr="Utilisé" />
+<message msgid="dlna_name" msgstr="Nom du serveur DLNA" />
+<message msgid="dlna_name_error" msgstr="Erreur de nom de serveur DLNA" />
+<message msgid="samba_name" msgstr="Nom du serveur Samba" />
+<message msgid="samba_name_error" msgstr="Erreur de nom de serveur Samba" />
+<message msgid="system_wlan_txpower_title" msgstr="Mode TxPower" />
+<message msgid="wlan_txpower_JN" msgstr="Mode économie d'énergie" />
+<message msgid="wlan_txpower_BZ" msgstr="Mode standard" />
+<message msgid="wlan_txpower_CQ" msgstr="Super Mode" />
+</po>

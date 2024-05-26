@@ -1,0 +1,25 @@
+SQL:
+
+
+script table membre:
+CREATE TABLE `proprio` (
+  `proprio_id` int(11) NOT NULL AUTO_INCREMENT,
+  `proprio_pseudo` varchar(30) collate latin1_general_ci NOT NULL,
+  `proprio_mdp` varchar(32) collate latin1_general_ci NOT NULL,
+  `proprio_nom_prenom` varchar(250) collate latin1_general_ci NOT NULL,
+  `proprio_adresse` varchar(250) collate latin1_general_ci NOT NULL,
+  `proprio_tel` varchar(250) collate latin1_general_ci NOT NULL,
+  `proprio_email` varchar(250) collate latin1_general_ci NOT NULL,
+  `proprio_type` tinyint (3) DEFAULT 2,
+  `propriete_adresse` varchar(250) collate latin1_general_ci NOT NULL,  
+  `propriete_superficie` int(11) NOT NULL,
+  `propriete_pieces` int(11) NOT NULL,
+  `propriete_couchage` int(11) NOT NULL,
+  `propriete_garage` int(11) NOT NULL,
+  `proprio_saison` tinyint (3) DEFAULT 2,
+  `proprio_paiement` tinyint (4) DEFAULT 2,
+  `membre_inscrit` int(11) NOT NULL,
+  PRIMARY KEY  (`membre_id`)
+); 
+
+
